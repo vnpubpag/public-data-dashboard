@@ -1,0 +1,1447 @@
+[
+  {
+    "tag": "ai",
+    "slug": "ai",
+    "count": 5,
+    "articles": [
+      "2026/fpt-cong-bo-phuong-phap-luan-casan-giup-to-chuc-doanh-nghiep-tang-toc-chuyen-doi-ai",
+      "2026/google-ra-mat-omni-mo-hinh-co-the-sang-tao-moi-thu",
+      "2026/ai-ap-dao-chung-ket-cuoc-thi-khoi-nghiep-tai-chau-au",
+      "2026/dien-va-cuoc-dua-hut-von-cong-nghe-cao",
+      "2026/chatgpt-gemini-tro-thanh-nguon-traffic-moi-tren-google-analytics"
+    ]
+  },
+  {
+    "tag": "investment",
+    "slug": "investment",
+    "count": 5,
+    "articles": [
+      "2026/kich-ban-nao-cho-dien-gio-ngoai-khoi-viet-nam-van-hanh-truoc-nam-2030",
+      "2026/muc-tieu-dien-gio-ngoai-khoi-viet-nam-vao-nam-2030-nhin-tu-cuoc-hop-cua-chinh-phu-ngay-1952026",
+      "2026/bgrimm-power-va-pv-power-ky-thoa-thuan-hop-tac-phat-trien-lng-vung-ang-iii-hon-50000-ty-dong",
+      "2026/day-nhanh-co-che-dac-thu-cho-dien-gio-ngoai-khoi-va-cac-du-an-nang-luong-trong-diem",
+      "2026/co-dien-lanh-ree-muon-mua-lai-100percent-von-du-an-cum-nha-may-dien-gio-phu-cuong-1a-va-1b"
+    ]
+  },
+  {
+    "tag": "renewable energy",
+    "slug": "renewable-energy",
+    "count": 4,
+    "articles": [
+      "2026/kich-ban-nao-cho-dien-gio-ngoai-khoi-viet-nam-van-hanh-truoc-nam-2030",
+      "2026/khoi-cong-du-an-nha-may-dien-gio-soc-trang-4",
+      "2026/can-tho-dong-loat-khoi-cong-2-du-an-dien-gio-lon",
+      "2026/co-dien-lanh-ree-muon-mua-lai-100percent-von-du-an-cum-nha-may-dien-gio-phu-cuong-1a-va-1b"
+    ]
+  },
+  {
+    "tag": "lng",
+    "slug": "lng",
+    "count": 3,
+    "articles": [
+      "2026/loat-du-an-nang-luong-ty-usd-cho-bat-cong-tac",
+      "2026/bgrimm-power-va-pv-power-ky-thoa-thuan-hop-tac-phat-trien-lng-vung-ang-iii-hon-50000-ty-dong",
+      "2026/nganh-dau-khi-nang-luong-duoc-du-bao-buoc-vao-chu-ky-tang-truong-moi"
+    ]
+  },
+  {
+    "tag": "quy hoạch điện viii",
+    "slug": "quy-hoạch-điện-viii",
+    "count": 3,
+    "articles": [
+      "2026/loat-du-an-nang-luong-ty-usd-cho-bat-cong-tac",
+      "2026/khung-chinh-sach-cho-luu-tru-nang-luong-bess-goc-nhin-cua-petrovietnam",
+      "2026/go-nut-that-the-che-cho-dien-gio"
+    ]
+  },
+  {
+    "tag": "energy policy",
+    "slug": "energy-policy",
+    "count": 3,
+    "articles": [
+      "2026/kich-ban-nao-cho-dien-gio-ngoai-khoi-viet-nam-van-hanh-truoc-nam-2030",
+      "2026/muc-tieu-dien-gio-ngoai-khoi-viet-nam-vao-nam-2030-nhin-tu-cuoc-hop-cua-chinh-phu-ngay-1952026",
+      "2026/khoi-cong-du-an-nha-may-dien-gio-soc-trang-4"
+    ]
+  },
+  {
+    "tag": "vietnam",
+    "slug": "vietnam",
+    "count": 3,
+    "articles": [
+      "2026/evngenco1-lam-viec-voi-doi-tac-trung-quoc-ve-nang-cao-hieu-qua-van-hanh-to-may-dien",
+      "2026/chap-thuan-nha-dau-tu-du-an-dien-gio-co-tong-muc-dau-tu-hon-1800-ty-dong",
+      "2026/day-nhanh-co-che-dac-thu-cho-dien-gio-ngoai-khoi-va-cac-du-an-nang-luong-trong-diem"
+    ]
+  },
+  {
+    "tag": "wind power",
+    "slug": "wind-power",
+    "count": 3,
+    "articles": [
+      "2026/khoi-cong-du-an-nha-may-dien-gio-soc-trang-4",
+      "2026/can-tho-dong-loat-khoi-cong-2-du-an-dien-gio-lon",
+      "2026/co-dien-lanh-ree-muon-mua-lai-100percent-von-du-an-cum-nha-may-dien-gio-phu-cuong-1a-va-1b"
+    ]
+  },
+  {
+    "tag": "digital-transformation",
+    "slug": "digital-transformation",
+    "count": 2,
+    "articles": [
+      "2026/fpt-cong-bo-phuong-phap-luan-casan-giup-to-chuc-doanh-nghiep-tang-toc-chuyen-doi-ai",
+      "2026/evngenco1-lam-viec-voi-doi-tac-trung-quoc-ve-nang-cao-hieu-qua-van-hanh-to-may-dien"
+    ]
+  },
+  {
+    "tag": "điện gió ngoài khơi",
+    "slug": "điện-gió-ngoài-khơi",
+    "count": 2,
+    "articles": [
+      "2026/loat-du-an-nang-luong-ty-usd-cho-bat-cong-tac",
+      "2026/go-nut-that-the-che-cho-dien-gio"
+    ]
+  },
+  {
+    "tag": "đầu tư năng lượng",
+    "slug": "đầu-tư-năng-lượng",
+    "count": 2,
+    "articles": [
+      "2026/loat-du-an-nang-luong-ty-usd-cho-bat-cong-tac",
+      "2026/go-nut-that-the-che-cho-dien-gio"
+    ]
+  },
+  {
+    "tag": "offshore wind",
+    "slug": "offshore-wind",
+    "count": 2,
+    "articles": [
+      "2026/kich-ban-nao-cho-dien-gio-ngoai-khoi-viet-nam-van-hanh-truoc-nam-2030",
+      "2026/muc-tieu-dien-gio-ngoai-khoi-viet-nam-vao-nam-2030-nhin-tu-cuoc-hop-cua-chinh-phu-ngay-1952026"
+    ]
+  },
+  {
+    "tag": "vietnam energy",
+    "slug": "vietnam-energy",
+    "count": 2,
+    "articles": [
+      "2026/kich-ban-nao-cho-dien-gio-ngoai-khoi-viet-nam-van-hanh-truoc-nam-2030",
+      "2026/muc-tieu-dien-gio-ngoai-khoi-viet-nam-vao-nam-2030-nhin-tu-cuoc-hop-cua-chinh-phu-ngay-1952026"
+    ]
+  },
+  {
+    "tag": "gemini",
+    "slug": "gemini",
+    "count": 2,
+    "articles": [
+      "2026/google-ra-mat-omni-mo-hinh-co-the-sang-tao-moi-thu",
+      "2026/chatgpt-gemini-tro-thanh-nguon-traffic-moi-tren-google-analytics"
+    ]
+  },
+  {
+    "tag": "năng lượng tái tạo",
+    "slug": "năng-lượng-tái-tạo",
+    "count": 2,
+    "articles": [
+      "2026/khung-chinh-sach-cho-luu-tru-nang-luong-bess-goc-nhin-cua-petrovietnam",
+      "2026/day-nhanh-tien-do-cac-du-an-cong-trinh-dien-trong-diem-dam-bao-an-ninh-nang-luong"
+    ]
+  },
+  {
+    "tag": "an ninh năng lượng",
+    "slug": "an-ninh-năng-lượng",
+    "count": 2,
+    "articles": [
+      "2026/khung-chinh-sach-cho-luu-tru-nang-luong-bess-goc-nhin-cua-petrovietnam",
+      "2026/day-nhanh-tien-do-cac-du-an-cong-trinh-dien-trong-diem-dam-bao-an-ninh-nang-luong"
+    ]
+  },
+  {
+    "tag": "việt nam",
+    "slug": "việt-nam",
+    "count": 2,
+    "articles": [
+      "2026/khung-chinh-sach-cho-luu-tru-nang-luong-bess-goc-nhin-cua-petrovietnam",
+      "2026/thuc-day-chuyen-doi-so-va-toi-uu-nang-luong-huong-toi-mo-hinh-van-hanh-ben-vung-cho-nganh-nuoc-viet-nam"
+    ]
+  },
+  {
+    "tag": "chính sách năng lượng",
+    "slug": "chính-sách-năng-lượng",
+    "count": 2,
+    "articles": [
+      "2026/khung-chinh-sach-cho-luu-tru-nang-luong-bess-goc-nhin-cua-petrovietnam",
+      "2026/go-nut-that-the-che-cho-dien-gio"
+    ]
+  },
+  {
+    "tag": "can tho",
+    "slug": "can-tho",
+    "count": 2,
+    "articles": [
+      "2026/khoi-cong-du-an-nha-may-dien-gio-soc-trang-4",
+      "2026/can-tho-dong-loat-khoi-cong-2-du-an-dien-gio-lon"
+    ]
+  },
+  {
+    "tag": "gia",
+    "slug": "gia",
+    "count": 2,
+    "articles": [
+      "2026/doanh-nghiep-dau-tien-ky-hop-dong-mua-ban-dien-truc-tiep",
+      "2026/quan-ly-tai-nguyen-gio-xung-dot-hieu-ung-ton-that-gio-o-viet-nam-thach-thuc-phap-ly-va-giai-phap-ky-thuat"
+    ]
+  },
+  {
+    "tag": "kho",
+    "slug": "kho",
+    "count": 2,
+    "articles": [
+      "2026/doanh-nghiep-dau-tien-ky-hop-dong-mua-ban-dien-truc-tiep",
+      "2026/quan-ly-tai-nguyen-gio-xung-dot-hieu-ung-ton-that-gio-o-viet-nam-thach-thuc-phap-ly-va-giai-phap-ky-thuat"
+    ]
+  },
+  {
+    "tag": "nam",
+    "slug": "nam",
+    "count": 2,
+    "articles": [
+      "2026/doanh-nghiep-dau-tien-ky-hop-dong-mua-ban-dien-truc-tiep",
+      "2026/quan-ly-tai-nguyen-gio-xung-dot-hieu-ung-ton-that-gio-o-viet-nam-thach-thuc-phap-ly-va-giai-phap-ky-thuat"
+    ]
+  },
+  {
+    "tag": "energy",
+    "slug": "energy",
+    "count": 2,
+    "articles": [
+      "2026/bgrimm-power-va-pv-power-ky-thoa-thuan-hop-tac-phat-trien-lng-vung-ang-iii-hon-50000-ty-dong",
+      "2026/chap-thuan-nha-dau-tu-du-an-dien-gio-co-tong-muc-dau-tu-hon-1800-ty-dong"
+    ]
+  },
+  {
+    "tag": "foreign-investment",
+    "slug": "foreign-investment",
+    "count": 2,
+    "articles": [
+      "2026/chap-thuan-nha-dau-tu-du-an-dien-gio-co-tong-muc-dau-tu-hon-1800-ty-dong",
+      "2026/thoai-von-khoi-imexpharm-tap-doan-han-quoc-chot-loi-gap-doi"
+    ]
+  },
+  {
+    "tag": "casan",
+    "slug": "casan",
+    "count": 1,
+    "articles": [
+      "2026/fpt-cong-bo-phuong-phap-luan-casan-giup-to-chuc-doanh-nghiep-tang-toc-chuyen-doi-ai"
+    ]
+  },
+  {
+    "tag": "fpt",
+    "slug": "fpt",
+    "count": 1,
+    "articles": [
+      "2026/fpt-cong-bo-phuong-phap-luan-casan-giup-to-chuc-doanh-nghiep-tang-toc-chuyen-doi-ai"
+    ]
+  },
+  {
+    "tag": "ai-native",
+    "slug": "ai-native",
+    "count": 1,
+    "articles": [
+      "2026/fpt-cong-bo-phuong-phap-luan-casan-giup-to-chuc-doanh-nghiep-tang-toc-chuyen-doi-ai"
+    ]
+  },
+  {
+    "tag": "ai-governance",
+    "slug": "ai-governance",
+    "count": 1,
+    "articles": [
+      "2026/fpt-cong-bo-phuong-phap-luan-casan-giup-to-chuc-doanh-nghiep-tang-toc-chuyen-doi-ai"
+    ]
+  },
+  {
+    "tag": "ai-agents",
+    "slug": "ai-agents",
+    "count": 1,
+    "articles": [
+      "2026/fpt-cong-bo-phuong-phap-luan-casan-giup-to-chuc-doanh-nghiep-tang-toc-chuyen-doi-ai"
+    ]
+  },
+  {
+    "tag": "five-levels",
+    "slug": "five-levels",
+    "count": 1,
+    "articles": [
+      "2026/fpt-cong-bo-phuong-phap-luan-casan-giup-to-chuc-doanh-nghiep-tang-toc-chuyen-doi-ai"
+    ]
+  },
+  {
+    "tag": "điện mặt trời",
+    "slug": "điện-mặt-trời",
+    "count": 1,
+    "articles": [
+      "2026/loat-du-an-nang-luong-ty-usd-cho-bat-cong-tac"
+    ]
+  },
+  {
+    "tag": "hạ tầng lưới điện",
+    "slug": "hạ-tầng-lưới-điện",
+    "count": 1,
+    "articles": [
+      "2026/loat-du-an-nang-luong-ty-usd-cho-bat-cong-tac"
+    ]
+  },
+  {
+    "tag": "truyền tải điện",
+    "slug": "truyền-tải-điện",
+    "count": 1,
+    "articles": [
+      "2026/loat-du-an-nang-luong-ty-usd-cho-bat-cong-tac"
+    ]
+  },
+  {
+    "tag": "thị trường điện cạnh tranh",
+    "slug": "thị-trường-điện-cạnh-tranh",
+    "count": 1,
+    "articles": [
+      "2026/loat-du-an-nang-luong-ty-usd-cho-bat-cong-tac"
+    ]
+  },
+  {
+    "tag": "power planning",
+    "slug": "power-planning",
+    "count": 1,
+    "articles": [
+      "2026/kich-ban-nao-cho-dien-gio-ngoai-khoi-viet-nam-van-hanh-truoc-nam-2030"
+    ]
+  },
+  {
+    "tag": "supply chain",
+    "slug": "supply-chain",
+    "count": 1,
+    "articles": [
+      "2026/kich-ban-nao-cho-dien-gio-ngoai-khoi-viet-nam-van-hanh-truoc-nam-2030"
+    ]
+  },
+  {
+    "tag": "kinh tế đêm",
+    "slug": "kinh-tế-đêm",
+    "count": 1,
+    "articles": [
+      "2026/ha-noi-phat-trien-kinh-te-dem-don-bay-kich-thich-tieu-dung"
+    ]
+  },
+  {
+    "tag": "du lịch",
+    "slug": "du-lịch",
+    "count": 1,
+    "articles": [
+      "2026/ha-noi-phat-trien-kinh-te-dem-don-bay-kich-thich-tieu-dung"
+    ]
+  },
+  {
+    "tag": "chợ đêm",
+    "slug": "chợ-đêm",
+    "count": 1,
+    "articles": [
+      "2026/ha-noi-phat-trien-kinh-te-dem-don-bay-kich-thich-tieu-dung"
+    ]
+  },
+  {
+    "tag": "phố đi bộ",
+    "slug": "phố-đi-bộ",
+    "count": 1,
+    "articles": [
+      "2026/ha-noi-phat-trien-kinh-te-dem-don-bay-kich-thich-tieu-dung"
+    ]
+  },
+  {
+    "tag": "hà nội",
+    "slug": "hà-nội",
+    "count": 1,
+    "articles": [
+      "2026/ha-noi-phat-trien-kinh-te-dem-don-bay-kich-thich-tieu-dung"
+    ]
+  },
+  {
+    "tag": "trải nghiệm văn hóa đêm",
+    "slug": "trải-nghiệm-văn-hóa-đêm",
+    "count": 1,
+    "articles": [
+      "2026/ha-noi-phat-trien-kinh-te-dem-don-bay-kich-thich-tieu-dung"
+    ]
+  },
+  {
+    "tag": "phát triển kinh tế đêm",
+    "slug": "phát-triển-kinh-tế-đêm",
+    "count": 1,
+    "articles": [
+      "2026/ha-noi-phat-trien-kinh-te-dem-don-bay-kich-thich-tieu-dung"
+    ]
+  },
+  {
+    "tag": "quản lý đô thị",
+    "slug": "quản-lý-đô-thị",
+    "count": 1,
+    "articles": [
+      "2026/ha-noi-phat-trien-kinh-te-dem-don-bay-kich-thich-tieu-dung"
+    ]
+  },
+  {
+    "tag": "electricity",
+    "slug": "electricity",
+    "count": 1,
+    "articles": [
+      "2026/evngenco1-lam-viec-voi-doi-tac-trung-quoc-ve-nang-cao-hieu-qua-van-hanh-to-may-dien"
+    ]
+  },
+  {
+    "tag": "power-generation",
+    "slug": "power-generation",
+    "count": 1,
+    "articles": [
+      "2026/evngenco1-lam-viec-voi-doi-tac-trung-quoc-ve-nang-cao-hieu-qua-van-hanh-to-may-dien"
+    ]
+  },
+  {
+    "tag": "energy-technology",
+    "slug": "energy-technology",
+    "count": 1,
+    "articles": [
+      "2026/evngenco1-lam-viec-voi-doi-tac-trung-quoc-ve-nang-cao-hieu-qua-van-hanh-to-may-dien"
+    ]
+  },
+  {
+    "tag": "turbines",
+    "slug": "turbines",
+    "count": 1,
+    "articles": [
+      "2026/evngenco1-lam-viec-voi-doi-tac-trung-quoc-ve-nang-cao-hieu-qua-van-hanh-to-may-dien"
+    ]
+  },
+  {
+    "tag": "solar-power",
+    "slug": "solar-power",
+    "count": 1,
+    "articles": [
+      "2026/evngenco1-lam-viec-voi-doi-tac-trung-quoc-ve-nang-cao-hieu-qua-van-hanh-to-may-dien"
+    ]
+  },
+  {
+    "tag": "grid transmission",
+    "slug": "grid-transmission",
+    "count": 1,
+    "articles": [
+      "2026/muc-tieu-dien-gio-ngoai-khoi-viet-nam-vao-nam-2030-nhin-tu-cuoc-hop-cua-chinh-phu-ngay-1952026"
+    ]
+  },
+  {
+    "tag": "energy storage",
+    "slug": "energy-storage",
+    "count": 1,
+    "articles": [
+      "2026/muc-tieu-dien-gio-ngoai-khoi-viet-nam-vao-nam-2030-nhin-tu-cuoc-hop-cua-chinh-phu-ngay-1952026"
+    ]
+  },
+  {
+    "tag": "regulatory reform",
+    "slug": "regulatory-reform",
+    "count": 1,
+    "articles": [
+      "2026/muc-tieu-dien-gio-ngoai-khoi-viet-nam-vao-nam-2030-nhin-tu-cuoc-hop-cua-chinh-phu-ngay-1952026"
+    ]
+  },
+  {
+    "tag": "google",
+    "slug": "google",
+    "count": 1,
+    "articles": [
+      "2026/google-ra-mat-omni-mo-hinh-co-the-sang-tao-moi-thu"
+    ]
+  },
+  {
+    "tag": "omni",
+    "slug": "omni",
+    "count": 1,
+    "articles": [
+      "2026/google-ra-mat-omni-mo-hinh-co-the-sang-tao-moi-thu"
+    ]
+  },
+  {
+    "tag": "video",
+    "slug": "video",
+    "count": 1,
+    "articles": [
+      "2026/google-ra-mat-omni-mo-hinh-co-the-sang-tao-moi-thu"
+    ]
+  },
+  {
+    "tag": "ai-safety",
+    "slug": "ai-safety",
+    "count": 1,
+    "articles": [
+      "2026/google-ra-mat-omni-mo-hinh-co-the-sang-tao-moi-thu"
+    ]
+  },
+  {
+    "tag": "synthid",
+    "slug": "synthid",
+    "count": 1,
+    "articles": [
+      "2026/google-ra-mat-omni-mo-hinh-co-the-sang-tao-moi-thu"
+    ]
+  },
+  {
+    "tag": "bess",
+    "slug": "bess",
+    "count": 1,
+    "articles": [
+      "2026/khung-chinh-sach-cho-luu-tru-nang-luong-bess-goc-nhin-cua-petrovietnam"
+    ]
+  },
+  {
+    "tag": "lưu trữ năng lượng",
+    "slug": "lưu-trữ-năng-lượng",
+    "count": 1,
+    "articles": [
+      "2026/khung-chinh-sach-cho-luu-tru-nang-luong-bess-goc-nhin-cua-petrovietnam"
+    ]
+  },
+  {
+    "tag": "startups",
+    "slug": "startups",
+    "count": 1,
+    "articles": [
+      "2026/ai-ap-dao-chung-ket-cuoc-thi-khoi-nghiep-tai-chau-au"
+    ]
+  },
+  {
+    "tag": "europe",
+    "slug": "europe",
+    "count": 1,
+    "articles": [
+      "2026/ai-ap-dao-chung-ket-cuoc-thi-khoi-nghiep-tai-chau-au"
+    ]
+  },
+  {
+    "tag": "madrid",
+    "slug": "madrid",
+    "count": 1,
+    "articles": [
+      "2026/ai-ap-dao-chung-ket-cuoc-thi-khoi-nghiep-tai-chau-au"
+    ]
+  },
+  {
+    "tag": "south summit",
+    "slug": "south-summit",
+    "count": 1,
+    "articles": [
+      "2026/ai-ap-dao-chung-ket-cuoc-thi-khoi-nghiep-tai-chau-au"
+    ]
+  },
+  {
+    "tag": "startup-competition",
+    "slug": "startup-competition",
+    "count": 1,
+    "articles": [
+      "2026/ai-ap-dao-chung-ket-cuoc-thi-khoi-nghiep-tai-chau-au"
+    ]
+  },
+  {
+    "tag": "funding",
+    "slug": "funding",
+    "count": 1,
+    "articles": [
+      "2026/ai-ap-dao-chung-ket-cuoc-thi-khoi-nghiep-tai-chau-au"
+    ]
+  },
+  {
+    "tag": "patents",
+    "slug": "patents",
+    "count": 1,
+    "articles": [
+      "2026/ai-ap-dao-chung-ket-cuoc-thi-khoi-nghiep-tai-chau-au"
+    ]
+  },
+  {
+    "tag": "soc trang 4",
+    "slug": "soc-trang-4",
+    "count": 1,
+    "articles": [
+      "2026/khoi-cong-du-an-nha-may-dien-gio-soc-trang-4"
+    ]
+  },
+  {
+    "tag": "electricity grid",
+    "slug": "electricity-grid",
+    "count": 1,
+    "articles": [
+      "2026/khoi-cong-du-an-nha-may-dien-gio-soc-trang-4"
+    ]
+  },
+  {
+    "tag": "infrastructure investment",
+    "slug": "infrastructure-investment",
+    "count": 1,
+    "articles": [
+      "2026/khoi-cong-du-an-nha-may-dien-gio-soc-trang-4"
+    ]
+  },
+  {
+    "tag": "mua",
+    "slug": "mua",
+    "count": 1,
+    "articles": [
+      "2026/doanh-nghiep-dau-tien-ky-hop-dong-mua-ban-dien-truc-tiep"
+    ]
+  },
+  {
+    "tag": "samsung",
+    "slug": "samsung",
+    "count": 1,
+    "articles": [
+      "2026/doanh-nghiep-dau-tien-ky-hop-dong-mua-ban-dien-truc-tiep"
+    ]
+  },
+  {
+    "tag": "ttc",
+    "slug": "ttc",
+    "count": 1,
+    "articles": [
+      "2026/doanh-nghiep-dau-tien-ky-hop-dong-mua-ban-dien-truc-tiep"
+    ]
+  },
+  {
+    "tag": "dppa",
+    "slug": "dppa",
+    "count": 1,
+    "articles": [
+      "2026/doanh-nghiep-dau-tien-ky-hop-dong-mua-ban-dien-truc-tiep"
+    ]
+  },
+  {
+    "tag": "qua",
+    "slug": "qua",
+    "count": 1,
+    "articles": [
+      "2026/doanh-nghiep-dau-tien-ky-hop-dong-mua-ban-dien-truc-tiep"
+    ]
+  },
+  {
+    "tag": "thu",
+    "slug": "thu",
+    "count": 1,
+    "articles": [
+      "2026/quan-ly-tai-nguyen-gio-xung-dot-hieu-ung-ton-that-gio-o-viet-nam-thach-thuc-phap-ly-va-giai-phap-ky-thuat"
+    ]
+  },
+  {
+    "tag": "quy",
+    "slug": "quy",
+    "count": 1,
+    "articles": [
+      "2026/quan-ly-tai-nguyen-gio-xung-dot-hieu-ung-ton-that-gio-o-viet-nam-thach-thuc-phap-ly-va-giai-phap-ky-thuat"
+    ]
+  },
+  {
+    "tag": "thi",
+    "slug": "thi",
+    "count": 1,
+    "articles": [
+      "2026/quan-ly-tai-nguyen-gio-xung-dot-hieu-ung-ton-that-gio-o-viet-nam-thach-thuc-phap-ly-va-giai-phap-ky-thuat"
+    ]
+  },
+  {
+    "tag": "ngo",
+    "slug": "ngo",
+    "count": 1,
+    "articles": [
+      "2026/quan-ly-tai-nguyen-gio-xung-dot-hieu-ung-ton-that-gio-o-viet-nam-thach-thuc-phap-ly-va-giai-phap-ky-thuat"
+    ]
+  },
+  {
+    "tag": "nhi",
+    "slug": "nhi",
+    "count": 1,
+    "articles": [
+      "2026/quan-ly-tai-nguyen-gio-xung-dot-hieu-ung-ton-that-gio-o-viet-nam-thach-thuc-phap-ly-va-giai-phap-ky-thuat"
+    ]
+  },
+  {
+    "tag": "nền kinh tế giấc ngủ",
+    "slug": "nền-kinh-tế-giấc-ngủ",
+    "count": 1,
+    "articles": [
+      "2026/kinh-te-giac-ngu-nganh-cong-nghiep-moi-cua-thoi-dai-ket-noi-so"
+    ]
+  },
+  {
+    "tag": "giấc ngủ và công nghệ",
+    "slug": "giấc-ngủ-và-công-nghệ",
+    "count": 1,
+    "articles": [
+      "2026/kinh-te-giac-ngu-nganh-cong-nghiep-moi-cua-thoi-dai-ket-noi-so"
+    ]
+  },
+  {
+    "tag": "thiết bị theo dõi giấc ngủ",
+    "slug": "thiết-bị-theo-dõi-giấc-ngủ",
+    "count": 1,
+    "articles": [
+      "2026/kinh-te-giac-ngu-nganh-cong-nghiep-moi-cua-thoi-dai-ket-noi-so"
+    ]
+  },
+  {
+    "tag": "chăn trọng lực",
+    "slug": "chăn-trọng-lực",
+    "count": 1,
+    "articles": [
+      "2026/kinh-te-giac-ngu-nganh-cong-nghiep-moi-cua-thoi-dai-ket-noi-so"
+    ]
+  },
+  {
+    "tag": "nhẫn thông minh",
+    "slug": "nhẫn-thông-minh",
+    "count": 1,
+    "articles": [
+      "2026/kinh-te-giac-ngu-nganh-cong-nghiep-moi-cua-thoi-dai-ket-noi-so"
+    ]
+  },
+  {
+    "tag": "melatonin",
+    "slug": "melatonin",
+    "count": 1,
+    "articles": [
+      "2026/kinh-te-giac-ngu-nganh-cong-nghiep-moi-cua-thoi-dai-ket-noi-so"
+    ]
+  },
+  {
+    "tag": "indonesia",
+    "slug": "indonesia",
+    "count": 1,
+    "articles": [
+      "2026/kinh-te-giac-ngu-nganh-cong-nghiep-moi-cua-thoi-dai-ket-noi-so"
+    ]
+  },
+  {
+    "tag": "châu á - thái bình dương",
+    "slug": "châu-á---thái-bình-dương",
+    "count": 1,
+    "articles": [
+      "2026/kinh-te-giac-ngu-nganh-cong-nghiep-moi-cua-thoi-dai-ket-noi-so"
+    ]
+  },
+  {
+    "tag": "el-nino",
+    "slug": "el-nino",
+    "count": 1,
+    "articles": [
+      "2026/du-bao-el-nino-gay-nang-nong-ky-luc-mua-lu-cuc-doan-tu-nay-den-cuoi-nam"
+    ]
+  },
+  {
+    "tag": "thoi-tiet",
+    "slug": "thoi-tiet",
+    "count": 1,
+    "articles": [
+      "2026/du-bao-el-nino-gay-nang-nong-ky-luc-mua-lu-cuc-doan-tu-nay-den-cuoi-nam"
+    ]
+  },
+  {
+    "tag": "bien-dong",
+    "slug": "bien-dong",
+    "count": 1,
+    "articles": [
+      "2026/du-bao-el-nino-gay-nang-nong-ky-luc-mua-lu-cuc-doan-tu-nay-den-cuoi-nam"
+    ]
+  },
+  {
+    "tag": "ha-nan",
+    "slug": "ha-nan",
+    "count": 1,
+    "articles": [
+      "2026/du-bao-el-nino-gay-nang-nong-ky-luc-mua-lu-cuc-doan-tu-nay-den-cuoi-nam"
+    ]
+  },
+  {
+    "tag": "mua-cuc-doan",
+    "slug": "mua-cuc-doan",
+    "count": 1,
+    "articles": [
+      "2026/du-bao-el-nino-gay-nang-nong-ky-luc-mua-lu-cuc-doan-tu-nay-den-cuoi-nam"
+    ]
+  },
+  {
+    "tag": "lu-quet-sat-lo",
+    "slug": "lu-quet-sat-lo",
+    "count": 1,
+    "articles": [
+      "2026/du-bao-el-nino-gay-nang-nong-ky-luc-mua-lu-cuc-doan-tu-nay-den-cuoi-nam"
+    ]
+  },
+  {
+    "tag": "ngap-ung-do-thi",
+    "slug": "ngap-ung-do-thi",
+    "count": 1,
+    "articles": [
+      "2026/du-bao-el-nino-gay-nang-nong-ky-luc-mua-lu-cuc-doan-tu-nay-den-cuoi-nam"
+    ]
+  },
+  {
+    "tag": "vietnam-thailand-cooperation",
+    "slug": "vietnam-thailand-cooperation",
+    "count": 1,
+    "articles": [
+      "2026/bgrimm-power-va-pv-power-ky-thoa-thuan-hop-tac-phat-trien-lng-vung-ang-iii-hon-50000-ty-dong"
+    ]
+  },
+  {
+    "tag": "ha-tinh",
+    "slug": "ha-tinh",
+    "count": 1,
+    "articles": [
+      "2026/bgrimm-power-va-pv-power-ky-thoa-thuan-hop-tac-phat-trien-lng-vung-ang-iii-hon-50000-ty-dong"
+    ]
+  },
+  {
+    "tag": "infrastructure",
+    "slug": "infrastructure",
+    "count": 1,
+    "articles": [
+      "2026/bgrimm-power-va-pv-power-ky-thoa-thuan-hop-tac-phat-trien-lng-vung-ang-iii-hon-50000-ty-dong"
+    ]
+  },
+  {
+    "tag": "sustainable-development",
+    "slug": "sustainable-development",
+    "count": 1,
+    "articles": [
+      "2026/bgrimm-power-va-pv-power-ky-thoa-thuan-hop-tac-phat-trien-lng-vung-ang-iii-hon-50000-ty-dong"
+    ]
+  },
+  {
+    "tag": "energy-security",
+    "slug": "energy-security",
+    "count": 1,
+    "articles": [
+      "2026/bgrimm-power-va-pv-power-ky-thoa-thuan-hop-tac-phat-trien-lng-vung-ang-iii-hon-50000-ty-dong"
+    ]
+  },
+  {
+    "tag": "điện năng",
+    "slug": "điện-năng",
+    "count": 1,
+    "articles": [
+      "2026/dien-va-cuoc-dua-hut-von-cong-nghe-cao"
+    ]
+  },
+  {
+    "tag": "hạ tầng số",
+    "slug": "hạ-tầng-số",
+    "count": 1,
+    "articles": [
+      "2026/dien-va-cuoc-dua-hut-von-cong-nghe-cao"
+    ]
+  },
+  {
+    "tag": "trung tâm dữ liệu",
+    "slug": "trung-tâm-dữ-liệu",
+    "count": 1,
+    "articles": [
+      "2026/dien-va-cuoc-dua-hut-von-cong-nghe-cao"
+    ]
+  },
+  {
+    "tag": "điện tử và bán dẫn",
+    "slug": "điện-tử-và-bán-dẫn",
+    "count": 1,
+    "articles": [
+      "2026/dien-va-cuoc-dua-hut-von-cong-nghe-cao"
+    ]
+  },
+  {
+    "tag": "công nghiệp công nghệ cao",
+    "slug": "công-nghiệp-công-nghệ-cao",
+    "count": 1,
+    "articles": [
+      "2026/dien-va-cuoc-dua-hut-von-cong-nghe-cao"
+    ]
+  },
+  {
+    "tag": "logistics",
+    "slug": "logistics",
+    "count": 1,
+    "articles": [
+      "2026/dien-va-cuoc-dua-hut-von-cong-nghe-cao"
+    ]
+  },
+  {
+    "tag": "năng lượng",
+    "slug": "năng-lượng",
+    "count": 1,
+    "articles": [
+      "2026/day-nhanh-tien-do-cac-du-an-cong-trinh-dien-trong-diem-dam-bao-an-ninh-nang-luong"
+    ]
+  },
+  {
+    "tag": "điện lực",
+    "slug": "điện-lực",
+    "count": 1,
+    "articles": [
+      "2026/day-nhanh-tien-do-cac-du-an-cong-trinh-dien-trong-diem-dam-bao-an-ninh-nang-luong"
+    ]
+  },
+  {
+    "tag": "quy hoạch điện 8 điều chỉnh",
+    "slug": "quy-hoạch-điện-8-điều-chỉnh",
+    "count": 1,
+    "articles": [
+      "2026/day-nhanh-tien-do-cac-du-an-cong-trinh-dien-trong-diem-dam-bao-an-ninh-nang-luong"
+    ]
+  },
+  {
+    "tag": "dự án điện",
+    "slug": "dự-án-điện",
+    "count": 1,
+    "articles": [
+      "2026/day-nhanh-tien-do-cac-du-an-cong-trinh-dien-trong-diem-dam-bao-an-ninh-nang-luong"
+    ]
+  },
+  {
+    "tag": "lưới điện",
+    "slug": "lưới-điện",
+    "count": 1,
+    "articles": [
+      "2026/day-nhanh-tien-do-cac-du-an-cong-trinh-dien-trong-diem-dam-bao-an-ninh-nang-luong"
+    ]
+  },
+  {
+    "tag": "cơ chế đặc thù",
+    "slug": "cơ-chế-đặc-thù",
+    "count": 1,
+    "articles": [
+      "2026/go-nut-that-the-che-cho-dien-gio"
+    ]
+  },
+  {
+    "tag": "hạ tầng truyền tải",
+    "slug": "hạ-tầng-truyền-tải",
+    "count": 1,
+    "articles": [
+      "2026/go-nut-that-the-che-cho-dien-gio"
+    ]
+  },
+  {
+    "tag": "apac wind energy summit",
+    "slug": "apac-wind-energy-summit",
+    "count": 1,
+    "articles": [
+      "2026/go-nut-that-the-che-cho-dien-gio"
+    ]
+  },
+  {
+    "tag": "seo",
+    "slug": "seo",
+    "count": 1,
+    "articles": [
+      "2026/chatgpt-gemini-tro-thanh-nguon-traffic-moi-tren-google-analytics"
+    ]
+  },
+  {
+    "tag": "ga4",
+    "slug": "ga4",
+    "count": 1,
+    "articles": [
+      "2026/chatgpt-gemini-tro-thanh-nguon-traffic-moi-tren-google-analytics"
+    ]
+  },
+  {
+    "tag": "ai-seo",
+    "slug": "ai-seo",
+    "count": 1,
+    "articles": [
+      "2026/chatgpt-gemini-tro-thanh-nguon-traffic-moi-tren-google-analytics"
+    ]
+  },
+  {
+    "tag": "geo",
+    "slug": "geo",
+    "count": 1,
+    "articles": [
+      "2026/chatgpt-gemini-tro-thanh-nguon-traffic-moi-tren-google-analytics"
+    ]
+  },
+  {
+    "tag": "chatgpt",
+    "slug": "chatgpt",
+    "count": 1,
+    "articles": [
+      "2026/chatgpt-gemini-tro-thanh-nguon-traffic-moi-tren-google-analytics"
+    ]
+  },
+  {
+    "tag": "claude",
+    "slug": "claude",
+    "count": 1,
+    "articles": [
+      "2026/chatgpt-gemini-tro-thanh-nguon-traffic-moi-tren-google-analytics"
+    ]
+  },
+  {
+    "tag": "chuyển đổi số",
+    "slug": "chuyển-đổi-số",
+    "count": 1,
+    "articles": [
+      "2026/thuc-day-chuyen-doi-so-va-toi-uu-nang-luong-huong-toi-mo-hinh-van-hanh-ben-vung-cho-nganh-nuoc-viet-nam"
+    ]
+  },
+  {
+    "tag": "ngành nước",
+    "slug": "ngành-nước",
+    "count": 1,
+    "articles": [
+      "2026/thuc-day-chuyen-doi-so-va-toi-uu-nang-luong-huong-toi-mo-hinh-van-hanh-ben-vung-cho-nganh-nuoc-viet-nam"
+    ]
+  },
+  {
+    "tag": "an ninh mạng",
+    "slug": "an-ninh-mạng",
+    "count": 1,
+    "articles": [
+      "2026/thuc-day-chuyen-doi-so-va-toi-uu-nang-luong-huong-toi-mo-hinh-van-hanh-ben-vung-cho-nganh-nuoc-viet-nam"
+    ]
+  },
+  {
+    "tag": "tối ưu năng lượng",
+    "slug": "tối-ưu-năng-lượng",
+    "count": 1,
+    "articles": [
+      "2026/thuc-day-chuyen-doi-so-va-toi-uu-nang-luong-huong-toi-mo-hinh-van-hanh-ben-vung-cho-nganh-nuoc-viet-nam"
+    ]
+  },
+  {
+    "tag": "dữ liệu tập trung",
+    "slug": "dữ-liệu-tập-trung",
+    "count": 1,
+    "articles": [
+      "2026/thuc-day-chuyen-doi-so-va-toi-uu-nang-luong-huong-toi-mo-hinh-van-hanh-ben-vung-cho-nganh-nuoc-viet-nam"
+    ]
+  },
+  {
+    "tag": "kiến trúc số",
+    "slug": "kiến-trúc-số",
+    "count": 1,
+    "articles": [
+      "2026/thuc-day-chuyen-doi-so-va-toi-uu-nang-luong-huong-toi-mo-hinh-van-hanh-ben-vung-cho-nganh-nuoc-viet-nam"
+    ]
+  },
+  {
+    "tag": "open api",
+    "slug": "open-api",
+    "count": 1,
+    "articles": [
+      "2026/thuc-day-chuyen-doi-so-va-toi-uu-nang-luong-huong-toi-mo-hinh-van-hanh-ben-vung-cho-nganh-nuoc-viet-nam"
+    ]
+  },
+  {
+    "tag": "mango",
+    "slug": "mango",
+    "count": 1,
+    "articles": [
+      "2026/chap-thuan-nha-dau-tu-du-an-dien-gio-co-tong-muc-dau-tu-hon-1800-ty-dong"
+    ]
+  },
+  {
+    "tag": "agriculture",
+    "slug": "agriculture",
+    "count": 1,
+    "articles": [
+      "2026/chap-thuan-nha-dau-tu-du-an-dien-gio-co-tong-muc-dau-tu-hon-1800-ty-dong"
+    ]
+  },
+  {
+    "tag": "economy",
+    "slug": "economy",
+    "count": 1,
+    "articles": [
+      "2026/chap-thuan-nha-dau-tu-du-an-dien-gio-co-tong-muc-dau-tu-hon-1800-ty-dong"
+    ]
+  },
+  {
+    "tag": "trade",
+    "slug": "trade",
+    "count": 1,
+    "articles": [
+      "2026/chap-thuan-nha-dau-tu-du-an-dien-gio-co-tong-muc-dau-tu-hon-1800-ty-dong"
+    ]
+  },
+  {
+    "tag": "manufacturing",
+    "slug": "manufacturing",
+    "count": 1,
+    "articles": [
+      "2026/chap-thuan-nha-dau-tu-du-an-dien-gio-co-tong-muc-dau-tu-hon-1800-ty-dong"
+    ]
+  },
+  {
+    "tag": "energy_policy",
+    "slug": "energy_policy",
+    "count": 1,
+    "articles": [
+      "2026/day-nhanh-co-che-dac-thu-cho-dien-gio-ngoai-khoi-va-cac-du-an-nang-luong-trong-diem"
+    ]
+  },
+  {
+    "tag": "offshore_wind",
+    "slug": "offshore_wind",
+    "count": 1,
+    "articles": [
+      "2026/day-nhanh-co-che-dac-thu-cho-dien-gio-ngoai-khoi-va-cac-du-an-nang-luong-trong-diem"
+    ]
+  },
+  {
+    "tag": "government",
+    "slug": "government",
+    "count": 1,
+    "articles": [
+      "2026/day-nhanh-co-che-dac-thu-cho-dien-gio-ngoai-khoi-va-cac-du-an-nang-luong-trong-diem"
+    ]
+  },
+  {
+    "tag": "regulation",
+    "slug": "regulation",
+    "count": 1,
+    "articles": [
+      "2026/day-nhanh-co-che-dac-thu-cho-dien-gio-ngoai-khoi-va-cac-du-an-nang-luong-trong-diem"
+    ]
+  },
+  {
+    "tag": "electricity_grid",
+    "slug": "electricity_grid",
+    "count": 1,
+    "articles": [
+      "2026/day-nhanh-co-che-dac-thu-cho-dien-gio-ngoai-khoi-va-cac-du-an-nang-luong-trong-diem"
+    ]
+  },
+  {
+    "tag": "energy_security",
+    "slug": "energy_security",
+    "count": 1,
+    "articles": [
+      "2026/day-nhanh-co-che-dac-thu-cho-dien-gio-ngoai-khoi-va-cac-du-an-nang-luong-trong-diem"
+    ]
+  },
+  {
+    "tag": "dong-bang-song-cuu-long",
+    "slug": "dong-bang-song-cuu-long",
+    "count": 1,
+    "articles": [
+      "2026/can-tho-dong-loat-khoi-cong-2-du-an-dien-gio-lon"
+    ]
+  },
+  {
+    "tag": "soc-trang-4",
+    "slug": "soc-trang-4",
+    "count": 1,
+    "articles": [
+      "2026/can-tho-dong-loat-khoi-cong-2-du-an-dien-gio-lon"
+    ]
+  },
+  {
+    "tag": "phu-cuong",
+    "slug": "phu-cuong",
+    "count": 1,
+    "articles": [
+      "2026/can-tho-dong-loat-khoi-cong-2-du-an-dien-gio-lon"
+    ]
+  },
+  {
+    "tag": "energy infrastructure",
+    "slug": "energy-infrastructure",
+    "count": 1,
+    "articles": [
+      "2026/can-tho-dong-loat-khoi-cong-2-du-an-dien-gio-lon"
+    ]
+  },
+  {
+    "tag": "green growth",
+    "slug": "green-growth",
+    "count": 1,
+    "articles": [
+      "2026/can-tho-dong-loat-khoi-cong-2-du-an-dien-gio-lon"
+    ]
+  },
+  {
+    "tag": "oil-prices",
+    "slug": "oil-prices",
+    "count": 1,
+    "articles": [
+      "2026/doc-nhanh-19-5-tap-doan-ti-phu-tran-dinh-long-tinh-tham-gia-phan-phoi-dien-ban-o-to"
+    ]
+  },
+  {
+    "tag": "gold",
+    "slug": "gold",
+    "count": 1,
+    "articles": [
+      "2026/doc-nhanh-19-5-tap-doan-ti-phu-tran-dinh-long-tinh-tham-gia-phan-phoi-dien-ban-o-to"
+    ]
+  },
+  {
+    "tag": "usd",
+    "slug": "usd",
+    "count": 1,
+    "articles": [
+      "2026/doc-nhanh-19-5-tap-doan-ti-phu-tran-dinh-long-tinh-tham-gia-phan-phoi-dien-ban-o-to"
+    ]
+  },
+  {
+    "tag": "stock-market",
+    "slug": "stock-market",
+    "count": 1,
+    "articles": [
+      "2026/doc-nhanh-19-5-tap-doan-ti-phu-tran-dinh-long-tinh-tham-gia-phan-phoi-dien-ban-o-to"
+    ]
+  },
+  {
+    "tag": "vietnam-market",
+    "slug": "vietnam-market",
+    "count": 1,
+    "articles": [
+      "2026/doc-nhanh-19-5-tap-doan-ti-phu-tran-dinh-long-tinh-tham-gia-phan-phoi-dien-ban-o-to"
+    ]
+  },
+  {
+    "tag": "state-owned-enterprises",
+    "slug": "state-owned-enterprises",
+    "count": 1,
+    "articles": [
+      "2026/doc-nhanh-19-5-tap-doan-ti-phu-tran-dinh-long-tinh-tham-gia-phan-phoi-dien-ban-o-to"
+    ]
+  },
+  {
+    "tag": "corporate-news",
+    "slug": "corporate-news",
+    "count": 1,
+    "articles": [
+      "2026/doc-nhanh-19-5-tap-doan-ti-phu-tran-dinh-long-tinh-tham-gia-phan-phoi-dien-ban-o-to"
+    ]
+  },
+  {
+    "tag": "energy-sector",
+    "slug": "energy-sector",
+    "count": 1,
+    "articles": [
+      "2026/doc-nhanh-19-5-tap-doan-ti-phu-tran-dinh-long-tinh-tham-gia-phan-phoi-dien-ban-o-to"
+    ]
+  },
+  {
+    "tag": "sk-group",
+    "slug": "sk-group",
+    "count": 1,
+    "articles": [
+      "2026/thoai-von-khoi-imexpharm-tap-doan-han-quoc-chot-loi-gap-doi"
+    ]
+  },
+  {
+    "tag": "imexpharm",
+    "slug": "imexpharm",
+    "count": 1,
+    "articles": [
+      "2026/thoai-von-khoi-imexpharm-tap-doan-han-quoc-chot-loi-gap-doi"
+    ]
+  },
+  {
+    "tag": "vn-pharma",
+    "slug": "vn-pharma",
+    "count": 1,
+    "articles": [
+      "2026/thoai-von-khoi-imexpharm-tap-doan-han-quoc-chot-loi-gap-doi"
+    ]
+  },
+  {
+    "tag": "mergers-and-acquisitions",
+    "slug": "mergers-and-acquisitions",
+    "count": 1,
+    "articles": [
+      "2026/thoai-von-khoi-imexpharm-tap-doan-han-quoc-chot-loi-gap-doi"
+    ]
+  },
+  {
+    "tag": "eu-gmp",
+    "slug": "eu-gmp",
+    "count": 1,
+    "articles": [
+      "2026/thoai-von-khoi-imexpharm-tap-doan-han-quoc-chot-loi-gap-doi"
+    ]
+  },
+  {
+    "tag": "china",
+    "slug": "china",
+    "count": 1,
+    "articles": [
+      "2026/thoai-von-khoi-imexpharm-tap-doan-han-quoc-chot-loi-gap-doi"
+    ]
+  },
+  {
+    "tag": "drone",
+    "slug": "drone",
+    "count": 1,
+    "articles": [
+      "2026/nga-phat-trien-andquotcuc-pin-bay-lo-lungandquot-mo-ra-tien-le-chua-tung-co-trong-nganh-nuoi-song-hang-ty-nguoi"
+    ]
+  },
+  {
+    "tag": "nông nghiệp 4.0",
+    "slug": "nông-nghiệp-4.0",
+    "count": 1,
+    "articles": [
+      "2026/nga-phat-trien-andquotcuc-pin-bay-lo-lungandquot-mo-ra-tien-le-chua-tung-co-trong-nganh-nuoi-song-hang-ty-nguoi"
+    ]
+  },
+  {
+    "tag": "pin graphite",
+    "slug": "pin-graphite",
+    "count": 1,
+    "articles": [
+      "2026/nga-phat-trien-andquotcuc-pin-bay-lo-lungandquot-mo-ra-tien-le-chua-tung-co-trong-nganh-nuoi-song-hang-ty-nguoi"
+    ]
+  },
+  {
+    "tag": "năng lượng nhiệt",
+    "slug": "năng-lượng-nhiệt",
+    "count": 1,
+    "articles": [
+      "2026/nga-phat-trien-andquotcuc-pin-bay-lo-lungandquot-mo-ra-tien-le-chua-tung-co-trong-nganh-nuoi-song-hang-ty-nguoi"
+    ]
+  },
+  {
+    "tag": "sạc không dây",
+    "slug": "sạc-không-dây",
+    "count": 1,
+    "articles": [
+      "2026/nga-phat-trien-andquotcuc-pin-bay-lo-lungandquot-mo-ra-tien-le-chua-tung-co-trong-nganh-nuoi-song-hang-ty-nguoi"
+    ]
+  },
+  {
+    "tag": "laser hồng ngoại",
+    "slug": "laser-hồng-ngoại",
+    "count": 1,
+    "articles": [
+      "2026/nga-phat-trien-andquotcuc-pin-bay-lo-lungandquot-mo-ra-tien-le-chua-tung-co-trong-nganh-nuoi-song-hang-ty-nguoi"
+    ]
+  },
+  {
+    "tag": "công nghệ bền vững",
+    "slug": "công-nghệ-bền-vững",
+    "count": 1,
+    "articles": [
+      "2026/nga-phat-trien-andquotcuc-pin-bay-lo-lungandquot-mo-ra-tien-le-chua-tung-co-trong-nganh-nuoi-song-hang-ty-nguoi"
+    ]
+  },
+  {
+    "tag": "thời gian bay",
+    "slug": "thời-gian-bay",
+    "count": 1,
+    "articles": [
+      "2026/nga-phat-trien-andquotcuc-pin-bay-lo-lungandquot-mo-ra-tien-le-chua-tung-co-trong-nganh-nuoi-song-hang-ty-nguoi"
+    ]
+  },
+  {
+    "tag": "ree energy",
+    "slug": "ree-energy",
+    "count": 1,
+    "articles": [
+      "2026/co-dien-lanh-ree-muon-mua-lai-100percent-von-du-an-cum-nha-may-dien-gio-phu-cuong-1a-va-1b"
+    ]
+  },
+  {
+    "tag": "acquisition",
+    "slug": "acquisition",
+    "count": 1,
+    "articles": [
+      "2026/co-dien-lanh-ree-muon-mua-lai-100percent-von-du-an-cum-nha-may-dien-gio-phu-cuong-1a-va-1b"
+    ]
+  },
+  {
+    "tag": "can tho city",
+    "slug": "can-tho-city",
+    "count": 1,
+    "articles": [
+      "2026/co-dien-lanh-ree-muon-mua-lai-100percent-von-du-an-cum-nha-may-dien-gio-phu-cuong-1a-va-1b"
+    ]
+  },
+  {
+    "tag": "vinh phuoc ward",
+    "slug": "vinh-phuoc-ward",
+    "count": 1,
+    "articles": [
+      "2026/co-dien-lanh-ree-muon-mua-lai-100percent-von-du-an-cum-nha-may-dien-gio-phu-cuong-1a-va-1b"
+    ]
+  },
+  {
+    "tag": "phu cuong wind",
+    "slug": "phu-cuong-wind",
+    "count": 1,
+    "articles": [
+      "2026/co-dien-lanh-ree-muon-mua-lai-100percent-von-du-an-cum-nha-may-dien-gio-phu-cuong-1a-va-1b"
+    ]
+  },
+  {
+    "tag": "oil-and-gas",
+    "slug": "oil-and-gas",
+    "count": 1,
+    "articles": [
+      "2026/nganh-dau-khi-nang-luong-duoc-du-bao-buoc-vao-chu-ky-tang-truong-moi"
+    ]
+  },
+  {
+    "tag": "oil-price",
+    "slug": "oil-price",
+    "count": 1,
+    "articles": [
+      "2026/nganh-dau-khi-nang-luong-duoc-du-bao-buoc-vao-chu-ky-tang-truong-moi"
+    ]
+  },
+  {
+    "tag": "opec+",
+    "slug": "opec+",
+    "count": 1,
+    "articles": [
+      "2026/nganh-dau-khi-nang-luong-duoc-du-bao-buoc-vao-chu-ky-tang-truong-moi"
+    ]
+  },
+  {
+    "tag": "petrovietnam",
+    "slug": "petrovietnam",
+    "count": 1,
+    "articles": [
+      "2026/nganh-dau-khi-nang-luong-duoc-du-bao-buoc-vao-chu-ky-tang-truong-moi"
+    ]
+  },
+  {
+    "tag": "vietnam-energy",
+    "slug": "vietnam-energy",
+    "count": 1,
+    "articles": [
+      "2026/nganh-dau-khi-nang-luong-duoc-du-bao-buoc-vao-chu-ky-tang-truong-moi"
+    ]
+  },
+  {
+    "tag": "energy-transition",
+    "slug": "energy-transition",
+    "count": 1,
+    "articles": [
+      "2026/nganh-dau-khi-nang-luong-duoc-du-bao-buoc-vao-chu-ky-tang-truong-moi"
+    ]
+  },
+  {
+    "tag": "southeast-asia",
+    "slug": "southeast-asia",
+    "count": 1,
+    "articles": [
+      "2026/nganh-dau-khi-nang-luong-duoc-du-bao-buoc-vao-chu-ky-tang-truong-moi"
+    ]
+  }
+]
