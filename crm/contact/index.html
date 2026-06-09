@@ -1,0 +1,220 @@
+<!DOCTYPE html><html lang="en"> <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Contacts - CRM</title><meta name="description" content="Manage contact list"><meta property="og:title" content="Contacts - CRM"><meta property="og:description" content="Manage contact list"><meta name="robots" content="index, follow"><link rel="canonical" href="https://vnpubpag.github.io/public-data-dashboard/crm/contact/"><link rel="icon" type="image/svg+xml" href="/favicon.svg"><link rel="stylesheet" href="/public-data-dashboard/_astro/Navbar.CQZ4S1La.css">
+<link rel="stylesheet" href="/public-data-dashboard/_astro/index.8dMuIo4R.css">
+<link rel="stylesheet" href="/public-data-dashboard/_astro/CrmLayout.iBz2P6r_.css">
+<style>.import-modal{max-width:500px}.import-dropzone{border:2px dashed var(--color-border);border-radius:var(--rounded);padding:var(--space-2xl) var(--space-lg);text-align:center;transition:border-color var(--transition-normal),background var(--transition-normal);cursor:pointer}.import-dropzone.is-dragover{border-color:var(--color-primary-container);background:var(--color-surface-container-low)}.import-dropzone-icon{color:var(--color-label);margin-bottom:var(--space-sm);display:block}.import-dropzone-text{font-size:var(--text-body-sm-size);color:var(--color-on-surface);margin-bottom:var(--space-xs)}.import-dropzone-hint{font-size:var(--text-label-sm-size);color:var(--color-label);margin-bottom:var(--space-sm)}.import-file-label{cursor:pointer}.import-file-info{display:flex;align-items:center;gap:var(--space-sm);padding:var(--space-md);background:var(--color-surface-container-low);border-radius:var(--rounded);margin-bottom:var(--space-md)}.import-file-info-icon{color:var(--color-primary-container);flex-shrink:0}.import-file-name{font-size:var(--text-body-sm-size);font-weight:500}.import-file-meta{font-size:var(--text-label-sm-size);color:var(--color-label)}.import-overwrite-row{margin-bottom:var(--space-lg)}.import-actions{display:flex;gap:var(--space-sm);justify-content:flex-end}.import-processing{text-align:center;padding:var(--space-2xl) 0}.import-spinner{color:var(--color-primary-container);animation:spin 1s linear infinite;display:block;margin:0 auto var(--space-sm)}@keyframes spin{0%{transform:rotate(0)}to{transform:rotate(360deg)}}.import-result{text-align:center;padding:var(--space-lg) 0}.import-result-icon{color:var(--color-tertiary);display:block;margin:0 auto var(--space-sm)}.import-result-icon.is-error{color:var(--color-error)}.import-result-summary{font-size:var(--text-body-sm-size);margin-bottom:var(--space-md)}.import-result-errors{text-align:left;font-size:var(--text-label-sm-size);color:var(--color-error);list-style:disc;padding-left:var(--space-lg)}.confirm-backdrop{position:fixed;inset:0;background:#0b1c3040;display:flex;align-items:center;justify-content:center;z-index:50}.confirm-dialog{background:var(--color-surface-container-lowest);border-radius:var(--rounded-lg);box-shadow:var(--shadow-lg);padding:var(--space-lg);max-width:400px;width:100%}.confirm-title{font-size:var(--text-headline-sm-size);font-weight:var(--text-headline-sm-weight);margin-bottom:var(--space-sm)}.confirm-message{font-size:var(--text-body-sm-size);color:var(--color-on-surface-variant);margin-bottom:var(--space-lg)}.confirm-actions{display:flex;gap:var(--space-sm);justify-content:flex-end}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:var(--space-sm);font-family:var(--font-sans);font-size:var(--text-body-sm-size);font-weight:500;line-height:1;padding:10px 20px;border-radius:var(--rounded);border:1px solid transparent;cursor:pointer;transition:all var(--transition-normal);white-space:nowrap;text-decoration:none}.btn:focus-visible{outline:none;box-shadow:var(--shadow-focus)}.btn-primary{background:var(--color-primary-container);color:var(--color-on-primary);border-color:var(--color-primary-container)}.btn-primary:hover{background:var(--color-primary)}.btn-secondary{background:var(--color-surface-container-lowest);color:var(--color-on-surface);border-color:var(--color-border)}.btn-secondary:hover{background:var(--color-hover-bg)}.btn-ghost{background:transparent;color:var(--color-on-surface);border-color:transparent}.btn-ghost:hover{background:var(--color-hover-bg)}.btn-danger{background:var(--color-error);color:var(--color-on-error);border-color:var(--color-error)}.btn-danger:hover{background:#a01616}.btn-sm{font-size:var(--text-label-sm-size);padding:6px 12px;border-radius:var(--rounded-sm)}.btn-lg{font-size:var(--text-body-md-size);padding:14px 28px;border-radius:var(--rounded)}.btn:disabled,.btn[aria-disabled=true]{opacity:.45;pointer-events:none}.btn svg{width:16px;height:16px;flex-shrink:0}.form-group{display:flex;flex-direction:column;gap:var(--space-xs);min-width:260px}.form-label{font-size:var(--text-label-md-size);font-weight:var(--text-label-md-weight);color:var(--color-on-surface)}.form-hint{font-size:var(--text-label-sm-size);color:var(--color-label)}.form-hint.is-error{color:var(--color-error)}.form-input{font-family:var(--font-sans);font-size:var(--text-body-sm-size);color:var(--color-on-surface);background:var(--color-sidebar-bg);border:1px solid var(--color-border);border-radius:var(--rounded);padding:10px 12px;transition:border-color var(--transition-normal),box-shadow var(--transition-normal);outline:none;width:100%}.form-input:focus{border-color:var(--color-primary-container);box-shadow:var(--shadow-focus)}.form-input::placeholder{color:var(--color-label)}.form-input.is-error{border-color:var(--color-error)}
+.modal-backdrop{position:fixed;inset:0;background:#0b1c3040;display:flex;align-items:center;justify-content:center;z-index:50}.modal{background:var(--color-surface-container-lowest);border-radius:var(--rounded-lg);box-shadow:var(--shadow-lg);padding:var(--space-lg);max-width:440px;width:100%}.modal-title{font-size:var(--text-headline-sm-size);font-weight:var(--text-headline-sm-weight);margin-bottom:var(--space-sm)}.modal-body{font-size:var(--text-body-sm-size);color:var(--color-on-surface-variant);margin-bottom:var(--space-lg)}.modal-actions{display:flex;gap:var(--space-sm);justify-content:flex-end}
+</style></head> <body>  <nav class="navbar" aria-label="Main navigation"> <div class="navbar-left"> <a href="/" class="navbar-brand">InsightCore</a> <ul class="navbar-links" role="menubar"> <li role="none"> <a href="/" role="menuitem"> Home </a> </li><li role="none"> <a href="/insights/" role="menuitem"> Insights </a> </li><li role="none"> <a href="/crm/" role="menuitem"> CRM </a> </li> </ul> </div> <div class="navbar-actions">  <button class="navbar-icon-btn" aria-label="Settings" data-modal-open="settings-modal"> <svg
+  class="lucide lucide-settings"
+  xmlns="http://www.w3.org/2000/svg"
+  width="20"
+  height="20"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M9.671 4.136a2.34 2.34 0 0 1 4.659 0 2.34 2.34 0 0 0 3.319 1.915 2.34 2.34 0 0 1 2.33 4.033 2.34 2.34 0 0 0 0 3.831 2.34 2.34 0 0 1-2.33 4.033 2.34 2.34 0 0 0-3.319 1.915 2.34 2.34 0 0 1-4.659 0 2.34 2.34 0 0 0-3.32-1.915 2.34 2.34 0 0 1-2.33-4.033 2.34 2.34 0 0 0 0-3.831A2.34 2.34 0 0 1 6.35 6.051a2.34 2.34 0 0 0 3.319-1.915" />
+  <circle cx="12" cy="12" r="3" />
+</svg>
+ </button>  </div> </nav> <div class="crm-container"> <aside class="crm-subnav"> <p class="crm-subnav-title">CRM</p> <ul class="crm-subnav-list" role="list"> <li> <a href="/crm/"> <svg
+  class="lucide lucide-layout-dashboard"
+  xmlns="http://www.w3.org/2000/svg"
+  width="20"
+  height="20"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <rect width="7" height="9" x="3" y="3" rx="1" />
+  <rect width="7" height="5" x="14" y="3" rx="1" />
+  <rect width="7" height="9" x="14" y="12" rx="1" />
+  <rect width="7" height="5" x="3" y="16" rx="1" />
+</svg>
+ Dashboard </a> </li><li> <a href="/crm/organization/"> <svg
+  class="lucide lucide-building-2"
+  xmlns="http://www.w3.org/2000/svg"
+  width="20"
+  height="20"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M10 12h4" />
+  <path d="M10 8h4" />
+  <path d="M14 21v-3a2 2 0 0 0-4 0v3" />
+  <path d="M6 10H4a2 2 0 0 0-2 2v7a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-2" />
+  <path d="M6 21V5a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v16" />
+</svg>
+ Organization </a> </li><li> <a href="/crm/contact/"> <svg
+  class="lucide lucide-contact"
+  xmlns="http://www.w3.org/2000/svg"
+  width="20"
+  height="20"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M16 2v2" />
+  <path d="M7 22v-2a2 2 0 0 1 2-2h6a2 2 0 0 1 2 2v2" />
+  <path d="M8 2v2" />
+  <circle cx="12" cy="11" r="3" />
+  <rect x="3" y="4" width="18" height="18" rx="2" />
+</svg>
+ Contact </a> </li> </ul> <button id="crm-logout-btn" class="crm-subnav-logout" type="button"> <svg
+  class="lucide lucide-log-out"
+  xmlns="http://www.w3.org/2000/svg"
+  width="20"
+  height="20"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="m16 17 5-5-5-5" />
+  <path d="M21 12H9" />
+  <path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4" />
+</svg>
+
+Sign Out
+</button> </aside> <main class="crm-main"> <header class="crm-header"> <h1 class="text-headline-md">Contacts</h1> <p class="text-body-sm crm-subtitle">Manage contact list</p> </header> <div class="crm-content">   <div class="crm-toolbar" data-astro-cid-utikv637> <input type="text" class="form-input crm-search" placeholder="Search contacts..." id="ct-search" data-astro-cid-utikv637> <div class="crm-toolbar-actions" data-astro-cid-utikv637> <div class="crm-col-picker" id="ct-col-picker" data-astro-cid-utikv637> <button type="button" class="btn btn-secondary btn-sm" id="ct-col-btn" data-astro-cid-utikv637> <svg
+  class="lucide lucide-columns-3"
+  xmlns="http://www.w3.org/2000/svg"
+  width="16"
+  height="16"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <rect width="18" height="18" x="3" y="3" rx="2" />
+  <path d="M9 3v18" />
+  <path d="M15 3v18" />
+</svg>
+
+Columns
+</button> <div class="crm-col-dropdown" id="ct-col-dropdown" hidden data-astro-cid-utikv637></div> </div> <button type="button" class="btn btn-primary btn-sm" id="ct-add-btn" data-astro-cid-utikv637> <svg
+  class="lucide lucide-plus"
+  xmlns="http://www.w3.org/2000/svg"
+  width="16"
+  height="16"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M5 12h14" />
+  <path d="M12 5v14" />
+</svg>
+
+Add Contact
+</button> <button type="button" class="btn btn-secondary btn-sm" id="ct-import-btn" data-astro-cid-utikv637> <svg
+  class="lucide lucide-upload"
+  xmlns="http://www.w3.org/2000/svg"
+  width="16"
+  height="16"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M12 3v12" />
+  <path d="m17 8-5-5-5 5" />
+  <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
+</svg>
+
+Import CSV
+</button> </div> </div>  <div class="table-wrapper" role="region" aria-label="Contacts table" tabindex="0" data-astro-cid-utikv637> <table class="table" id="ct-table" data-astro-cid-utikv637> <thead data-astro-cid-utikv637> <tr id="ct-thead-row" data-astro-cid-utikv637> <th scope="col" data-col="name" data-astro-cid-utikv637>Name</th> <th scope="col" data-col="email" data-astro-cid-utikv637>Email</th> <th scope="col" data-col="phone" data-astro-cid-utikv637>Phone</th> <th scope="col" data-col="jobTitle" data-astro-cid-utikv637>Job Title</th> <th scope="col" data-col="organization" data-astro-cid-utikv637>Organization</th> <th scope="col" data-col="status" data-astro-cid-utikv637>Status</th> </tr> </thead> <tbody id="ct-table-body" data-astro-cid-utikv637> <tr data-astro-cid-utikv637> <td colspan="6" class="crm-table-empty" data-astro-cid-utikv637>Loading...</td> </tr> </tbody> </table> </div>  <nav class="crm-pagination" id="ct-pagination" aria-label="Contacts pagination" data-astro-cid-utikv637></nav>  </div> </main> </div>  </body></html> <script type="module" src="/public-data-dashboard/_astro/CrmLayout.astro_astro_type_script_index_0_lang.Z5-WAACr.js"></script> <!-- Modals --> <div class="modal-backdrop" id="ct-form-modal" role="dialog" aria-modal="true" aria-labelledby="ct-form-modal-title" aria-hidden="true" style="display: none;" data-modal="ct-form-modal" data-astro-cid-utikv637="true"> <div class="modal contact-form-modal"> <h3 class="modal-title" id="ct-form-modal-title">Add Contact</h3> <form class="contact-form" data-contact-form> <input type="hidden" name="id"> <div class="contact-form-grid"> <div class="contact-form-row"> <label class="form-label" for="ct-first-name">First Name <span aria-hidden="true">*</span></label> <input type="text" id="ct-first-name" name="firstName" class="form-input" required> </div> <div class="contact-form-row"> <label class="form-label" for="ct-last-name">Last Name <span aria-hidden="true">*</span></label> <input type="text" id="ct-last-name" name="lastName" class="form-input" required> </div> <div class="contact-form-row"> <label class="form-label" for="ct-email">Email <span aria-hidden="true">*</span></label> <input type="email" id="ct-email" name="email" class="form-input" required> </div> <div class="contact-form-row"> <label class="form-label" for="ct-phone">Phone</label> <input type="text" id="ct-phone" name="phone" class="form-input"> </div> <div class="contact-form-row"> <label class="form-label" for="ct-mobile">Mobile</label> <input type="text" id="ct-mobile" name="mobile" class="form-input"> </div> <div class="contact-form-row"> <label class="form-label" for="ct-job-title">Job Title</label> <input type="text" id="ct-job-title" name="jobTitle" class="form-input"> </div> <div class="contact-form-row"> <label class="form-label" for="ct-department">Department</label> <input type="text" id="ct-department" name="department" class="form-input"> </div> <div class="contact-form-row"> <label class="form-label" for="ct-organization">Organization</label> <select id="ct-organization" name="organizationId" class="form-select" data-contact-org-select> <option value="">-- None --</option> </select> </div> <div class="contact-form-row contact-form-full"> <label class="form-label" for="ct-address">Address</label> <input type="text" id="ct-address" name="address" class="form-input"> </div> <div class="contact-form-row"> <label class="form-label" for="ct-city">City</label> <input type="text" id="ct-city" name="city" class="form-input"> </div> <div class="contact-form-row"> <label class="form-label" for="ct-country">Country</label> <input type="text" id="ct-country" name="country" class="form-input"> </div> <div class="contact-form-row contact-form-full"> <label class="form-label" for="ct-notes">Notes</label> <textarea id="ct-notes" name="notes" class="form-textarea" rows="3"></textarea> </div> <div class="contact-form-row"> <label class="form-label">Status</label> <label class="form-switch"> <input type="checkbox" id="ct-status" name="statusToggle" checked> <span class="form-switch-slider"></span> <span class="form-switch-label" data-ct-status-label>Active</span> </label> </div> </div> <p class="contact-form-error" data-contact-form-error hidden></p> <div class="modal-actions"> <button type="button" class="btn btn-secondary" data-modal-close>Cancel</button> <button type="submit" class="btn btn-primary">Save</button> </div> </form> </div> </div> <div class="modal-backdrop" id="ct-detail-modal" role="dialog" aria-modal="true" aria-labelledby="ct-detail-modal-title" aria-hidden="true" style="display: none;" data-modal="ct-detail-modal" data-astro-cid-utikv637="true"> <div class="modal contact-detail-modal"> <h3 class="modal-title" id="ct-detail-modal-title">Contact Details</h3> <div class="contact-detail-body" data-contact-detail> <div class="contact-detail-grid"> <div class="contact-detail-field"> <span class="contact-detail-label">First Name</span> <span class="contact-detail-value" data-field="firstName"></span> </div> <div class="contact-detail-field"> <span class="contact-detail-label">Last Name</span> <span class="contact-detail-value" data-field="lastName"></span> </div> <div class="contact-detail-field"> <span class="contact-detail-label">Email</span> <span class="contact-detail-value" data-field="email"></span> </div> <div class="contact-detail-field"> <span class="contact-detail-label">Phone</span> <span class="contact-detail-value" data-field="phone"></span> </div> <div class="contact-detail-field"> <span class="contact-detail-label">Mobile</span> <span class="contact-detail-value" data-field="mobile"></span> </div> <div class="contact-detail-field"> <span class="contact-detail-label">Status</span> <span class="contact-detail-value" data-field="status"></span> </div> <div class="contact-detail-field"> <span class="contact-detail-label">Job Title</span> <span class="contact-detail-value" data-field="jobTitle"></span> </div> <div class="contact-detail-field"> <span class="contact-detail-label">Department</span> <span class="contact-detail-value" data-field="department"></span> </div> <div class="contact-detail-field contact-detail-full"> <span class="contact-detail-label">Organization</span> <span class="contact-detail-value" data-field="organizationName"></span> </div> <div class="contact-detail-field contact-detail-full"> <span class="contact-detail-label">Address</span> <span class="contact-detail-value" data-field="address"></span> </div> <div class="contact-detail-field"> <span class="contact-detail-label">City</span> <span class="contact-detail-value" data-field="city"></span> </div> <div class="contact-detail-field"> <span class="contact-detail-label">Country</span> <span class="contact-detail-value" data-field="country"></span> </div> <div class="contact-detail-field contact-detail-full"> <span class="contact-detail-label">Notes</span> <span class="contact-detail-value" data-field="notes"></span> </div> <div class="contact-detail-field"> <span class="contact-detail-label">Created</span> <span class="contact-detail-value" data-field="createdAt"></span> </div> <div class="contact-detail-field"> <span class="contact-detail-label">Updated</span> <span class="contact-detail-value" data-field="updatedAt"></span> </div> </div> </div> <div class="modal-actions"> <button type="button" class="btn btn-danger btn-sm" data-contact-detail-delete aria-label="Delete"> <svg
+  class="lucide lucide-trash-2"
+  xmlns="http://www.w3.org/2000/svg"
+  width="16"
+  height="16"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M10 11v6" />
+  <path d="M14 11v6" />
+  <path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6" />
+  <path d="M3 6h18" />
+  <path d="M8 6V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2" />
+</svg>
+ </button> <div class="modal-actions-spacer"></div> <button type="button" class="btn btn-secondary btn-sm" data-modal-close>Close</button> <button type="button" class="btn btn-primary btn-sm" data-contact-detail-edit>Edit</button> </div> </div> </div> <div class="modal-backdrop import-backdrop" id="ct-import-modal" role="dialog" aria-modal="true" aria-labelledby="ct-import-modal-title" aria-hidden="true" style="display: none;" data-modal="ct-import-modal" data-accept-format=".csv" data-entity-type="contact" data-astro-cid-utikv637="true"> <div class="modal import-modal"> <h3 class="modal-title" id="ct-import-modal-title">Import Contacts</h3> <!-- Step 1: Drop zone --> <div class="import-step import-step-dropzone" data-import-step="dropzone"> <div class="import-dropzone" data-import-dropzone> <span class="import-dropzone-icon"><svg
+  class="lucide lucide-upload"
+  xmlns="http://www.w3.org/2000/svg"
+  width="48"
+  height="48"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M12 3v12" />
+  <path d="m17 8-5-5-5 5" />
+  <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
+</svg>
+</span> <p class="import-dropzone-text">
+Drag & drop your <strong>.csv</strong> file here
+</p> <p class="import-dropzone-hint">or</p> <label class="btn btn-secondary btn-sm import-file-label">
+Browse File
+<input type="file" accept=".csv" class="visually-hidden" data-import-file-input> </label> </div> </div> <!-- Step 2: Preview --> <div class="import-step import-step-preview" data-import-step="preview" hidden> <div class="import-file-info"> <span class="import-file-info-icon"><svg
+  class="lucide lucide-file-text"
+  xmlns="http://www.w3.org/2000/svg"
+  width="32"
+  height="32"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M6 22a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h8a2.4 2.4 0 0 1 1.704.706l3.588 3.588A2.4 2.4 0 0 1 20 8v12a2 2 0 0 1-2 2z" />
+  <path d="M14 2v5a1 1 0 0 0 1 1h5" />
+  <path d="M10 9H8" />
+  <path d="M16 13H8" />
+  <path d="M16 17H8" />
+</svg>
+</span> <div> <p class="import-file-name" data-import-filename></p> <p class="import-file-meta"> <span data-import-row-count></span> rows,
+<span data-import-col-count></span> columns
+</p> </div> </div> <label class="form-checkbox-row import-overwrite-row"> <input type="checkbox" data-import-overwrite>
+Overwrite if duplicate information exists
+</label> <div class="import-actions"> <button type="button" class="btn btn-secondary" data-import-cancel>Cancel</button> <button type="button" class="btn btn-primary" data-import-confirm>Import</button> </div> </div> <!-- Step 3: Processing --> <div class="import-step import-step-processing" data-import-step="processing" hidden> <div class="import-processing"> <span class="import-spinner"><svg
+  class="lucide lucide-loader-circle"
+  xmlns="http://www.w3.org/2000/svg"
+  width="36"
+  height="36"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M21 12a9 9 0 1 1-6.219-8.56" />
+</svg>
+</span> <p>Importing data...</p> </div> </div> <!-- Step 4: Result --> <div class="import-step import-step-result" data-import-step="result" hidden> <div class="import-result" data-import-result> <span class="import-result-icon" data-import-result-icon></span> <p class="import-result-summary" data-import-result-summary></p> <ul class="import-result-errors" data-import-result-errors hidden></ul> </div> <div class="import-actions"> <button type="button" class="btn btn-primary" data-import-done>Done</button> </div> </div> </div> </div> <div class="confirm-backdrop" id="ct-delete-confirm" role="alertdialog" aria-modal="true" aria-labelledby="ct-delete-confirm-title" aria-describedby="ct-delete-confirm-message" aria-hidden="true" style="display: none;" data-confirm="ct-delete-confirm" data-astro-cid-utikv637="true"> <div class="confirm-dialog"> <h3 class="confirm-title" id="ct-delete-confirm-title">Delete Contact</h3> <p class="confirm-message" id="ct-delete-confirm-message">Are you sure you want to delete this contact? This action cannot be undone.</p> <div class="confirm-actions"> <button type="button" class="btn btn-secondary" data-confirm-cancel> Cancel </button> <button type="button" class="btn btn-danger" data-confirm-ok> Delete </button> </div> </div> </div> <script type="module">function r(){document.querySelectorAll("[data-confirm]").forEach(e=>{e.addEventListener("click",t=>{t.target===e&&c(e)}),e.addEventListener("keydown",t=>{t.key==="Escape"&&c(e)}),e.querySelector("[data-confirm-cancel]")?.addEventListener("click",()=>{c(e)})})}function l(i,e){const t=document.getElementById(i);if(!t)return;if(e.title){const n=t.querySelector(".confirm-title");n&&(n.textContent=e.title)}if(e.message){const n=t.querySelector(".confirm-message");n&&(n.textContent=e.message)}const o=t.querySelector("[data-confirm-ok]");if(o){const n=o.cloneNode(!0);o.parentNode.replaceChild(n,o),n.addEventListener("click",()=>{e.onConfirm(),c(t)})}t.style.display="flex",t.setAttribute("aria-hidden","false"),t.querySelector("[data-confirm-cancel]")?.focus()}function c(i){i.style.display="none",i.setAttribute("aria-hidden","true")}window.openConfirmDialog=l;r();</script>  <script type="module" src="/public-data-dashboard/_astro/index.astro_astro_type_script_index_0_lang.Cg2Xm1dX.js"></script>

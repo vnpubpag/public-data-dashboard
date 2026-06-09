@@ -1,0 +1,129 @@
+<!DOCTYPE html><html lang="en"> <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>CRM Dashboard</title><meta name="description" content="Overview of CRM data"><meta property="og:title" content="CRM Dashboard"><meta property="og:description" content="Overview of CRM data"><meta name="robots" content="index, follow"><link rel="canonical" href="https://vnpubpag.github.io/public-data-dashboard/crm/"><link rel="icon" type="image/svg+xml" href="/favicon.svg"><link rel="stylesheet" href="/public-data-dashboard/_astro/Navbar.CQZ4S1La.css">
+<style>.crm-stats-grid[data-astro-cid-zkzxm6cd]{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:var(--space-lg)}.crm-stat-card[data-astro-cid-zkzxm6cd]{display:flex;align-items:center;gap:var(--space-md);background:var(--color-surface-container-lowest);border:1px solid var(--color-border);border-radius:var(--rounded-lg);padding:var(--space-lg)}.crm-stat-icon[data-astro-cid-zkzxm6cd]{color:var(--color-primary-container)}.crm-stat-info[data-astro-cid-zkzxm6cd]{display:flex;flex-direction:column}.crm-stat-value[data-astro-cid-zkzxm6cd]{font-size:var(--text-headline-md-size);font-weight:var(--text-headline-md-weight);color:var(--color-on-surface)}.crm-stat-label[data-astro-cid-zkzxm6cd]{font-size:var(--text-body-sm-size);color:var(--color-on-surface-variant)}
+</style>
+<link rel="stylesheet" href="/public-data-dashboard/_astro/CrmLayout.iBz2P6r_.css">
+<style>.btn{display:inline-flex;align-items:center;justify-content:center;gap:var(--space-sm);font-family:var(--font-sans);font-size:var(--text-body-sm-size);font-weight:500;line-height:1;padding:10px 20px;border-radius:var(--rounded);border:1px solid transparent;cursor:pointer;transition:all var(--transition-normal);white-space:nowrap;text-decoration:none}.btn:focus-visible{outline:none;box-shadow:var(--shadow-focus)}.btn-primary{background:var(--color-primary-container);color:var(--color-on-primary);border-color:var(--color-primary-container)}.btn-primary:hover{background:var(--color-primary)}.btn-secondary{background:var(--color-surface-container-lowest);color:var(--color-on-surface);border-color:var(--color-border)}.btn-secondary:hover{background:var(--color-hover-bg)}.btn-ghost{background:transparent;color:var(--color-on-surface);border-color:transparent}.btn-ghost:hover{background:var(--color-hover-bg)}.btn-danger{background:var(--color-error);color:var(--color-on-error);border-color:var(--color-error)}.btn-danger:hover{background:#a01616}.btn-sm{font-size:var(--text-label-sm-size);padding:6px 12px;border-radius:var(--rounded-sm)}.btn-lg{font-size:var(--text-body-md-size);padding:14px 28px;border-radius:var(--rounded)}.btn:disabled,.btn[aria-disabled=true]{opacity:.45;pointer-events:none}.btn svg{width:16px;height:16px;flex-shrink:0}.form-group{display:flex;flex-direction:column;gap:var(--space-xs);min-width:260px}.form-label{font-size:var(--text-label-md-size);font-weight:var(--text-label-md-weight);color:var(--color-on-surface)}.form-hint{font-size:var(--text-label-sm-size);color:var(--color-label)}.form-hint.is-error{color:var(--color-error)}.form-input{font-family:var(--font-sans);font-size:var(--text-body-sm-size);color:var(--color-on-surface);background:var(--color-sidebar-bg);border:1px solid var(--color-border);border-radius:var(--rounded);padding:10px 12px;transition:border-color var(--transition-normal),box-shadow var(--transition-normal);outline:none;width:100%}.form-input:focus{border-color:var(--color-primary-container);box-shadow:var(--shadow-focus)}.form-input::placeholder{color:var(--color-label)}.form-input.is-error{border-color:var(--color-error)}
+.modal-backdrop{position:fixed;inset:0;background:#0b1c3040;display:flex;align-items:center;justify-content:center;z-index:50}.modal{background:var(--color-surface-container-lowest);border-radius:var(--rounded-lg);box-shadow:var(--shadow-lg);padding:var(--space-lg);max-width:440px;width:100%}.modal-title{font-size:var(--text-headline-sm-size);font-weight:var(--text-headline-sm-weight);margin-bottom:var(--space-sm)}.modal-body{font-size:var(--text-body-sm-size);color:var(--color-on-surface-variant);margin-bottom:var(--space-lg)}.modal-actions{display:flex;gap:var(--space-sm);justify-content:flex-end}
+</style></head> <body>  <nav class="navbar" aria-label="Main navigation"> <div class="navbar-left"> <a href="/" class="navbar-brand">InsightCore</a> <ul class="navbar-links" role="menubar"> <li role="none"> <a href="/" role="menuitem"> Home </a> </li><li role="none"> <a href="/insights/" role="menuitem"> Insights </a> </li><li role="none"> <a href="/crm/" role="menuitem"> CRM </a> </li> </ul> </div> <div class="navbar-actions">  <button class="navbar-icon-btn" aria-label="Settings" data-modal-open="settings-modal"> <svg
+  class="lucide lucide-settings"
+  xmlns="http://www.w3.org/2000/svg"
+  width="20"
+  height="20"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M9.671 4.136a2.34 2.34 0 0 1 4.659 0 2.34 2.34 0 0 0 3.319 1.915 2.34 2.34 0 0 1 2.33 4.033 2.34 2.34 0 0 0 0 3.831 2.34 2.34 0 0 1-2.33 4.033 2.34 2.34 0 0 0-3.319 1.915 2.34 2.34 0 0 1-4.659 0 2.34 2.34 0 0 0-3.32-1.915 2.34 2.34 0 0 1-2.33-4.033 2.34 2.34 0 0 0 0-3.831A2.34 2.34 0 0 1 6.35 6.051a2.34 2.34 0 0 0 3.319-1.915" />
+  <circle cx="12" cy="12" r="3" />
+</svg>
+ </button>  </div> </nav> <div class="crm-container"> <aside class="crm-subnav"> <p class="crm-subnav-title">CRM</p> <ul class="crm-subnav-list" role="list"> <li> <a href="/crm/"> <svg
+  class="lucide lucide-layout-dashboard"
+  xmlns="http://www.w3.org/2000/svg"
+  width="20"
+  height="20"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <rect width="7" height="9" x="3" y="3" rx="1" />
+  <rect width="7" height="5" x="14" y="3" rx="1" />
+  <rect width="7" height="9" x="14" y="12" rx="1" />
+  <rect width="7" height="5" x="3" y="16" rx="1" />
+</svg>
+ Dashboard </a> </li><li> <a href="/crm/organization/"> <svg
+  class="lucide lucide-building-2"
+  xmlns="http://www.w3.org/2000/svg"
+  width="20"
+  height="20"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M10 12h4" />
+  <path d="M10 8h4" />
+  <path d="M14 21v-3a2 2 0 0 0-4 0v3" />
+  <path d="M6 10H4a2 2 0 0 0-2 2v7a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-2" />
+  <path d="M6 21V5a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v16" />
+</svg>
+ Organization </a> </li><li> <a href="/crm/contact/"> <svg
+  class="lucide lucide-contact"
+  xmlns="http://www.w3.org/2000/svg"
+  width="20"
+  height="20"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M16 2v2" />
+  <path d="M7 22v-2a2 2 0 0 1 2-2h6a2 2 0 0 1 2 2v2" />
+  <path d="M8 2v2" />
+  <circle cx="12" cy="11" r="3" />
+  <rect x="3" y="4" width="18" height="18" rx="2" />
+</svg>
+ Contact </a> </li> </ul> <button id="crm-logout-btn" class="crm-subnav-logout" type="button"> <svg
+  class="lucide lucide-log-out"
+  xmlns="http://www.w3.org/2000/svg"
+  width="20"
+  height="20"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="m16 17 5-5-5-5" />
+  <path d="M21 12H9" />
+  <path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4" />
+</svg>
+
+Sign Out
+</button> </aside> <main class="crm-main"> <header class="crm-header"> <h1 class="text-headline-md">Dashboard</h1> <p class="text-body-sm crm-subtitle">Overview of CRM data</p> </header> <div class="crm-content">  <div class="crm-stats-grid" data-astro-cid-zkzxm6cd> <div class="crm-stat-card" id="stat-organizations" data-astro-cid-zkzxm6cd> <span class="crm-stat-icon" data-astro-cid-zkzxm6cd><svg
+  class="lucide lucide-building-2"
+  xmlns="http://www.w3.org/2000/svg"
+  width="36"
+  height="36"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M10 12h4" />
+  <path d="M10 8h4" />
+  <path d="M14 21v-3a2 2 0 0 0-4 0v3" />
+  <path d="M6 10H4a2 2 0 0 0-2 2v7a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2h-2" />
+  <path d="M6 21V5a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v16" />
+</svg>
+</span> <div class="crm-stat-info" data-astro-cid-zkzxm6cd> <span class="crm-stat-value" id="stat-org-value" data-astro-cid-zkzxm6cd>&mdash;</span> <span class="crm-stat-label" data-astro-cid-zkzxm6cd>Organizations</span> </div> </div> <div class="crm-stat-card" id="stat-contacts" data-astro-cid-zkzxm6cd> <span class="crm-stat-icon" data-astro-cid-zkzxm6cd><svg
+  class="lucide lucide-contact"
+  xmlns="http://www.w3.org/2000/svg"
+  width="36"
+  height="36"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="2"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <path d="M16 2v2" />
+  <path d="M7 22v-2a2 2 0 0 1 2-2h6a2 2 0 0 1 2 2v2" />
+  <path d="M8 2v2" />
+  <circle cx="12" cy="11" r="3" />
+  <rect x="3" y="4" width="18" height="18" rx="2" />
+</svg>
+</span> <div class="crm-stat-info" data-astro-cid-zkzxm6cd> <span class="crm-stat-value" id="stat-contact-value" data-astro-cid-zkzxm6cd>&mdash;</span> <span class="crm-stat-label" data-astro-cid-zkzxm6cd>Contacts</span> </div> </div> </div>  </div> </main> </div>  </body></html> <script type="module" src="/public-data-dashboard/_astro/CrmLayout.astro_astro_type_script_index_0_lang.Z5-WAACr.js"></script>  <script type="module" src="/public-data-dashboard/_astro/index.astro_astro_type_script_index_0_lang.Blg7wcqG.js"></script>

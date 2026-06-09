@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://executive-intelligence.example.com/sitemap.xml
+Sitemap: https://vnpubpag.github.io/public-data-dashboard/sitemap.xml
