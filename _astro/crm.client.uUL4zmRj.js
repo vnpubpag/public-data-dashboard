@@ -1,0 +1,20 @@
+import{s as i}from"./supabase.B9-AiiCP.js";function l(a){return Object.fromEntries(Object.entries(a).map(([e,t])=>[e.replace(/[A-Z]/g,n=>`_${n.toLowerCase()}`),t]))}const u=`
+    id, name, industry, website, email, phone,
+    address, city, country, description,
+    employeeCount:employee_count,
+    status,
+    createdAt:created_at,
+    updatedAt:updated_at
+`,f=`
+    id,
+    firstName:first_name,
+    lastName:last_name,
+    email, phone, mobile,
+    jobTitle:job_title,
+    department,
+    organizationId:organization_id,
+    organizationName:organization_name,
+    address, city, country, notes, status,
+    createdAt:created_at,
+    updatedAt:updated_at
+`;async function g(){const[a,e]=await Promise.all([i.from("organizations").select("*",{count:"exact",head:!0}),i.from("contacts").select("*",{count:"exact",head:!0})]);return{totalOrganizations:a.count??0,totalContacts:e.count??0}}async function p(a,e,t){let n=i.from("organizations").select(u,{count:"exact"});t&&(n=n.or(`name.ilike.%${t}%,industry.ilike.%${t}%,email.ilike.%${t}%,phone.ilike.%${t}%,city.ilike.%${t}%,country.ilike.%${t}%`));const o=(a-1)*e,r=o+e-1,{data:c,count:s,error:d}=await n.order("created_at",{ascending:!1}).range(o,r);if(d)throw d;return{data:c??[],total:s??0}}async function w(a){const{data:e,error:t}=await i.from("organizations").select(u).eq("id",a).single();if(t)throw t;return e}async function _(a){const{data:e,error:t}=await i.from("organizations").insert(l(a)).select(u).single();if(t)throw t;return e}async function y(a,e){const{id:t,createdAt:n,updatedAt:o,...r}=e,{data:c,error:s}=await i.from("organizations").update(l(r)).eq("id",a).select(u).single();if(s)throw s;return c}async function z(a){const{error:e}=await i.from("organizations").delete().eq("id",a);if(e)throw e}async function k(a,e){const t=a.map(o=>l(o)),n={success:!0,imported:0,skipped:0,overwritten:0,errors:[]};if(e){const{data:o,error:r}=await i.from("organizations").upsert(t,{onConflict:"email",defaultToNull:!1}).select("id");r?(n.success=!1,n.errors.push(r.message)):n.imported=o?.length??0}else{const{data:o,error:r}=await i.from("organizations").upsert(t,{onConflict:"email",ignoreDuplicates:!0}).select("id");r?(n.success=!1,n.errors.push(r.message)):(n.imported=o?.length??0,n.skipped=t.length-(o?.length??0))}return n}async function h(a,e,t){let n=i.from("contacts").select(f,{count:"exact"});t&&(n=n.or(`first_name.ilike.%${t}%,last_name.ilike.%${t}%,email.ilike.%${t}%,phone.ilike.%${t}%,job_title.ilike.%${t}%,organization_name.ilike.%${t}%`));const o=(a-1)*e,r=o+e-1,{data:c,count:s,error:d}=await n.order("created_at",{ascending:!1}).range(o,r);if(d)throw d;return{data:c??[],total:s??0}}async function C(a){const{data:e,error:t}=await i.from("contacts").select(f).eq("id",a).single();if(t)throw t;return e}async function $(a){const{data:e,error:t}=await i.from("contacts").insert(l(a)).select(f).single();if(t)throw t;return e}async function O(a,e){const{id:t,createdAt:n,updatedAt:o,...r}=e,{data:c,error:s}=await i.from("contacts").update(l(r)).eq("id",a).select(f).single();if(s)throw s;return c}async function A(a){const{error:e}=await i.from("contacts").delete().eq("id",a);if(e)throw e}async function b(a,e){const t=a.map(o=>l(o)),n={success:!0,imported:0,skipped:0,overwritten:0,errors:[]};if(e){const{data:o,error:r}=await i.from("contacts").upsert(t,{onConflict:"email",defaultToNull:!1}).select("id");r?(n.success=!1,n.errors.push(r.message)):n.imported=o?.length??0}else{const{data:o,error:r}=await i.from("contacts").upsert(t,{onConflict:"email",ignoreDuplicates:!0}).select("id");r?(n.success=!1,n.errors.push(r.message)):(n.imported=o?.length??0,n.skipped=t.length-(o?.length??0))}return n}async function q(){const{data:a,error:e}=await i.from("organizations").select("id, name").order("name",{ascending:!0});if(e)throw e;return a??[]}export{$ as createContact,_ as createOrganization,A as deleteContact,z as deleteOrganization,q as getAllOrganizationsForSelect,C as getContact,h as getContacts,g as getCrmDashboardStats,w as getOrganization,p as getOrganizations,b as importContacts,k as importOrganizations,O as updateContact,y as updateOrganization};

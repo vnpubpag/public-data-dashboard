@@ -1,0 +1,1 @@
+import{getCrmDashboardStats as a}from"./crm.client.uUL4zmRj.js";try{const t=await a();document.getElementById("stat-org-value").textContent=String(t.totalOrganizations),document.getElementById("stat-contact-value").textContent=String(t.totalContacts)}catch{}

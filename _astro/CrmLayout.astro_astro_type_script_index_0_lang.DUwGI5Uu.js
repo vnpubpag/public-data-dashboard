@@ -1,0 +1,1 @@
+import{s as t}from"./supabase.B9-AiiCP.js";import{w as i}from"./paths.CbnsVENX.js";async function a(){const{data:{session:n}}=await t.auth.getSession();n||(window.location.href=i("/crm/login"))}async function o(){await t.auth.signOut(),window.location.href=i("/crm/login")}await a();document.getElementById("crm-logout-btn")?.addEventListener("click",()=>o());
