@@ -1,6 +1,516 @@
 {
   "nodes": [
     {
+      "id": "article:2026/go-diem-nghen-cho-cac-du-an-dien-gio-ty-usd",
+      "label": "Gỡ điểm nghẽn cho các dự án điện gió tỷ USD",
+      "type": "article",
+      "weight": 1
+    },
+    {
+      "id": "keyword:việt nam",
+      "label": "việt nam",
+      "type": "keyword",
+      "weight": 6
+    },
+    {
+      "id": "keyword:điện gió",
+      "label": "điện gió",
+      "type": "keyword",
+      "weight": 5
+    },
+    {
+      "id": "keyword:điện gió ngoài khơi",
+      "label": "điện gió ngoài khơi",
+      "type": "keyword",
+      "weight": 5
+    },
+    {
+      "id": "keyword:năng lượng tái tạo",
+      "label": "năng lượng tái tạo",
+      "type": "keyword",
+      "weight": 6
+    },
+    {
+      "id": "keyword:hợp đồng mua bán điện",
+      "label": "hợp đồng mua bán điện",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:ppa",
+      "label": "ppa",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:cơ chế giá",
+      "label": "cơ chế giá",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:đầu tư nước ngoài",
+      "label": "đầu tư nước ngoài",
+      "type": "keyword",
+      "weight": 2
+    },
+    {
+      "id": "keyword:fdi",
+      "label": "fdi",
+      "type": "keyword",
+      "weight": 2
+    },
+    {
+      "id": "keyword:chuỗi cung ứng nội địa",
+      "label": "chuỗi cung ứng nội địa",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:kế hoạch điện VIII",
+      "label": "kế hoạch điện VIII",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:giá điện",
+      "label": "giá điện",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "article:2026/nhieu-doanh-nghiep-na-uy-bat-ngo-tro-lai-ha-noi-ngo-y-giup-viet-nam-khai-thac-andquotkho-bauandquot-tram-ty-usd",
+      "label": "Nhiều doanh nghiệp Na Uy bất ngờ trở lại Hà Nội ngỏ ý giúp Việt Nam khai thác &quot;kho báu&quot; trăm tỷ USD",
+      "type": "article",
+      "weight": 1
+    },
+    {
+      "id": "keyword:offshore wind",
+      "label": "offshore wind",
+      "type": "keyword",
+      "weight": 3
+    },
+    {
+      "id": "keyword:vietnam",
+      "label": "vietnam",
+      "type": "keyword",
+      "weight": 2
+    },
+    {
+      "id": "keyword:apac wind energy summit 2026",
+      "label": "apac wind energy summit 2026",
+      "type": "keyword",
+      "weight": 2
+    },
+    {
+      "id": "keyword:norwep",
+      "label": "norwep",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:jon dugstad",
+      "label": "jon dugstad",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:hilde solbakken",
+      "label": "hilde solbakken",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:gwec",
+      "label": "gwec",
+      "type": "keyword",
+      "weight": 2
+    },
+    {
+      "id": "keyword:parliament resolution 253/2025/qh15",
+      "label": "parliament resolution 253/2025/qh15",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:dnv as",
+      "label": "dnv as",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:fred. olsen windcarrier",
+      "label": "fred. olsen windcarrier",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:ngi",
+      "label": "ngi",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:reach subsea",
+      "label": "reach subsea",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:oglænd system/hilti",
+      "label": "oglænd system/hilti",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "article:2026/khong-con-o-trong-phim-mot-cong-ty-trung-quoc-vua-tung-ra-robot-osin-thay-con-nguoi-lam-het-viec-nha",
+      "label": "Không còn ở trong phim: Một công ty Trung Quốc vừa tung ra robot osin thay con người làm hết việc nhà",
+      "type": "article",
+      "weight": 1
+    },
+    {
+      "id": "keyword:humanoid robot",
+      "label": "humanoid robot",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:seeLight S1",
+      "label": "seeLight S1",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:household robot",
+      "label": "household robot",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:hubei giga world robot",
+      "label": "hubei giga world robot",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:wuhan",
+      "label": "wuhan",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:ai model",
+      "label": "ai model",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:environment recognition",
+      "label": "environment recognition",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:language understanding",
+      "label": "language understanding",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:free trial",
+      "label": "free trial",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:data collection",
+      "label": "data collection",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:price range 50000-100000 yuan",
+      "label": "price range 50000-100000 yuan",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:consumer interest",
+      "label": "consumer interest",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:global humanoid robot market",
+      "label": "global humanoid robot market",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:morgan stanley forecast",
+      "label": "morgan stanley forecast",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "article:2026/pho-thu-tuong-thuong-truc-pham-gia-tuc-lam-viec-voi-hoi-dong-nang-luong-gio-toan-cau",
+      "label": "Phó Thủ tướng Thường trực Phạm Gia Túc làm việc với Hội đồng Năng lượng gió toàn cầu",
+      "type": "article",
+      "weight": 1
+    },
+    {
+      "id": "keyword:wind energy",
+      "label": "wind energy",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:renewable energy",
+      "label": "renewable energy",
+      "type": "keyword",
+      "weight": 2
+    },
+    {
+      "id": "keyword:vietnam energy policy",
+      "label": "vietnam energy policy",
+      "type": "keyword",
+      "weight": 2
+    },
+    {
+      "id": "keyword:foreign investment",
+      "label": "foreign investment",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:supply chain",
+      "label": "supply chain",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:regulatory framework",
+      "label": "regulatory framework",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:capital mobilization",
+      "label": "capital mobilization",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:grid infrastructure",
+      "label": "grid infrastructure",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:port infrastructure",
+      "label": "port infrastructure",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:policy reform",
+      "label": "policy reform",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:offshore wind targets",
+      "label": "offshore wind targets",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:electricity law 2024",
+      "label": "electricity law 2024",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:energy security",
+      "label": "energy security",
+      "type": "keyword",
+      "weight": 2
+    },
+    {
+      "id": "article:2026/nganh-thue-chi-ra-nhung-chieu-tro-gian-lan-ve-hoa-don-dien-tu",
+      "label": "Ngành thuế chỉ ra những chiêu trò gian lận về hóa đơn điện tử",
+      "type": "article",
+      "weight": 1
+    },
+    {
+      "id": "keyword:hoadon-dien-tu",
+      "label": "hoadon-dien-tu",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:gian-lan-hoa-don",
+      "label": "gian-lan-hoa-don",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:phan-tich-do-thi",
+      "label": "phan-tich-do-thi",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:ai",
+      "label": "ai",
+      "type": "keyword",
+      "weight": 4
+    },
+    {
+      "id": "keyword:machine-learning",
+      "label": "machine-learning",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:phan-tich-du-lieu",
+      "label": "phan-tich-du-lieu",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:chuoi-giao-dich",
+      "label": "chuoi-giao-dich",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:giao-dich-hoa-don",
+      "label": "giao-dich-hoa-don",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:he-thong-phan-tich-risiko",
+      "label": "he-thong-phan-tich-risiko",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:truy-vet-thue",
+      "label": "truy-vet-thue",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:doanh-nghiep-ma",
+      "label": "doanh-nghiep-ma",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:canh-bao-xuat-hoa-don",
+      "label": "canh-bao-xuat-hoa-don",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:kho-du-lieu-hoa-don",
+      "label": "kho-du-lieu-hoa-don",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "article:2026/viet-nam-dat-muc-tieu-den-nam-2030-co-5-cong-ty-cong-nghe-dat-doanh-thu-toi-thieu-1-ty-usdnam-tu-thi-truong-nuoc-ngoai",
+      "label": "Việt Nam đặt mục tiêu đến năm 2030 có 5 công ty công nghệ đạt doanh thu tối thiểu 1 tỷ USD/năm từ thị trường nước ngoài",
+      "type": "article",
+      "weight": 1
+    },
+    {
+      "id": "keyword:quyet dinh 982/qdtg",
+      "label": "quyet dinh 982/qdtg",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:de an ho tro phat trien cac doanh nghiep cong nghe so",
+      "label": "de an ho tro phat trien cac doanh nghiep cong nghe so",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:doanh nghiep cong nghe so",
+      "label": "doanh nghiep cong nghe so",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:xuat khau cong nghe",
+      "label": "xuat khau cong nghe",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:55 ty usd/nam",
+      "label": "55 ty usd/nam",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:30%/nam",
+      "label": "30%/nam",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:make in viet nam",
+      "label": "make in viet nam",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:iot",
+      "label": "iot",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:big data",
+      "label": "big data",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:m&a",
+      "label": "m&a",
+      "type": "keyword",
+      "weight": 2
+    },
+    {
+      "id": "keyword:ipo",
+      "label": "ipo",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:viet nam 2045",
+      "label": "viet nam 2045",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:sandbox",
+      "label": "sandbox",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:thuong hieu quoc gia cong nghe so",
+      "label": "thuong hieu quoc gia cong nghe so",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
       "id": "article:2026/fpt-cong-bo-phuong-phap-luan-casan-giup-to-chuc-doanh-nghiep-tang-toc-chuyen-doi-ai",
       "label": "FPT công bố phương pháp luận CASAN, giúp tổ chức, doanh nghiệp tăng tốc chuyển đổi AI",
       "type": "article",
@@ -115,18 +625,6 @@
       "weight": 2
     },
     {
-      "id": "keyword:năng lượng tái tạo",
-      "label": "năng lượng tái tạo",
-      "type": "keyword",
-      "weight": 4
-    },
-    {
-      "id": "keyword:điện gió ngoài khơi",
-      "label": "điện gió ngoài khơi",
-      "type": "keyword",
-      "weight": 4
-    },
-    {
       "id": "keyword:hạ tầng truyền tải",
       "label": "hạ tầng truyền tải",
       "type": "keyword",
@@ -197,12 +695,6 @@
       "label": "Kịch bản nào cho điện gió ngoài khơi Việt Nam vận hành trước năm 2030?",
       "type": "article",
       "weight": 1
-    },
-    {
-      "id": "keyword:việt nam",
-      "label": "việt nam",
-      "type": "keyword",
-      "weight": 5
     },
     {
       "id": "keyword:2030",
@@ -439,12 +931,6 @@
       "weight": 1
     },
     {
-      "id": "keyword:offshore wind",
-      "label": "offshore wind",
-      "type": "keyword",
-      "weight": 1
-    },
-    {
       "id": "keyword:energy policy",
       "label": "energy policy",
       "type": "keyword",
@@ -619,12 +1105,6 @@
       "weight": 1
     },
     {
-      "id": "keyword:điện gió",
-      "label": "điện gió",
-      "type": "keyword",
-      "weight": 3
-    },
-    {
       "id": "keyword:điện mặt trời",
       "label": "điện mặt trời",
       "type": "keyword",
@@ -659,12 +1139,6 @@
       "label": "south summit madrid",
       "type": "keyword",
       "weight": 1
-    },
-    {
-      "id": "keyword:ai",
-      "label": "ai",
-      "type": "keyword",
-      "weight": 2
     },
     {
       "id": "keyword:convergence ai",
@@ -803,6 +1277,180 @@
       "label": "bộ công thương",
       "type": "keyword",
       "weight": 2
+    },
+    {
+      "id": "article:2026/chuyen-bien-moi-tai-nha-may-dien-15-ty-usd-xay-16-nam-chua-xong",
+      "label": "Chuyển biến mới tại nhà máy điện 1,5 tỷ USD xây 16 năm chưa xong",
+      "type": "article",
+      "weight": 1
+    },
+    {
+      "id": "keyword:dự án long phú 1",
+      "label": "dự án long phú 1",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:hạng mục hệ thống ống dẫn t08",
+      "label": "hạng mục hệ thống ống dẫn t08",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:gói thầu t08",
+      "label": "gói thầu t08",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:ptsc quảng ngãi",
+      "label": "ptsc quảng ngãi",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:china tianchen engineering corporation ltd",
+      "label": "china tianchen engineering corporation ltd",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:epc contract",
+      "label": "epc contract",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:power machines",
+      "label": "power machines",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:lò hơi số 2",
+      "label": "lò hơi số 2",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:economizer",
+      "label": "economizer",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:vận hành thương mại 2027",
+      "label": "vận hành thương mại 2027",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:7 tỷ kwh mỗi năm",
+      "label": "7 tỷ kwh mỗi năm",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:điện quốc gia",
+      "label": "điện quốc gia",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:an ninh năng lượng",
+      "label": "an ninh năng lượng",
+      "type": "keyword",
+      "weight": 4
+    },
+    {
+      "id": "article:2026/may-tinh-tu-van-hanh-mo-ra-tuong-lai-moi",
+      "label": "Máy tính tự vận hành mở ra tương lai mới",
+      "type": "article",
+      "weight": 1
+    },
+    {
+      "id": "keyword:ai agent",
+      "label": "ai agent",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:large language models",
+      "label": "large language models",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:chatgpt",
+      "label": "chatgpt",
+      "type": "keyword",
+      "weight": 2
+    },
+    {
+      "id": "keyword:openclaw",
+      "label": "openclaw",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:nvidia",
+      "label": "nvidia",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:jensen huang",
+      "label": "jensen huang",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:computex 2026",
+      "label": "computex 2026",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:microsoft scout",
+      "label": "microsoft scout",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:outlook",
+      "label": "outlook",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:teams",
+      "label": "teams",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:googlebooks",
+      "label": "googlebooks",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:trust in ai",
+      "label": "trust in ai",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:automation",
+      "label": "automation",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:multi-step tasks",
+      "label": "multi-step tasks",
+      "type": "keyword",
+      "weight": 1
     },
     {
       "id": "article:2026/doanh-nghiep-dau-tien-ky-hop-dong-mua-ban-dien-truc-tiep",
@@ -981,6 +1629,228 @@
     {
       "id": "keyword:quy",
       "label": "quy",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "article:2026/trung-quoc-che-tao-bo-nho-luong-tu-qram-nhanh-nhat-the-gioi",
+      "label": "Trung Quốc chế tạo bộ nhớ lượng tử QRAM nhanh nhất thế giới",
+      "type": "article",
+      "weight": 1
+    },
+    {
+      "id": "keyword:hanoi",
+      "label": "hanoi",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:ho chi minh city",
+      "label": "ho chi minh city",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:weather forecast",
+      "label": "weather forecast",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:cloudy",
+      "label": "cloudy",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:overcast",
+      "label": "overcast",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:temperatures",
+      "label": "temperatures",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:celsius",
+      "label": "celsius",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:june 2026",
+      "label": "june 2026",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:daily temperatures",
+      "label": "daily temperatures",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:city forecast",
+      "label": "city forecast",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:two cities",
+      "label": "two cities",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "article:2026/sieu-thu-phu-cong-nghiep-moi-cua-viet-nam-sap-co-2-nha-may-dien-gio-hon-6000-ty",
+      "label": "Siêu thủ phủ công nghiệp mới của Việt Nam sắp có 2 nhà máy điện gió hơn 6.000 tỷ",
+      "type": "article",
+      "weight": 1
+    },
+    {
+      "id": "keyword:wind power",
+      "label": "wind power",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:bắc ninh",
+      "label": "bắc ninh",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:đầu tư",
+      "label": "đầu tư",
+      "type": "keyword",
+      "weight": 2
+    },
+    {
+      "id": "keyword:dự án",
+      "label": "dự án",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:enertrag se",
+      "label": "enertrag se",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:enertrag vietnam",
+      "label": "enertrag vietnam",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:sd đại sơn",
+      "label": "sd đại sơn",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:bắc giang 2",
+      "label": "bắc giang 2",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:thuê đất",
+      "label": "thuê đất",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:hệ thống điện quốc gia",
+      "label": "hệ thống điện quốc gia",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "article:2026/lan-dau-tien-cac-nha-khoa-hoc-chinh-sua-chinh-xac-gene-trong-phoi-nguoi",
+      "label": "Lần đầu tiên, các nhà khoa học chỉnh sửa chính xác gene trong phôi người",
+      "type": "article",
+      "weight": 1
+    },
+    {
+      "id": "keyword:crisper",
+      "label": "crisper",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:base editing",
+      "label": "base editing",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:embryo editing",
+      "label": "embryo editing",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:gene editing",
+      "label": "gene editing",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:mosaicism",
+      "label": "mosaicism",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:ethics",
+      "label": "ethics",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:columbia university",
+      "label": "columbia university",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:dieter egli",
+      "label": "dieter egli",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:david liu",
+      "label": "david liu",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:the new york times",
+      "label": "the new york times",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:ivf",
+      "label": "ivf",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:pcsk9",
+      "label": "pcsk9",
+      "type": "keyword",
+      "weight": 1
+    },
+    {
+      "id": "keyword:hbg gene",
+      "label": "hbg gene",
       "type": "keyword",
       "weight": 1
     },
@@ -1201,12 +2071,6 @@
       "weight": 1
     },
     {
-      "id": "keyword:energy security",
-      "label": "energy security",
-      "type": "keyword",
-      "weight": 1
-    },
-    {
       "id": "keyword:sustainable development",
       "label": "sustainable development",
       "type": "keyword",
@@ -1279,12 +2143,6 @@
       "weight": 1
     },
     {
-      "id": "keyword:fdi",
-      "label": "fdi",
-      "type": "keyword",
-      "weight": 1
-    },
-    {
       "id": "keyword:chi phí xây dựng",
       "label": "chi phí xây dựng",
       "type": "keyword",
@@ -1319,12 +2177,6 @@
       "label": "quy hoạch điện 8",
       "type": "keyword",
       "weight": 1
-    },
-    {
-      "id": "keyword:an ninh năng lượng",
-      "label": "an ninh năng lượng",
-      "type": "keyword",
-      "weight": 3
     },
     {
       "id": "keyword:điện lực",
@@ -1423,12 +2275,6 @@
       "weight": 1
     },
     {
-      "id": "keyword:apac wind energy summit 2026",
-      "label": "apac wind energy summit 2026",
-      "type": "keyword",
-      "weight": 1
-    },
-    {
       "id": "keyword:global wind energy council",
       "label": "global wind energy council",
       "type": "keyword",
@@ -1491,12 +2337,6 @@
     {
       "id": "keyword:similarweb",
       "label": "similarweb",
-      "type": "keyword",
-      "weight": 1
-    },
-    {
-      "id": "keyword:chatgpt",
-      "label": "chatgpt",
       "type": "keyword",
       "weight": 1
     },
@@ -1675,12 +2515,6 @@
       "weight": 1
     },
     {
-      "id": "keyword:đầu tư nước ngoài",
-      "label": "đầu tư nước ngoài",
-      "type": "keyword",
-      "weight": 1
-    },
-    {
       "id": "keyword:thương mại",
       "label": "thương mại",
       "type": "keyword",
@@ -1731,12 +2565,6 @@
     {
       "id": "keyword:phát triển năng lượng quốc gia 2026-2030",
       "label": "phát triển năng lượng quốc gia 2026-2030",
-      "type": "keyword",
-      "weight": 1
-    },
-    {
-      "id": "keyword:đầu tư",
-      "label": "đầu tư",
       "type": "keyword",
       "weight": 1
     },
@@ -1963,12 +2791,6 @@
       "weight": 1
     },
     {
-      "id": "keyword:m&a",
-      "label": "m&a",
-      "type": "keyword",
-      "weight": 1
-    },
-    {
       "id": "keyword:livzon pharmaceutical group",
       "label": "livzon pharmaceutical group",
       "type": "keyword",
@@ -2119,12 +2941,6 @@
       "weight": 1
     },
     {
-      "id": "keyword:renewable energy",
-      "label": "renewable energy",
-      "type": "keyword",
-      "weight": 1
-    },
-    {
       "id": "keyword:mainstream renewable power",
       "label": "mainstream renewable power",
       "type": "keyword",
@@ -2191,12 +3007,6 @@
       "weight": 1
     },
     {
-      "id": "keyword:vietnam energy policy",
-      "label": "vietnam energy policy",
-      "type": "keyword",
-      "weight": 1
-    },
-    {
       "id": "keyword:nhon trach 3 and 4",
       "label": "nhon trach 3 and 4",
       "type": "keyword",
@@ -2240,6 +3050,498 @@
     }
   ],
   "links": [
+    {
+      "source": "keyword:việt nam",
+      "target": "article:2026/go-diem-nghen-cho-cac-du-an-dien-gio-ty-usd",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:điện gió",
+      "target": "article:2026/go-diem-nghen-cho-cac-du-an-dien-gio-ty-usd",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:điện gió ngoài khơi",
+      "target": "article:2026/go-diem-nghen-cho-cac-du-an-dien-gio-ty-usd",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "article:2026/go-diem-nghen-cho-cac-du-an-dien-gio-ty-usd",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:hợp đồng mua bán điện",
+      "target": "article:2026/go-diem-nghen-cho-cac-du-an-dien-gio-ty-usd",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:ppa",
+      "target": "article:2026/go-diem-nghen-cho-cac-du-an-dien-gio-ty-usd",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:cơ chế giá",
+      "target": "article:2026/go-diem-nghen-cho-cac-du-an-dien-gio-ty-usd",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:đầu tư nước ngoài",
+      "target": "article:2026/go-diem-nghen-cho-cac-du-an-dien-gio-ty-usd",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:fdi",
+      "target": "article:2026/go-diem-nghen-cho-cac-du-an-dien-gio-ty-usd",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:chuỗi cung ứng nội địa",
+      "target": "article:2026/go-diem-nghen-cho-cac-du-an-dien-gio-ty-usd",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:kế hoạch điện VIII",
+      "target": "article:2026/go-diem-nghen-cho-cac-du-an-dien-gio-ty-usd",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:giá điện",
+      "target": "article:2026/go-diem-nghen-cho-cac-du-an-dien-gio-ty-usd",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:offshore wind",
+      "target": "article:2026/nhieu-doanh-nghiep-na-uy-bat-ngo-tro-lai-ha-noi-ngo-y-giup-viet-nam-khai-thac-andquotkho-bauandquot-tram-ty-usd",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:vietnam",
+      "target": "article:2026/nhieu-doanh-nghiep-na-uy-bat-ngo-tro-lai-ha-noi-ngo-y-giup-viet-nam-khai-thac-andquotkho-bauandquot-tram-ty-usd",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:apac wind energy summit 2026",
+      "target": "article:2026/nhieu-doanh-nghiep-na-uy-bat-ngo-tro-lai-ha-noi-ngo-y-giup-viet-nam-khai-thac-andquotkho-bauandquot-tram-ty-usd",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:norwep",
+      "target": "article:2026/nhieu-doanh-nghiep-na-uy-bat-ngo-tro-lai-ha-noi-ngo-y-giup-viet-nam-khai-thac-andquotkho-bauandquot-tram-ty-usd",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:jon dugstad",
+      "target": "article:2026/nhieu-doanh-nghiep-na-uy-bat-ngo-tro-lai-ha-noi-ngo-y-giup-viet-nam-khai-thac-andquotkho-bauandquot-tram-ty-usd",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:hilde solbakken",
+      "target": "article:2026/nhieu-doanh-nghiep-na-uy-bat-ngo-tro-lai-ha-noi-ngo-y-giup-viet-nam-khai-thac-andquotkho-bauandquot-tram-ty-usd",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:gwec",
+      "target": "article:2026/nhieu-doanh-nghiep-na-uy-bat-ngo-tro-lai-ha-noi-ngo-y-giup-viet-nam-khai-thac-andquotkho-bauandquot-tram-ty-usd",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:parliament resolution 253/2025/qh15",
+      "target": "article:2026/nhieu-doanh-nghiep-na-uy-bat-ngo-tro-lai-ha-noi-ngo-y-giup-viet-nam-khai-thac-andquotkho-bauandquot-tram-ty-usd",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:dnv as",
+      "target": "article:2026/nhieu-doanh-nghiep-na-uy-bat-ngo-tro-lai-ha-noi-ngo-y-giup-viet-nam-khai-thac-andquotkho-bauandquot-tram-ty-usd",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:fred. olsen windcarrier",
+      "target": "article:2026/nhieu-doanh-nghiep-na-uy-bat-ngo-tro-lai-ha-noi-ngo-y-giup-viet-nam-khai-thac-andquotkho-bauandquot-tram-ty-usd",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:ngi",
+      "target": "article:2026/nhieu-doanh-nghiep-na-uy-bat-ngo-tro-lai-ha-noi-ngo-y-giup-viet-nam-khai-thac-andquotkho-bauandquot-tram-ty-usd",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:reach subsea",
+      "target": "article:2026/nhieu-doanh-nghiep-na-uy-bat-ngo-tro-lai-ha-noi-ngo-y-giup-viet-nam-khai-thac-andquotkho-bauandquot-tram-ty-usd",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:oglænd system/hilti",
+      "target": "article:2026/nhieu-doanh-nghiep-na-uy-bat-ngo-tro-lai-ha-noi-ngo-y-giup-viet-nam-khai-thac-andquotkho-bauandquot-tram-ty-usd",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:humanoid robot",
+      "target": "article:2026/khong-con-o-trong-phim-mot-cong-ty-trung-quoc-vua-tung-ra-robot-osin-thay-con-nguoi-lam-het-viec-nha",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:seeLight S1",
+      "target": "article:2026/khong-con-o-trong-phim-mot-cong-ty-trung-quoc-vua-tung-ra-robot-osin-thay-con-nguoi-lam-het-viec-nha",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:household robot",
+      "target": "article:2026/khong-con-o-trong-phim-mot-cong-ty-trung-quoc-vua-tung-ra-robot-osin-thay-con-nguoi-lam-het-viec-nha",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:hubei giga world robot",
+      "target": "article:2026/khong-con-o-trong-phim-mot-cong-ty-trung-quoc-vua-tung-ra-robot-osin-thay-con-nguoi-lam-het-viec-nha",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:wuhan",
+      "target": "article:2026/khong-con-o-trong-phim-mot-cong-ty-trung-quoc-vua-tung-ra-robot-osin-thay-con-nguoi-lam-het-viec-nha",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:ai model",
+      "target": "article:2026/khong-con-o-trong-phim-mot-cong-ty-trung-quoc-vua-tung-ra-robot-osin-thay-con-nguoi-lam-het-viec-nha",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:environment recognition",
+      "target": "article:2026/khong-con-o-trong-phim-mot-cong-ty-trung-quoc-vua-tung-ra-robot-osin-thay-con-nguoi-lam-het-viec-nha",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:language understanding",
+      "target": "article:2026/khong-con-o-trong-phim-mot-cong-ty-trung-quoc-vua-tung-ra-robot-osin-thay-con-nguoi-lam-het-viec-nha",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:free trial",
+      "target": "article:2026/khong-con-o-trong-phim-mot-cong-ty-trung-quoc-vua-tung-ra-robot-osin-thay-con-nguoi-lam-het-viec-nha",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:data collection",
+      "target": "article:2026/khong-con-o-trong-phim-mot-cong-ty-trung-quoc-vua-tung-ra-robot-osin-thay-con-nguoi-lam-het-viec-nha",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:price range 50000-100000 yuan",
+      "target": "article:2026/khong-con-o-trong-phim-mot-cong-ty-trung-quoc-vua-tung-ra-robot-osin-thay-con-nguoi-lam-het-viec-nha",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:consumer interest",
+      "target": "article:2026/khong-con-o-trong-phim-mot-cong-ty-trung-quoc-vua-tung-ra-robot-osin-thay-con-nguoi-lam-het-viec-nha",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:global humanoid robot market",
+      "target": "article:2026/khong-con-o-trong-phim-mot-cong-ty-trung-quoc-vua-tung-ra-robot-osin-thay-con-nguoi-lam-het-viec-nha",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:morgan stanley forecast",
+      "target": "article:2026/khong-con-o-trong-phim-mot-cong-ty-trung-quoc-vua-tung-ra-robot-osin-thay-con-nguoi-lam-het-viec-nha",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:offshore wind",
+      "target": "article:2026/pho-thu-tuong-thuong-truc-pham-gia-tuc-lam-viec-voi-hoi-dong-nang-luong-gio-toan-cau",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:wind energy",
+      "target": "article:2026/pho-thu-tuong-thuong-truc-pham-gia-tuc-lam-viec-voi-hoi-dong-nang-luong-gio-toan-cau",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:renewable energy",
+      "target": "article:2026/pho-thu-tuong-thuong-truc-pham-gia-tuc-lam-viec-voi-hoi-dong-nang-luong-gio-toan-cau",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:vietnam energy policy",
+      "target": "article:2026/pho-thu-tuong-thuong-truc-pham-gia-tuc-lam-viec-voi-hoi-dong-nang-luong-gio-toan-cau",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:gwec",
+      "target": "article:2026/pho-thu-tuong-thuong-truc-pham-gia-tuc-lam-viec-voi-hoi-dong-nang-luong-gio-toan-cau",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:foreign investment",
+      "target": "article:2026/pho-thu-tuong-thuong-truc-pham-gia-tuc-lam-viec-voi-hoi-dong-nang-luong-gio-toan-cau",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:supply chain",
+      "target": "article:2026/pho-thu-tuong-thuong-truc-pham-gia-tuc-lam-viec-voi-hoi-dong-nang-luong-gio-toan-cau",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:regulatory framework",
+      "target": "article:2026/pho-thu-tuong-thuong-truc-pham-gia-tuc-lam-viec-voi-hoi-dong-nang-luong-gio-toan-cau",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:capital mobilization",
+      "target": "article:2026/pho-thu-tuong-thuong-truc-pham-gia-tuc-lam-viec-voi-hoi-dong-nang-luong-gio-toan-cau",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:grid infrastructure",
+      "target": "article:2026/pho-thu-tuong-thuong-truc-pham-gia-tuc-lam-viec-voi-hoi-dong-nang-luong-gio-toan-cau",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:port infrastructure",
+      "target": "article:2026/pho-thu-tuong-thuong-truc-pham-gia-tuc-lam-viec-voi-hoi-dong-nang-luong-gio-toan-cau",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:policy reform",
+      "target": "article:2026/pho-thu-tuong-thuong-truc-pham-gia-tuc-lam-viec-voi-hoi-dong-nang-luong-gio-toan-cau",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:offshore wind targets",
+      "target": "article:2026/pho-thu-tuong-thuong-truc-pham-gia-tuc-lam-viec-voi-hoi-dong-nang-luong-gio-toan-cau",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:electricity law 2024",
+      "target": "article:2026/pho-thu-tuong-thuong-truc-pham-gia-tuc-lam-viec-voi-hoi-dong-nang-luong-gio-toan-cau",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:energy security",
+      "target": "article:2026/pho-thu-tuong-thuong-truc-pham-gia-tuc-lam-viec-voi-hoi-dong-nang-luong-gio-toan-cau",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:hoadon-dien-tu",
+      "target": "article:2026/nganh-thue-chi-ra-nhung-chieu-tro-gian-lan-ve-hoa-don-dien-tu",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:gian-lan-hoa-don",
+      "target": "article:2026/nganh-thue-chi-ra-nhung-chieu-tro-gian-lan-ve-hoa-don-dien-tu",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:phan-tich-do-thi",
+      "target": "article:2026/nganh-thue-chi-ra-nhung-chieu-tro-gian-lan-ve-hoa-don-dien-tu",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "article:2026/nganh-thue-chi-ra-nhung-chieu-tro-gian-lan-ve-hoa-don-dien-tu",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:machine-learning",
+      "target": "article:2026/nganh-thue-chi-ra-nhung-chieu-tro-gian-lan-ve-hoa-don-dien-tu",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:phan-tich-du-lieu",
+      "target": "article:2026/nganh-thue-chi-ra-nhung-chieu-tro-gian-lan-ve-hoa-don-dien-tu",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:chuoi-giao-dich",
+      "target": "article:2026/nganh-thue-chi-ra-nhung-chieu-tro-gian-lan-ve-hoa-don-dien-tu",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:giao-dich-hoa-don",
+      "target": "article:2026/nganh-thue-chi-ra-nhung-chieu-tro-gian-lan-ve-hoa-don-dien-tu",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:he-thong-phan-tich-risiko",
+      "target": "article:2026/nganh-thue-chi-ra-nhung-chieu-tro-gian-lan-ve-hoa-don-dien-tu",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:truy-vet-thue",
+      "target": "article:2026/nganh-thue-chi-ra-nhung-chieu-tro-gian-lan-ve-hoa-don-dien-tu",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:doanh-nghiep-ma",
+      "target": "article:2026/nganh-thue-chi-ra-nhung-chieu-tro-gian-lan-ve-hoa-don-dien-tu",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:canh-bao-xuat-hoa-don",
+      "target": "article:2026/nganh-thue-chi-ra-nhung-chieu-tro-gian-lan-ve-hoa-don-dien-tu",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:kho-du-lieu-hoa-don",
+      "target": "article:2026/nganh-thue-chi-ra-nhung-chieu-tro-gian-lan-ve-hoa-don-dien-tu",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:quyet dinh 982/qdtg",
+      "target": "article:2026/viet-nam-dat-muc-tieu-den-nam-2030-co-5-cong-ty-cong-nghe-dat-doanh-thu-toi-thieu-1-ty-usdnam-tu-thi-truong-nuoc-ngoai",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:de an ho tro phat trien cac doanh nghiep cong nghe so",
+      "target": "article:2026/viet-nam-dat-muc-tieu-den-nam-2030-co-5-cong-ty-cong-nghe-dat-doanh-thu-toi-thieu-1-ty-usdnam-tu-thi-truong-nuoc-ngoai",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:doanh nghiep cong nghe so",
+      "target": "article:2026/viet-nam-dat-muc-tieu-den-nam-2030-co-5-cong-ty-cong-nghe-dat-doanh-thu-toi-thieu-1-ty-usdnam-tu-thi-truong-nuoc-ngoai",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:xuat khau cong nghe",
+      "target": "article:2026/viet-nam-dat-muc-tieu-den-nam-2030-co-5-cong-ty-cong-nghe-dat-doanh-thu-toi-thieu-1-ty-usdnam-tu-thi-truong-nuoc-ngoai",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:55 ty usd/nam",
+      "target": "article:2026/viet-nam-dat-muc-tieu-den-nam-2030-co-5-cong-ty-cong-nghe-dat-doanh-thu-toi-thieu-1-ty-usdnam-tu-thi-truong-nuoc-ngoai",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:30%/nam",
+      "target": "article:2026/viet-nam-dat-muc-tieu-den-nam-2030-co-5-cong-ty-cong-nghe-dat-doanh-thu-toi-thieu-1-ty-usdnam-tu-thi-truong-nuoc-ngoai",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:make in viet nam",
+      "target": "article:2026/viet-nam-dat-muc-tieu-den-nam-2030-co-5-cong-ty-cong-nghe-dat-doanh-thu-toi-thieu-1-ty-usdnam-tu-thi-truong-nuoc-ngoai",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "article:2026/viet-nam-dat-muc-tieu-den-nam-2030-co-5-cong-ty-cong-nghe-dat-doanh-thu-toi-thieu-1-ty-usdnam-tu-thi-truong-nuoc-ngoai",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:iot",
+      "target": "article:2026/viet-nam-dat-muc-tieu-den-nam-2030-co-5-cong-ty-cong-nghe-dat-doanh-thu-toi-thieu-1-ty-usdnam-tu-thi-truong-nuoc-ngoai",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:big data",
+      "target": "article:2026/viet-nam-dat-muc-tieu-den-nam-2030-co-5-cong-ty-cong-nghe-dat-doanh-thu-toi-thieu-1-ty-usdnam-tu-thi-truong-nuoc-ngoai",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:m&a",
+      "target": "article:2026/viet-nam-dat-muc-tieu-den-nam-2030-co-5-cong-ty-cong-nghe-dat-doanh-thu-toi-thieu-1-ty-usdnam-tu-thi-truong-nuoc-ngoai",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:ipo",
+      "target": "article:2026/viet-nam-dat-muc-tieu-den-nam-2030-co-5-cong-ty-cong-nghe-dat-doanh-thu-toi-thieu-1-ty-usdnam-tu-thi-truong-nuoc-ngoai",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:viet nam 2045",
+      "target": "article:2026/viet-nam-dat-muc-tieu-den-nam-2030-co-5-cong-ty-cong-nghe-dat-doanh-thu-toi-thieu-1-ty-usdnam-tu-thi-truong-nuoc-ngoai",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:sandbox",
+      "target": "article:2026/viet-nam-dat-muc-tieu-den-nam-2030-co-5-cong-ty-cong-nghe-dat-doanh-thu-toi-thieu-1-ty-usdnam-tu-thi-truong-nuoc-ngoai",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:thuong hieu quoc gia cong nghe so",
+      "target": "article:2026/viet-nam-dat-muc-tieu-den-nam-2030-co-5-cong-ty-cong-nghe-dat-doanh-thu-toi-thieu-1-ty-usdnam-tu-thi-truong-nuoc-ngoai",
+      "weight": 1,
+      "type": "keyword-article"
+    },
     {
       "source": "keyword:fpt",
       "target": "article:2026/fpt-cong-bo-phuong-phap-luan-casan-giup-to-chuc-doanh-nghiep-tang-toc-chuyen-doi-ai",
@@ -3027,6 +4329,168 @@
       "type": "keyword-article"
     },
     {
+      "source": "keyword:dự án long phú 1",
+      "target": "article:2026/chuyen-bien-moi-tai-nha-may-dien-15-ty-usd-xay-16-nam-chua-xong",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:hạng mục hệ thống ống dẫn t08",
+      "target": "article:2026/chuyen-bien-moi-tai-nha-may-dien-15-ty-usd-xay-16-nam-chua-xong",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:gói thầu t08",
+      "target": "article:2026/chuyen-bien-moi-tai-nha-may-dien-15-ty-usd-xay-16-nam-chua-xong",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:ptsc quảng ngãi",
+      "target": "article:2026/chuyen-bien-moi-tai-nha-may-dien-15-ty-usd-xay-16-nam-chua-xong",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:china tianchen engineering corporation ltd",
+      "target": "article:2026/chuyen-bien-moi-tai-nha-may-dien-15-ty-usd-xay-16-nam-chua-xong",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:epc contract",
+      "target": "article:2026/chuyen-bien-moi-tai-nha-may-dien-15-ty-usd-xay-16-nam-chua-xong",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:power machines",
+      "target": "article:2026/chuyen-bien-moi-tai-nha-may-dien-15-ty-usd-xay-16-nam-chua-xong",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:lò hơi số 2",
+      "target": "article:2026/chuyen-bien-moi-tai-nha-may-dien-15-ty-usd-xay-16-nam-chua-xong",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:economizer",
+      "target": "article:2026/chuyen-bien-moi-tai-nha-may-dien-15-ty-usd-xay-16-nam-chua-xong",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:vận hành thương mại 2027",
+      "target": "article:2026/chuyen-bien-moi-tai-nha-may-dien-15-ty-usd-xay-16-nam-chua-xong",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:7 tỷ kwh mỗi năm",
+      "target": "article:2026/chuyen-bien-moi-tai-nha-may-dien-15-ty-usd-xay-16-nam-chua-xong",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:điện quốc gia",
+      "target": "article:2026/chuyen-bien-moi-tai-nha-may-dien-15-ty-usd-xay-16-nam-chua-xong",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:an ninh năng lượng",
+      "target": "article:2026/chuyen-bien-moi-tai-nha-may-dien-15-ty-usd-xay-16-nam-chua-xong",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:ai agent",
+      "target": "article:2026/may-tinh-tu-van-hanh-mo-ra-tuong-lai-moi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:large language models",
+      "target": "article:2026/may-tinh-tu-van-hanh-mo-ra-tuong-lai-moi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:chatgpt",
+      "target": "article:2026/may-tinh-tu-van-hanh-mo-ra-tuong-lai-moi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:openclaw",
+      "target": "article:2026/may-tinh-tu-van-hanh-mo-ra-tuong-lai-moi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:nvidia",
+      "target": "article:2026/may-tinh-tu-van-hanh-mo-ra-tuong-lai-moi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:jensen huang",
+      "target": "article:2026/may-tinh-tu-van-hanh-mo-ra-tuong-lai-moi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:computex 2026",
+      "target": "article:2026/may-tinh-tu-van-hanh-mo-ra-tuong-lai-moi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:microsoft scout",
+      "target": "article:2026/may-tinh-tu-van-hanh-mo-ra-tuong-lai-moi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:outlook",
+      "target": "article:2026/may-tinh-tu-van-hanh-mo-ra-tuong-lai-moi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:teams",
+      "target": "article:2026/may-tinh-tu-van-hanh-mo-ra-tuong-lai-moi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:googlebooks",
+      "target": "article:2026/may-tinh-tu-van-hanh-mo-ra-tuong-lai-moi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:trust in ai",
+      "target": "article:2026/may-tinh-tu-van-hanh-mo-ra-tuong-lai-moi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:automation",
+      "target": "article:2026/may-tinh-tu-van-hanh-mo-ra-tuong-lai-moi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:multi-step tasks",
+      "target": "article:2026/may-tinh-tu-van-hanh-mo-ra-tuong-lai-moi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
       "source": "keyword:kinh",
       "target": "article:2026/doanh-nghiep-dau-tien-ky-hop-dong-mua-ban-dien-truc-tiep",
       "weight": 1,
@@ -3203,6 +4667,228 @@
     {
       "source": "keyword:quy",
       "target": "article:2026/quan-ly-tai-nguyen-gio-xung-dot-hieu-ung-ton-that-gio-o-viet-nam-thach-thuc-phap-ly-va-giai-phap-ky-thuat",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:hanoi",
+      "target": "article:2026/trung-quoc-che-tao-bo-nho-luong-tu-qram-nhanh-nhat-the-gioi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:ho chi minh city",
+      "target": "article:2026/trung-quoc-che-tao-bo-nho-luong-tu-qram-nhanh-nhat-the-gioi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:weather forecast",
+      "target": "article:2026/trung-quoc-che-tao-bo-nho-luong-tu-qram-nhanh-nhat-the-gioi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:cloudy",
+      "target": "article:2026/trung-quoc-che-tao-bo-nho-luong-tu-qram-nhanh-nhat-the-gioi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:overcast",
+      "target": "article:2026/trung-quoc-che-tao-bo-nho-luong-tu-qram-nhanh-nhat-the-gioi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:temperatures",
+      "target": "article:2026/trung-quoc-che-tao-bo-nho-luong-tu-qram-nhanh-nhat-the-gioi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:celsius",
+      "target": "article:2026/trung-quoc-che-tao-bo-nho-luong-tu-qram-nhanh-nhat-the-gioi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:june 2026",
+      "target": "article:2026/trung-quoc-che-tao-bo-nho-luong-tu-qram-nhanh-nhat-the-gioi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:daily temperatures",
+      "target": "article:2026/trung-quoc-che-tao-bo-nho-luong-tu-qram-nhanh-nhat-the-gioi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:vietnam",
+      "target": "article:2026/trung-quoc-che-tao-bo-nho-luong-tu-qram-nhanh-nhat-the-gioi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:city forecast",
+      "target": "article:2026/trung-quoc-che-tao-bo-nho-luong-tu-qram-nhanh-nhat-the-gioi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:two cities",
+      "target": "article:2026/trung-quoc-che-tao-bo-nho-luong-tu-qram-nhanh-nhat-the-gioi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:wind power",
+      "target": "article:2026/sieu-thu-phu-cong-nghiep-moi-cua-viet-nam-sap-co-2-nha-may-dien-gio-hon-6000-ty",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:điện gió",
+      "target": "article:2026/sieu-thu-phu-cong-nghiep-moi-cua-viet-nam-sap-co-2-nha-may-dien-gio-hon-6000-ty",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:bắc ninh",
+      "target": "article:2026/sieu-thu-phu-cong-nghiep-moi-cua-viet-nam-sap-co-2-nha-may-dien-gio-hon-6000-ty",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "article:2026/sieu-thu-phu-cong-nghiep-moi-cua-viet-nam-sap-co-2-nha-may-dien-gio-hon-6000-ty",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:đầu tư",
+      "target": "article:2026/sieu-thu-phu-cong-nghiep-moi-cua-viet-nam-sap-co-2-nha-may-dien-gio-hon-6000-ty",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:dự án",
+      "target": "article:2026/sieu-thu-phu-cong-nghiep-moi-cua-viet-nam-sap-co-2-nha-may-dien-gio-hon-6000-ty",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:enertrag se",
+      "target": "article:2026/sieu-thu-phu-cong-nghiep-moi-cua-viet-nam-sap-co-2-nha-may-dien-gio-hon-6000-ty",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:enertrag vietnam",
+      "target": "article:2026/sieu-thu-phu-cong-nghiep-moi-cua-viet-nam-sap-co-2-nha-may-dien-gio-hon-6000-ty",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:sd đại sơn",
+      "target": "article:2026/sieu-thu-phu-cong-nghiep-moi-cua-viet-nam-sap-co-2-nha-may-dien-gio-hon-6000-ty",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:bắc giang 2",
+      "target": "article:2026/sieu-thu-phu-cong-nghiep-moi-cua-viet-nam-sap-co-2-nha-may-dien-gio-hon-6000-ty",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:thuê đất",
+      "target": "article:2026/sieu-thu-phu-cong-nghiep-moi-cua-viet-nam-sap-co-2-nha-may-dien-gio-hon-6000-ty",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:hệ thống điện quốc gia",
+      "target": "article:2026/sieu-thu-phu-cong-nghiep-moi-cua-viet-nam-sap-co-2-nha-may-dien-gio-hon-6000-ty",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:crisper",
+      "target": "article:2026/lan-dau-tien-cac-nha-khoa-hoc-chinh-sua-chinh-xac-gene-trong-phoi-nguoi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:base editing",
+      "target": "article:2026/lan-dau-tien-cac-nha-khoa-hoc-chinh-sua-chinh-xac-gene-trong-phoi-nguoi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:embryo editing",
+      "target": "article:2026/lan-dau-tien-cac-nha-khoa-hoc-chinh-sua-chinh-xac-gene-trong-phoi-nguoi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:gene editing",
+      "target": "article:2026/lan-dau-tien-cac-nha-khoa-hoc-chinh-sua-chinh-xac-gene-trong-phoi-nguoi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:mosaicism",
+      "target": "article:2026/lan-dau-tien-cac-nha-khoa-hoc-chinh-sua-chinh-xac-gene-trong-phoi-nguoi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:ethics",
+      "target": "article:2026/lan-dau-tien-cac-nha-khoa-hoc-chinh-sua-chinh-xac-gene-trong-phoi-nguoi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:columbia university",
+      "target": "article:2026/lan-dau-tien-cac-nha-khoa-hoc-chinh-sua-chinh-xac-gene-trong-phoi-nguoi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:dieter egli",
+      "target": "article:2026/lan-dau-tien-cac-nha-khoa-hoc-chinh-sua-chinh-xac-gene-trong-phoi-nguoi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:david liu",
+      "target": "article:2026/lan-dau-tien-cac-nha-khoa-hoc-chinh-sua-chinh-xac-gene-trong-phoi-nguoi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:the new york times",
+      "target": "article:2026/lan-dau-tien-cac-nha-khoa-hoc-chinh-sua-chinh-xac-gene-trong-phoi-nguoi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:ivf",
+      "target": "article:2026/lan-dau-tien-cac-nha-khoa-hoc-chinh-sua-chinh-xac-gene-trong-phoi-nguoi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:pcsk9",
+      "target": "article:2026/lan-dau-tien-cac-nha-khoa-hoc-chinh-sua-chinh-xac-gene-trong-phoi-nguoi",
+      "weight": 1,
+      "type": "keyword-article"
+    },
+    {
+      "source": "keyword:hbg gene",
+      "target": "article:2026/lan-dau-tien-cac-nha-khoa-hoc-chinh-sua-chinh-xac-gene-trong-phoi-nguoi",
       "weight": 1,
       "type": "keyword-article"
     },
@@ -4497,6 +6183,1398 @@
       "type": "keyword-article"
     },
     {
+      "source": "keyword:việt nam",
+      "target": "keyword:điện gió",
+      "weight": 2,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:việt nam",
+      "target": "keyword:điện gió ngoài khơi",
+      "weight": 2,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:việt nam",
+      "target": "keyword:đầu tư nước ngoài",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:việt nam",
+      "target": "keyword:điện gió ngoài khơi",
+      "weight": 2,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:việt nam",
+      "target": "keyword:vốn đầu tư",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:việt nam",
+      "target": "keyword:đấu thầu",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:việt nam",
+      "target": "keyword:điện gió",
+      "weight": 2,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:việt nam",
+      "target": "keyword:điện mặt trời",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:việt nam",
+      "target": "keyword:điều tần",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:việt nam",
+      "target": "keyword:điện năng",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:việt nam",
+      "target": "keyword:điện tử và bán dẫn",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:điện gió",
+      "target": "keyword:điện gió ngoài khơi",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:điện gió",
+      "target": "keyword:đầu tư nước ngoài",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:điện gió",
+      "target": "keyword:điện mặt trời",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:điện gió",
+      "target": "keyword:đầu tư 14500 tỷ đồng",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:điện gió",
+      "target": "keyword:đầu tư",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:điện gió",
+      "target": "keyword:đồng bằng sông cửu long",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:điện gió ngoài khơi",
+      "target": "keyword:đầu tư nước ngoài",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:điện gió ngoài khơi",
+      "target": "keyword:điện khí lng",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:điện gió ngoài khơi",
+      "target": "keyword:đầu tư năng lượng",
+      "weight": 2,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:điện gió ngoài khơi",
+      "target": "keyword:đấu thầu dài hạn",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:điện gió ngoài khơi",
+      "target": "keyword:đà nẵng",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:điện gió ngoài khơi",
+      "target": "keyword:đấu thầu",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:điện gió ngoài khơi",
+      "target": "keyword:đầu tư năng lượng",
+      "weight": 2,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:điện gió ngoài khơi",
+      "target": "keyword:đầu tư",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:việt nam",
+      "weight": 2,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:điện gió",
+      "weight": 4,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:điện gió ngoài khơi",
+      "weight": 2,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:ppa",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:đầu tư nước ngoài",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:điện khí lng",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:điện gió ngoài khơi",
+      "weight": 2,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:quy hoạch điện VIII",
+      "weight": 3,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:đầu tư năng lượng",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:thị trường điện cạnh tranh",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:đấu thầu dài hạn",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:đà nẵng",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:quảng ngãi",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:việt nam",
+      "weight": 2,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:petrovietnam",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:quy hoạch điện VIII",
+      "weight": 3,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:điện gió",
+      "weight": 4,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:điện mặt trời",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:điều tần",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:wind power",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:điện gió",
+      "weight": 4,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:đầu tư",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:sd đại sơn",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:thuê đất",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:pham gia tuc",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:quy hoạch điện 8",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:điện lực",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:pin lưu trữ",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:than đá",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:quyết định 2634/qđ-ttg",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:điều hành thị trường điện",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:điện gió",
+      "weight": 4,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:trạm biến áp 220kV",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:vốn đầu tư 9.1395 nghìn tỷ đồng",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:vốn đầu tư 14.5 nghìn tỷ đồng",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:đồng bằng sông cửu long",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:quy hoạch điện VIII",
+      "weight": 3,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:năng lượng xanh",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:năng lượng tái tạo",
+      "target": "keyword:phát triển xanh",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:đầu tư nước ngoài",
+      "target": "keyword:đồng tháp",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:fdi",
+      "target": "keyword:việt nam",
+      "weight": 2,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:fdi",
+      "target": "keyword:điện gió",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:fdi",
+      "target": "keyword:điện gió ngoài khơi",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:fdi",
+      "target": "keyword:năng lượng tái tạo",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:fdi",
+      "target": "keyword:hợp đồng mua bán điện",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:fdi",
+      "target": "keyword:ppa",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:fdi",
+      "target": "keyword:đầu tư nước ngoài",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:fdi",
+      "target": "keyword:kế hoạch điện VIII",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:fdi",
+      "target": "keyword:giá điện",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:fdi",
+      "target": "keyword:điện năng",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:fdi",
+      "target": "keyword:hạ tầng số",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:fdi",
+      "target": "keyword:trung tâm dữ liệu",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:fdi",
+      "target": "keyword:kinh tế số",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:fdi",
+      "target": "keyword:điện tử và bán dẫn",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:fdi",
+      "target": "keyword:logistics",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:fdi",
+      "target": "keyword:việt nam",
+      "weight": 2,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:fdi",
+      "target": "keyword:hà nội",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:fdi",
+      "target": "keyword:tp.hcm",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:offshore wind",
+      "target": "keyword:vietnam",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:offshore wind",
+      "target": "keyword:parliament resolution 253/2025/qh15",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:offshore wind",
+      "target": "keyword:reach subsea",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:offshore wind",
+      "target": "keyword:oglænd system/hilti",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:offshore wind",
+      "target": "keyword:wind energy",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:offshore wind",
+      "target": "keyword:renewable energy",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:offshore wind",
+      "target": "keyword:vietnam energy policy",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:offshore wind",
+      "target": "keyword:supply chain",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:offshore wind",
+      "target": "keyword:regulatory framework",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:offshore wind",
+      "target": "keyword:port infrastructure",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:offshore wind",
+      "target": "keyword:policy reform",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:offshore wind",
+      "target": "keyword:offshore wind targets",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:offshore wind",
+      "target": "keyword:việt nam",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:offshore wind",
+      "target": "keyword:quy hoạch điện viii",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:offshore wind",
+      "target": "keyword:tariff framework",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:offshore wind",
+      "target": "keyword:survey rights",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:offshore wind",
+      "target": "keyword:regulatory reform",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:offshore wind",
+      "target": "keyword:security of energy supply",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:vietnam",
+      "target": "keyword:weather forecast",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:apac wind energy summit 2026",
+      "target": "keyword:offshore wind",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:apac wind energy summit 2026",
+      "target": "keyword:vietnam",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:apac wind energy summit 2026",
+      "target": "keyword:norwep",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:apac wind energy summit 2026",
+      "target": "keyword:jon dugstad",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:apac wind energy summit 2026",
+      "target": "keyword:hilde solbakken",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:apac wind energy summit 2026",
+      "target": "keyword:gwec",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:apac wind energy summit 2026",
+      "target": "keyword:parliament resolution 253/2025/qh15",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:apac wind energy summit 2026",
+      "target": "keyword:dnv as",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:apac wind energy summit 2026",
+      "target": "keyword:fred. olsen windcarrier",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:apac wind energy summit 2026",
+      "target": "keyword:ngi",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:apac wind energy summit 2026",
+      "target": "keyword:reach subsea",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:apac wind energy summit 2026",
+      "target": "keyword:oglænd system/hilti",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:apac wind energy summit 2026",
+      "target": "keyword:điện gió ngoài khơi",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:apac wind energy summit 2026",
+      "target": "keyword:cơ chế đặc thù",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:apac wind energy summit 2026",
+      "target": "keyword:pháp lý",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:apac wind energy summit 2026",
+      "target": "keyword:đầu tư năng lượng",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:apac wind energy summit 2026",
+      "target": "keyword:quy hoạch điện VIII",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:apac wind energy summit 2026",
+      "target": "keyword:hạ tầng truyền tải",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:apac wind energy summit 2026",
+      "target": "keyword:tài chính xanh",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:apac wind energy summit 2026",
+      "target": "keyword:rủi ro tranh chấp",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:apac wind energy summit 2026",
+      "target": "keyword:cạnh tranh",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:apac wind energy summit 2026",
+      "target": "keyword:global wind energy council",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:apac wind energy summit 2026",
+      "target": "keyword:thời gian chuẩn bị",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:gwec",
+      "target": "keyword:offshore wind",
+      "weight": 2,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:gwec",
+      "target": "keyword:vietnam",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:gwec",
+      "target": "keyword:norwep",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:gwec",
+      "target": "keyword:jon dugstad",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:gwec",
+      "target": "keyword:hilde solbakken",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:gwec",
+      "target": "keyword:parliament resolution 253/2025/qh15",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:gwec",
+      "target": "keyword:ngi",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:gwec",
+      "target": "keyword:reach subsea",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:gwec",
+      "target": "keyword:oglænd system/hilti",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:gwec",
+      "target": "keyword:offshore wind",
+      "weight": 2,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:gwec",
+      "target": "keyword:wind energy",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:gwec",
+      "target": "keyword:renewable energy",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:gwec",
+      "target": "keyword:vietnam energy policy",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:gwec",
+      "target": "keyword:supply chain",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:gwec",
+      "target": "keyword:regulatory framework",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:gwec",
+      "target": "keyword:port infrastructure",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:gwec",
+      "target": "keyword:policy reform",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:gwec",
+      "target": "keyword:offshore wind targets",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:renewable energy",
+      "target": "keyword:wind energy",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:renewable energy",
+      "target": "keyword:vietnam energy policy",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:renewable energy",
+      "target": "keyword:supply chain",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:renewable energy",
+      "target": "keyword:điện gió phú cường",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:renewable energy",
+      "target": "keyword:vnd",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:renewable energy",
+      "target": "keyword:usd",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:vietnam energy policy",
+      "target": "keyword:wind energy",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:energy security",
+      "target": "keyword:offshore wind",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:energy security",
+      "target": "keyword:wind energy",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:energy security",
+      "target": "keyword:renewable energy",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:energy security",
+      "target": "keyword:vietnam energy policy",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:energy security",
+      "target": "keyword:gwec",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:energy security",
+      "target": "keyword:foreign investment",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:energy security",
+      "target": "keyword:supply chain",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:energy security",
+      "target": "keyword:regulatory framework",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:energy security",
+      "target": "keyword:grid infrastructure",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:energy security",
+      "target": "keyword:port infrastructure",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:energy security",
+      "target": "keyword:policy reform",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:energy security",
+      "target": "keyword:offshore wind targets",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:energy security",
+      "target": "keyword:lng",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:energy security",
+      "target": "keyword:vung ang iii",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:energy security",
+      "target": "keyword:ha tinh",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:energy security",
+      "target": "keyword:pv power",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:energy security",
+      "target": "keyword:lilama",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:energy security",
+      "target": "keyword:investment",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:energy security",
+      "target": "keyword:sustainable development",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:energy security",
+      "target": "keyword:vietnam-thailand cooperation",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:energy security",
+      "target": "keyword:esg",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:hoadon-dien-tu",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:gian-lan-hoa-don",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:phan-tich-do-thi",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:machine-learning",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:phan-tich-du-lieu",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:chuoi-giao-dich",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:giao-dich-hoa-don",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:he-thong-phan-tich-risiko",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:truy-vet-thue",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:doanh-nghiep-ma",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:canh-bao-xuat-hoa-don",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:kho-du-lieu-hoa-don",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:quyet dinh 982/qdtg",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:de an ho tro phat trien cac doanh nghiep cong nghe so",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:doanh nghiep cong nghe so",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:xuat khau cong nghe",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:make in viet nam",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:iot",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:big data",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:m&a",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:ipo",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:viet nam 2045",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:sandbox",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:thuong hieu quoc gia cong nghe so",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:startup competition",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:south summit madrid",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:convergence ai",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:venture capital",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:angel investors",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:patents",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:funding",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:europe startups",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:fintech",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:climate tech",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:healthcare",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:singapore",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:united states",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:điện năng",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:hạ tầng số",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:trung tâm dữ liệu",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:kinh tế số",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:điện tử và bán dẫn",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:công nghiệp công nghệ cao",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:logistics",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:fdi",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:chi phí xây dựng",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:chi phí cạnh tranh",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:việt nam",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:hà nội",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:ai",
+      "target": "keyword:tp.hcm",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:m&a",
+      "target": "keyword:quyet dinh 982/qdtg",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:m&a",
+      "target": "keyword:xuat khau cong nghe",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:m&a",
+      "target": "keyword:make in viet nam",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:m&a",
+      "target": "keyword:viet nam 2045",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:m&a",
+      "target": "keyword:sandbox",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:m&a",
+      "target": "keyword:thuong hieu quoc gia cong nghe so",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:m&a",
+      "target": "keyword:sk group",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:m&a",
+      "target": "keyword:sk south east asia investment",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:m&a",
+      "target": "keyword:who-gmp",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:m&a",
+      "target": "keyword:vietnamese pharmaceutical industry",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:m&a",
+      "target": "keyword:public offering",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
       "source": "keyword:lng",
       "target": "keyword:điện khí lng",
       "weight": 1,
@@ -4577,222 +7655,6 @@
     {
       "source": "keyword:lng",
       "target": "keyword:vietnam-thailand cooperation",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:năng lượng tái tạo",
-      "target": "keyword:điện khí lng",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:năng lượng tái tạo",
-      "target": "keyword:điện gió ngoài khơi",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:năng lượng tái tạo",
-      "target": "keyword:quy hoạch điện VIII",
-      "weight": 3,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:năng lượng tái tạo",
-      "target": "keyword:đầu tư năng lượng",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:năng lượng tái tạo",
-      "target": "keyword:thị trường điện cạnh tranh",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:năng lượng tái tạo",
-      "target": "keyword:đấu thầu dài hạn",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:năng lượng tái tạo",
-      "target": "keyword:đà nẵng",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:năng lượng tái tạo",
-      "target": "keyword:quảng ngãi",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:năng lượng tái tạo",
-      "target": "keyword:việt nam",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:năng lượng tái tạo",
-      "target": "keyword:petrovietnam",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:năng lượng tái tạo",
-      "target": "keyword:quy hoạch điện VIII",
-      "weight": 3,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:năng lượng tái tạo",
-      "target": "keyword:điện gió",
-      "weight": 2,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:năng lượng tái tạo",
-      "target": "keyword:điện mặt trời",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:năng lượng tái tạo",
-      "target": "keyword:điều tần",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:năng lượng tái tạo",
-      "target": "keyword:pham gia tuc",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:năng lượng tái tạo",
-      "target": "keyword:quy hoạch điện 8",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:năng lượng tái tạo",
-      "target": "keyword:điện lực",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:năng lượng tái tạo",
-      "target": "keyword:pin lưu trữ",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:năng lượng tái tạo",
-      "target": "keyword:than đá",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:năng lượng tái tạo",
-      "target": "keyword:quyết định 2634/qđ-ttg",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:năng lượng tái tạo",
-      "target": "keyword:điều hành thị trường điện",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:năng lượng tái tạo",
-      "target": "keyword:điện gió",
-      "weight": 2,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:năng lượng tái tạo",
-      "target": "keyword:trạm biến áp 220kV",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:năng lượng tái tạo",
-      "target": "keyword:vốn đầu tư 9.1395 nghìn tỷ đồng",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:năng lượng tái tạo",
-      "target": "keyword:vốn đầu tư 14.5 nghìn tỷ đồng",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:năng lượng tái tạo",
-      "target": "keyword:đồng bằng sông cửu long",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:năng lượng tái tạo",
-      "target": "keyword:quy hoạch điện VIII",
-      "weight": 3,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:năng lượng tái tạo",
-      "target": "keyword:năng lượng xanh",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:năng lượng tái tạo",
-      "target": "keyword:phát triển xanh",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:điện gió ngoài khơi",
-      "target": "keyword:điện khí lng",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:điện gió ngoài khơi",
-      "target": "keyword:đầu tư năng lượng",
-      "weight": 2,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:điện gió ngoài khơi",
-      "target": "keyword:đấu thầu dài hạn",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:điện gió ngoài khơi",
-      "target": "keyword:đà nẵng",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:điện gió ngoài khơi",
-      "target": "keyword:đấu thầu",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:điện gió ngoài khơi",
-      "target": "keyword:đầu tư năng lượng",
-      "weight": 2,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:điện gió ngoài khơi",
-      "target": "keyword:đầu tư",
       "weight": 1,
       "type": "keyword-cooccurrence"
     },
@@ -5069,54 +7931,6 @@
     {
       "source": "keyword:quy hoạch điện VIII",
       "target": "keyword:đồng bằng sông cửu long",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:việt nam",
-      "target": "keyword:điện gió ngoài khơi",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:việt nam",
-      "target": "keyword:vốn đầu tư",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:việt nam",
-      "target": "keyword:đấu thầu",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:việt nam",
-      "target": "keyword:điện gió",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:việt nam",
-      "target": "keyword:điện mặt trời",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:việt nam",
-      "target": "keyword:điều tần",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:việt nam",
-      "target": "keyword:điện năng",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:việt nam",
-      "target": "keyword:điện tử và bán dẫn",
       "weight": 1,
       "type": "keyword-cooccurrence"
     },
@@ -5529,180 +8343,6 @@
       "type": "keyword-cooccurrence"
     },
     {
-      "source": "keyword:điện gió",
-      "target": "keyword:điện mặt trời",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:điện gió",
-      "target": "keyword:đầu tư 14500 tỷ đồng",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:điện gió",
-      "target": "keyword:đồng bằng sông cửu long",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:ai",
-      "target": "keyword:startup competition",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:ai",
-      "target": "keyword:south summit madrid",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:ai",
-      "target": "keyword:convergence ai",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:ai",
-      "target": "keyword:venture capital",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:ai",
-      "target": "keyword:angel investors",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:ai",
-      "target": "keyword:patents",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:ai",
-      "target": "keyword:funding",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:ai",
-      "target": "keyword:europe startups",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:ai",
-      "target": "keyword:fintech",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:ai",
-      "target": "keyword:climate tech",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:ai",
-      "target": "keyword:healthcare",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:ai",
-      "target": "keyword:singapore",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:ai",
-      "target": "keyword:united states",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:ai",
-      "target": "keyword:điện năng",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:ai",
-      "target": "keyword:hạ tầng số",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:ai",
-      "target": "keyword:trung tâm dữ liệu",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:ai",
-      "target": "keyword:kinh tế số",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:ai",
-      "target": "keyword:điện tử và bán dẫn",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:ai",
-      "target": "keyword:công nghiệp công nghệ cao",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:ai",
-      "target": "keyword:logistics",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:ai",
-      "target": "keyword:fdi",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:ai",
-      "target": "keyword:chi phí xây dựng",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:ai",
-      "target": "keyword:chi phí cạnh tranh",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:ai",
-      "target": "keyword:việt nam",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:ai",
-      "target": "keyword:hà nội",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:ai",
-      "target": "keyword:tp.hcm",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
       "source": "keyword:bộ công thương",
       "target": "keyword:nhà máy điện gió sóc trang 4",
       "weight": 1,
@@ -5811,86 +8451,68 @@
       "type": "keyword-cooccurrence"
     },
     {
-      "source": "keyword:nguy",
-      "target": "keyword:samsung",
+      "source": "keyword:an ninh năng lượng",
+      "target": "keyword:dự án long phú 1",
       "weight": 1,
       "type": "keyword-cooccurrence"
     },
     {
-      "source": "keyword:nguy",
-      "target": "keyword:ttc",
+      "source": "keyword:an ninh năng lượng",
+      "target": "keyword:hạng mục hệ thống ống dẫn t08",
       "weight": 1,
       "type": "keyword-cooccurrence"
     },
     {
-      "source": "keyword:nguy",
-      "target": "keyword:qua",
+      "source": "keyword:an ninh năng lượng",
+      "target": "keyword:gói thầu t08",
       "weight": 1,
       "type": "keyword-cooccurrence"
     },
     {
-      "source": "keyword:nguy",
-      "target": "keyword:theo",
+      "source": "keyword:an ninh năng lượng",
+      "target": "keyword:ptsc quảng ngãi",
       "weight": 1,
       "type": "keyword-cooccurrence"
     },
     {
-      "source": "keyword:nguy",
-      "target": "keyword:nsmo",
+      "source": "keyword:an ninh năng lượng",
+      "target": "keyword:china tianchen engineering corporation ltd",
       "weight": 1,
       "type": "keyword-cooccurrence"
     },
     {
-      "source": "keyword:nguy",
-      "target": "keyword:sevt",
+      "source": "keyword:an ninh năng lượng",
+      "target": "keyword:epc contract",
       "weight": 1,
       "type": "keyword-cooccurrence"
     },
     {
-      "source": "keyword:nguy",
-      "target": "keyword:thu",
-      "weight": 2,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:nguy",
-      "target": "keyword:xung",
+      "source": "keyword:an ninh năng lượng",
+      "target": "keyword:power machines",
       "weight": 1,
       "type": "keyword-cooccurrence"
     },
     {
-      "source": "keyword:nguy",
-      "target": "keyword:wake",
+      "source": "keyword:an ninh năng lượng",
+      "target": "keyword:lò hơi số 2",
       "weight": 1,
       "type": "keyword-cooccurrence"
     },
     {
-      "source": "keyword:nguy",
-      "target": "keyword:thu",
-      "weight": 2,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:nguy",
-      "target": "keyword:quy",
+      "source": "keyword:an ninh năng lượng",
+      "target": "keyword:economizer",
       "weight": 1,
       "type": "keyword-cooccurrence"
     },
     {
-      "source": "keyword:thu",
-      "target": "keyword:ttc",
+      "source": "keyword:an ninh năng lượng",
+      "target": "keyword:vận hành thương mại 2027",
       "weight": 1,
       "type": "keyword-cooccurrence"
     },
     {
-      "source": "keyword:thu",
-      "target": "keyword:xung",
-      "weight": 1,
-      "type": "keyword-cooccurrence"
-    },
-    {
-      "source": "keyword:thu",
-      "target": "keyword:wake",
+      "source": "keyword:an ninh năng lượng",
+      "target": "keyword:điện quốc gia",
       "weight": 1,
       "type": "keyword-cooccurrence"
     },
@@ -6113,6 +8735,216 @@
     {
       "source": "keyword:an ninh năng lượng",
       "target": "keyword:quốc hội",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:chatgpt",
+      "target": "keyword:large language models",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:chatgpt",
+      "target": "keyword:openclaw",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:chatgpt",
+      "target": "keyword:nvidia",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:chatgpt",
+      "target": "keyword:jensen huang",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:chatgpt",
+      "target": "keyword:computex 2026",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:chatgpt",
+      "target": "keyword:microsoft scout",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:chatgpt",
+      "target": "keyword:outlook",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:chatgpt",
+      "target": "keyword:teams",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:chatgpt",
+      "target": "keyword:googlebooks",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:chatgpt",
+      "target": "keyword:trust in ai",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:chatgpt",
+      "target": "keyword:multi-step tasks",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:chatgpt",
+      "target": "keyword:generative engine optimization",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:chatgpt",
+      "target": "keyword:geo",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:chatgpt",
+      "target": "keyword:ga4",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:chatgpt",
+      "target": "keyword:google analytics 4",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:chatgpt",
+      "target": "keyword:similarweb",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:chatgpt",
+      "target": "keyword:claude",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:chatgpt",
+      "target": "keyword:gemini",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:chatgpt",
+      "target": "keyword:traffic acquisition",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:chatgpt",
+      "target": "keyword:content quality",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:chatgpt",
+      "target": "keyword:referral traffic",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:nguy",
+      "target": "keyword:samsung",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:nguy",
+      "target": "keyword:ttc",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:nguy",
+      "target": "keyword:qua",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:nguy",
+      "target": "keyword:theo",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:nguy",
+      "target": "keyword:nsmo",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:nguy",
+      "target": "keyword:sevt",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:nguy",
+      "target": "keyword:thu",
+      "weight": 2,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:nguy",
+      "target": "keyword:xung",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:nguy",
+      "target": "keyword:wake",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:nguy",
+      "target": "keyword:thu",
+      "weight": 2,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:nguy",
+      "target": "keyword:quy",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:thu",
+      "target": "keyword:ttc",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:thu",
+      "target": "keyword:xung",
+      "weight": 1,
+      "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "keyword:thu",
+      "target": "keyword:wake",
       "weight": 1,
       "type": "keyword-cooccurrence"
     },
@@ -6451,6 +9283,12 @@
       "target": "keyword:usd",
       "weight": 1,
       "type": "keyword-cooccurrence"
+    },
+    {
+      "source": "article:2026/go-diem-nghen-cho-cac-du-an-dien-gio-ty-usd",
+      "target": "article:2026/khung-chinh-sach-cho-luu-tru-nang-luong-bess-goc-nhin-cua-petrovietnam",
+      "weight": 0.143,
+      "type": "article-similarity"
     },
     {
       "source": "article:2026/loat-du-an-nang-luong-ty-usd-cho-bat-cong-tac",

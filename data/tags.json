@@ -1,21 +1,36 @@
 [
   {
-    "tag": "ai",
-    "slug": "ai",
-    "count": 5,
+    "tag": "vietnam",
+    "slug": "vietnam",
+    "count": 6,
     "articles": [
-      "2026/fpt-cong-bo-phuong-phap-luan-casan-giup-to-chuc-doanh-nghiep-tang-toc-chuyen-doi-ai",
-      "2026/google-ra-mat-omni-mo-hinh-co-the-sang-tao-moi-thu",
-      "2026/ai-ap-dao-chung-ket-cuoc-thi-khoi-nghiep-tai-chau-au",
-      "2026/dien-va-cuoc-dua-hut-von-cong-nghe-cao",
-      "2026/chatgpt-gemini-tro-thanh-nguon-traffic-moi-tren-google-analytics"
+      "2026/nhieu-doanh-nghiep-na-uy-bat-ngo-tro-lai-ha-noi-ngo-y-giup-viet-nam-khai-thac-andquotkho-bauandquot-tram-ty-usd",
+      "2026/pho-thu-tuong-thuong-truc-pham-gia-tuc-lam-viec-voi-hoi-dong-nang-luong-gio-toan-cau",
+      "2026/evngenco1-lam-viec-voi-doi-tac-trung-quoc-ve-nang-cao-hieu-qua-van-hanh-to-may-dien",
+      "2026/trung-quoc-che-tao-bo-nho-luong-tu-qram-nhanh-nhat-the-gioi",
+      "2026/chap-thuan-nha-dau-tu-du-an-dien-gio-co-tong-muc-dau-tu-hon-1800-ty-dong",
+      "2026/day-nhanh-co-che-dac-thu-cho-dien-gio-ngoai-khoi-va-cac-du-an-nang-luong-trong-diem"
+    ]
+  },
+  {
+    "tag": "renewable energy",
+    "slug": "renewable-energy",
+    "count": 6,
+    "articles": [
+      "2026/nhieu-doanh-nghiep-na-uy-bat-ngo-tro-lai-ha-noi-ngo-y-giup-viet-nam-khai-thac-andquotkho-bauandquot-tram-ty-usd",
+      "2026/pho-thu-tuong-thuong-truc-pham-gia-tuc-lam-viec-voi-hoi-dong-nang-luong-gio-toan-cau",
+      "2026/kich-ban-nao-cho-dien-gio-ngoai-khoi-viet-nam-van-hanh-truoc-nam-2030",
+      "2026/khoi-cong-du-an-nha-may-dien-gio-soc-trang-4",
+      "2026/can-tho-dong-loat-khoi-cong-2-du-an-dien-gio-lon",
+      "2026/co-dien-lanh-ree-muon-mua-lai-100percent-von-du-an-cum-nha-may-dien-gio-phu-cuong-1a-va-1b"
     ]
   },
   {
     "tag": "investment",
     "slug": "investment",
-    "count": 5,
+    "count": 6,
     "articles": [
+      "2026/nhieu-doanh-nghiep-na-uy-bat-ngo-tro-lai-ha-noi-ngo-y-giup-viet-nam-khai-thac-andquotkho-bauandquot-tram-ty-usd",
       "2026/kich-ban-nao-cho-dien-gio-ngoai-khoi-viet-nam-van-hanh-truoc-nam-2030",
       "2026/muc-tieu-dien-gio-ngoai-khoi-viet-nam-vao-nam-2030-nhin-tu-cuoc-hop-cua-chinh-phu-ngay-1952026",
       "2026/bgrimm-power-va-pv-power-ky-thoa-thuan-hop-tac-phat-trien-lng-vung-ang-iii-hon-50000-ty-dong",
@@ -24,14 +39,71 @@
     ]
   },
   {
-    "tag": "renewable energy",
-    "slug": "renewable-energy",
+    "tag": "ai",
+    "slug": "ai",
+    "count": 6,
+    "articles": [
+      "2026/nganh-thue-chi-ra-nhung-chieu-tro-gian-lan-ve-hoa-don-dien-tu",
+      "2026/fpt-cong-bo-phuong-phap-luan-casan-giup-to-chuc-doanh-nghiep-tang-toc-chuyen-doi-ai",
+      "2026/google-ra-mat-omni-mo-hinh-co-the-sang-tao-moi-thu",
+      "2026/ai-ap-dao-chung-ket-cuoc-thi-khoi-nghiep-tai-chau-au",
+      "2026/dien-va-cuoc-dua-hut-von-cong-nghe-cao",
+      "2026/chatgpt-gemini-tro-thanh-nguon-traffic-moi-tren-google-analytics"
+    ]
+  },
+  {
+    "tag": "energy policy",
+    "slug": "energy-policy",
+    "count": 5,
+    "articles": [
+      "2026/nhieu-doanh-nghiep-na-uy-bat-ngo-tro-lai-ha-noi-ngo-y-giup-viet-nam-khai-thac-andquotkho-bauandquot-tram-ty-usd",
+      "2026/pho-thu-tuong-thuong-truc-pham-gia-tuc-lam-viec-voi-hoi-dong-nang-luong-gio-toan-cau",
+      "2026/kich-ban-nao-cho-dien-gio-ngoai-khoi-viet-nam-van-hanh-truoc-nam-2030",
+      "2026/muc-tieu-dien-gio-ngoai-khoi-viet-nam-vao-nam-2030-nhin-tu-cuoc-hop-cua-chinh-phu-ngay-1952026",
+      "2026/khoi-cong-du-an-nha-may-dien-gio-soc-trang-4"
+    ]
+  },
+  {
+    "tag": "năng lượng tái tạo",
+    "slug": "năng-lượng-tái-tạo",
     "count": 4,
     "articles": [
+      "2026/go-diem-nghen-cho-cac-du-an-dien-gio-ty-usd",
+      "2026/khung-chinh-sach-cho-luu-tru-nang-luong-bess-goc-nhin-cua-petrovietnam",
+      "2026/sieu-thu-phu-cong-nghiep-moi-cua-viet-nam-sap-co-2-nha-may-dien-gio-hon-6000-ty",
+      "2026/day-nhanh-tien-do-cac-du-an-cong-trinh-dien-trong-diem-dam-bao-an-ninh-nang-luong"
+    ]
+  },
+  {
+    "tag": "việt nam",
+    "slug": "việt-nam",
+    "count": 4,
+    "articles": [
+      "2026/go-diem-nghen-cho-cac-du-an-dien-gio-ty-usd",
+      "2026/khung-chinh-sach-cho-luu-tru-nang-luong-bess-goc-nhin-cua-petrovietnam",
+      "2026/sieu-thu-phu-cong-nghiep-moi-cua-viet-nam-sap-co-2-nha-may-dien-gio-hon-6000-ty",
+      "2026/thuc-day-chuyen-doi-so-va-toi-uu-nang-luong-huong-toi-mo-hinh-van-hanh-ben-vung-cho-nganh-nuoc-viet-nam"
+    ]
+  },
+  {
+    "tag": "offshore wind",
+    "slug": "offshore-wind",
+    "count": 4,
+    "articles": [
+      "2026/nhieu-doanh-nghiep-na-uy-bat-ngo-tro-lai-ha-noi-ngo-y-giup-viet-nam-khai-thac-andquotkho-bauandquot-tram-ty-usd",
+      "2026/pho-thu-tuong-thuong-truc-pham-gia-tuc-lam-viec-voi-hoi-dong-nang-luong-gio-toan-cau",
       "2026/kich-ban-nao-cho-dien-gio-ngoai-khoi-viet-nam-van-hanh-truoc-nam-2030",
-      "2026/khoi-cong-du-an-nha-may-dien-gio-soc-trang-4",
-      "2026/can-tho-dong-loat-khoi-cong-2-du-an-dien-gio-lon",
-      "2026/co-dien-lanh-ree-muon-mua-lai-100percent-von-du-an-cum-nha-may-dien-gio-phu-cuong-1a-va-1b"
+      "2026/muc-tieu-dien-gio-ngoai-khoi-viet-nam-vao-nam-2030-nhin-tu-cuoc-hop-cua-chinh-phu-ngay-1952026"
+    ]
+  },
+  {
+    "tag": "điện gió ngoài khơi",
+    "slug": "điện-gió-ngoài-khơi",
+    "count": 3,
+    "articles": [
+      "2026/go-diem-nghen-cho-cac-du-an-dien-gio-ty-usd",
+      "2026/loat-du-an-nang-luong-ty-usd-cho-bat-cong-tac",
+      "2026/go-nut-that-the-che-cho-dien-gio"
     ]
   },
   {
@@ -55,26 +127,6 @@
     ]
   },
   {
-    "tag": "energy policy",
-    "slug": "energy-policy",
-    "count": 3,
-    "articles": [
-      "2026/kich-ban-nao-cho-dien-gio-ngoai-khoi-viet-nam-van-hanh-truoc-nam-2030",
-      "2026/muc-tieu-dien-gio-ngoai-khoi-viet-nam-vao-nam-2030-nhin-tu-cuoc-hop-cua-chinh-phu-ngay-1952026",
-      "2026/khoi-cong-du-an-nha-may-dien-gio-soc-trang-4"
-    ]
-  },
-  {
-    "tag": "vietnam",
-    "slug": "vietnam",
-    "count": 3,
-    "articles": [
-      "2026/evngenco1-lam-viec-voi-doi-tac-trung-quoc-ve-nang-cao-hieu-qua-van-hanh-to-may-dien",
-      "2026/chap-thuan-nha-dau-tu-du-an-dien-gio-co-tong-muc-dau-tu-hon-1800-ty-dong",
-      "2026/day-nhanh-co-che-dac-thu-cho-dien-gio-ngoai-khoi-va-cac-du-an-nang-luong-trong-diem"
-    ]
-  },
-  {
     "tag": "wind power",
     "slug": "wind-power",
     "count": 3,
@@ -82,6 +134,42 @@
       "2026/khoi-cong-du-an-nha-may-dien-gio-soc-trang-4",
       "2026/can-tho-dong-loat-khoi-cong-2-du-an-dien-gio-lon",
       "2026/co-dien-lanh-ree-muon-mua-lai-100percent-von-du-an-cum-nha-may-dien-gio-phu-cuong-1a-va-1b"
+    ]
+  },
+  {
+    "tag": "điện gió",
+    "slug": "điện-gió",
+    "count": 2,
+    "articles": [
+      "2026/go-diem-nghen-cho-cac-du-an-dien-gio-ty-usd",
+      "2026/sieu-thu-phu-cong-nghiep-moi-cua-viet-nam-sap-co-2-nha-may-dien-gio-hon-6000-ty"
+    ]
+  },
+  {
+    "tag": "apac wind energy summit",
+    "slug": "apac-wind-energy-summit",
+    "count": 2,
+    "articles": [
+      "2026/nhieu-doanh-nghiep-na-uy-bat-ngo-tro-lai-ha-noi-ngo-y-giup-viet-nam-khai-thac-andquotkho-bauandquot-tram-ty-usd",
+      "2026/go-nut-that-the-che-cho-dien-gio"
+    ]
+  },
+  {
+    "tag": "china",
+    "slug": "china",
+    "count": 2,
+    "articles": [
+      "2026/khong-con-o-trong-phim-mot-cong-ty-trung-quoc-vua-tung-ra-robot-osin-thay-con-nguoi-lam-het-viec-nha",
+      "2026/thoai-von-khoi-imexpharm-tap-doan-han-quoc-chot-loi-gap-doi"
+    ]
+  },
+  {
+    "tag": "supply chain",
+    "slug": "supply-chain",
+    "count": 2,
+    "articles": [
+      "2026/pho-thu-tuong-thuong-truc-pham-gia-tuc-lam-viec-voi-hoi-dong-nang-luong-gio-toan-cau",
+      "2026/kich-ban-nao-cho-dien-gio-ngoai-khoi-viet-nam-van-hanh-truoc-nam-2030"
     ]
   },
   {
@@ -94,30 +182,12 @@
     ]
   },
   {
-    "tag": "điện gió ngoài khơi",
-    "slug": "điện-gió-ngoài-khơi",
-    "count": 2,
-    "articles": [
-      "2026/loat-du-an-nang-luong-ty-usd-cho-bat-cong-tac",
-      "2026/go-nut-that-the-che-cho-dien-gio"
-    ]
-  },
-  {
     "tag": "đầu tư năng lượng",
     "slug": "đầu-tư-năng-lượng",
     "count": 2,
     "articles": [
       "2026/loat-du-an-nang-luong-ty-usd-cho-bat-cong-tac",
       "2026/go-nut-that-the-che-cho-dien-gio"
-    ]
-  },
-  {
-    "tag": "offshore wind",
-    "slug": "offshore-wind",
-    "count": 2,
-    "articles": [
-      "2026/kich-ban-nao-cho-dien-gio-ngoai-khoi-viet-nam-van-hanh-truoc-nam-2030",
-      "2026/muc-tieu-dien-gio-ngoai-khoi-viet-nam-vao-nam-2030-nhin-tu-cuoc-hop-cua-chinh-phu-ngay-1952026"
     ]
   },
   {
@@ -130,6 +200,15 @@
     ]
   },
   {
+    "tag": "google",
+    "slug": "google",
+    "count": 2,
+    "articles": [
+      "2026/google-ra-mat-omni-mo-hinh-co-the-sang-tao-moi-thu",
+      "2026/may-tinh-tu-van-hanh-mo-ra-tuong-lai-moi"
+    ]
+  },
+  {
     "tag": "gemini",
     "slug": "gemini",
     "count": 2,
@@ -139,30 +218,12 @@
     ]
   },
   {
-    "tag": "năng lượng tái tạo",
-    "slug": "năng-lượng-tái-tạo",
-    "count": 2,
-    "articles": [
-      "2026/khung-chinh-sach-cho-luu-tru-nang-luong-bess-goc-nhin-cua-petrovietnam",
-      "2026/day-nhanh-tien-do-cac-du-an-cong-trinh-dien-trong-diem-dam-bao-an-ninh-nang-luong"
-    ]
-  },
-  {
     "tag": "an ninh năng lượng",
     "slug": "an-ninh-năng-lượng",
     "count": 2,
     "articles": [
       "2026/khung-chinh-sach-cho-luu-tru-nang-luong-bess-goc-nhin-cua-petrovietnam",
       "2026/day-nhanh-tien-do-cac-du-an-cong-trinh-dien-trong-diem-dam-bao-an-ninh-nang-luong"
-    ]
-  },
-  {
-    "tag": "việt nam",
-    "slug": "việt-nam",
-    "count": 2,
-    "articles": [
-      "2026/khung-chinh-sach-cho-luu-tru-nang-luong-bess-goc-nhin-cua-petrovietnam",
-      "2026/thuc-day-chuyen-doi-so-va-toi-uu-nang-luong-huong-toi-mo-hinh-van-hanh-ben-vung-cho-nganh-nuoc-viet-nam"
     ]
   },
   {
@@ -226,6 +287,238 @@
     "articles": [
       "2026/chap-thuan-nha-dau-tu-du-an-dien-gio-co-tong-muc-dau-tu-hon-1800-ty-dong",
       "2026/thoai-von-khoi-imexpharm-tap-doan-han-quoc-chot-loi-gap-doi"
+    ]
+  },
+  {
+    "tag": "đầu tư nước ngoài",
+    "slug": "đầu-tư-nước-ngoài",
+    "count": 1,
+    "articles": [
+      "2026/go-diem-nghen-cho-cac-du-an-dien-gio-ty-usd"
+    ]
+  },
+  {
+    "tag": "ppa",
+    "slug": "ppa",
+    "count": 1,
+    "articles": [
+      "2026/go-diem-nghen-cho-cac-du-an-dien-gio-ty-usd"
+    ]
+  },
+  {
+    "tag": "cơ chế giá",
+    "slug": "cơ-chế-giá",
+    "count": 1,
+    "articles": [
+      "2026/go-diem-nghen-cho-cac-du-an-dien-gio-ty-usd"
+    ]
+  },
+  {
+    "tag": "chuỗi cung ứng",
+    "slug": "chuỗi-cung-ứng",
+    "count": 1,
+    "articles": [
+      "2026/go-diem-nghen-cho-cac-du-an-dien-gio-ty-usd"
+    ]
+  },
+  {
+    "tag": "norway",
+    "slug": "norway",
+    "count": 1,
+    "articles": [
+      "2026/nhieu-doanh-nghiep-na-uy-bat-ngo-tro-lai-ha-noi-ngo-y-giup-viet-nam-khai-thac-andquotkho-bauandquot-tram-ty-usd"
+    ]
+  },
+  {
+    "tag": "norwegian companies",
+    "slug": "norwegian-companies",
+    "count": 1,
+    "articles": [
+      "2026/nhieu-doanh-nghiep-na-uy-bat-ngo-tro-lai-ha-noi-ngo-y-giup-viet-nam-khai-thac-andquotkho-bauandquot-tram-ty-usd"
+    ]
+  },
+  {
+    "tag": "humanoid-robot",
+    "slug": "humanoid-robot",
+    "count": 1,
+    "articles": [
+      "2026/khong-con-o-trong-phim-mot-cong-ty-trung-quoc-vua-tung-ra-robot-osin-thay-con-nguoi-lam-het-viec-nha"
+    ]
+  },
+  {
+    "tag": "household-robot",
+    "slug": "household-robot",
+    "count": 1,
+    "articles": [
+      "2026/khong-con-o-trong-phim-mot-cong-ty-trung-quoc-vua-tung-ra-robot-osin-thay-con-nguoi-lam-het-viec-nha"
+    ]
+  },
+  {
+    "tag": "ai-in-robotics",
+    "slug": "ai-in-robotics",
+    "count": 1,
+    "articles": [
+      "2026/khong-con-o-trong-phim-mot-cong-ty-trung-quoc-vua-tung-ra-robot-osin-thay-con-nguoi-lam-het-viec-nha"
+    ]
+  },
+  {
+    "tag": "smart-home",
+    "slug": "smart-home",
+    "count": 1,
+    "articles": [
+      "2026/khong-con-o-trong-phim-mot-cong-ty-trung-quoc-vua-tung-ra-robot-osin-thay-con-nguoi-lam-het-viec-nha"
+    ]
+  },
+  {
+    "tag": "hubei",
+    "slug": "hubei",
+    "count": 1,
+    "articles": [
+      "2026/khong-con-o-trong-phim-mot-cong-ty-trung-quoc-vua-tung-ra-robot-osin-thay-con-nguoi-lam-het-viec-nha"
+    ]
+  },
+  {
+    "tag": "see-light-s1",
+    "slug": "see-light-s1",
+    "count": 1,
+    "articles": [
+      "2026/khong-con-o-trong-phim-mot-cong-ty-trung-quoc-vua-tung-ra-robot-osin-thay-con-nguoi-lam-het-viec-nha"
+    ]
+  },
+  {
+    "tag": "robot-trial",
+    "slug": "robot-trial",
+    "count": 1,
+    "articles": [
+      "2026/khong-con-o-trong-phim-mot-cong-ty-trung-quoc-vua-tung-ra-robot-osin-thay-con-nguoi-lam-het-viec-nha"
+    ]
+  },
+  {
+    "tag": "foreign investment",
+    "slug": "foreign-investment",
+    "count": 1,
+    "articles": [
+      "2026/pho-thu-tuong-thuong-truc-pham-gia-tuc-lam-viec-voi-hoi-dong-nang-luong-gio-toan-cau"
+    ]
+  },
+  {
+    "tag": "policy reform",
+    "slug": "policy-reform",
+    "count": 1,
+    "articles": [
+      "2026/pho-thu-tuong-thuong-truc-pham-gia-tuc-lam-viec-voi-hoi-dong-nang-luong-gio-toan-cau"
+    ]
+  },
+  {
+    "tag": "hoadon-dien-tu",
+    "slug": "hoadon-dien-tu",
+    "count": 1,
+    "articles": [
+      "2026/nganh-thue-chi-ra-nhung-chieu-tro-gian-lan-ve-hoa-don-dien-tu"
+    ]
+  },
+  {
+    "tag": "gian-lan-hoa-don",
+    "slug": "gian-lan-hoa-don",
+    "count": 1,
+    "articles": [
+      "2026/nganh-thue-chi-ra-nhung-chieu-tro-gian-lan-ve-hoa-don-dien-tu"
+    ]
+  },
+  {
+    "tag": "phan-tich-do-thi",
+    "slug": "phan-tich-do-thi",
+    "count": 1,
+    "articles": [
+      "2026/nganh-thue-chi-ra-nhung-chieu-tro-gian-lan-ve-hoa-don-dien-tu"
+    ]
+  },
+  {
+    "tag": "machine-learning",
+    "slug": "machine-learning",
+    "count": 1,
+    "articles": [
+      "2026/nganh-thue-chi-ra-nhung-chieu-tro-gian-lan-ve-hoa-don-dien-tu"
+    ]
+  },
+  {
+    "tag": "phan-tich-du-lieu",
+    "slug": "phan-tich-du-lieu",
+    "count": 1,
+    "articles": [
+      "2026/nganh-thue-chi-ra-nhung-chieu-tro-gian-lan-ve-hoa-don-dien-tu"
+    ]
+  },
+  {
+    "tag": "nganh-thue",
+    "slug": "nganh-thue",
+    "count": 1,
+    "articles": [
+      "2026/nganh-thue-chi-ra-nhung-chieu-tro-gian-lan-ve-hoa-don-dien-tu"
+    ]
+  },
+  {
+    "tag": "viet nam",
+    "slug": "viet-nam",
+    "count": 1,
+    "articles": [
+      "2026/viet-nam-dat-muc-tieu-den-nam-2030-co-5-cong-ty-cong-nghe-dat-doanh-thu-toi-thieu-1-ty-usdnam-tu-thi-truong-nuoc-ngoai"
+    ]
+  },
+  {
+    "tag": "cong nghe so",
+    "slug": "cong-nghe-so",
+    "count": 1,
+    "articles": [
+      "2026/viet-nam-dat-muc-tieu-den-nam-2030-co-5-cong-ty-cong-nghe-dat-doanh-thu-toi-thieu-1-ty-usdnam-tu-thi-truong-nuoc-ngoai"
+    ]
+  },
+  {
+    "tag": "doanh nghiep cong nghe",
+    "slug": "doanh-nghiep-cong-nghe",
+    "count": 1,
+    "articles": [
+      "2026/viet-nam-dat-muc-tieu-den-nam-2030-co-5-cong-ty-cong-nghe-dat-doanh-thu-toi-thieu-1-ty-usdnam-tu-thi-truong-nuoc-ngoai"
+    ]
+  },
+  {
+    "tag": "xuat khau cong nghe",
+    "slug": "xuat-khau-cong-nghe",
+    "count": 1,
+    "articles": [
+      "2026/viet-nam-dat-muc-tieu-den-nam-2030-co-5-cong-ty-cong-nghe-dat-doanh-thu-toi-thieu-1-ty-usdnam-tu-thi-truong-nuoc-ngoai"
+    ]
+  },
+  {
+    "tag": "make in viet nam",
+    "slug": "make-in-viet-nam",
+    "count": 1,
+    "articles": [
+      "2026/viet-nam-dat-muc-tieu-den-nam-2030-co-5-cong-ty-cong-nghe-dat-doanh-thu-toi-thieu-1-ty-usdnam-tu-thi-truong-nuoc-ngoai"
+    ]
+  },
+  {
+    "tag": "chuong trinh ho tro doanh nghiep",
+    "slug": "chuong-trinh-ho-tro-doanh-nghiep",
+    "count": 1,
+    "articles": [
+      "2026/viet-nam-dat-muc-tieu-den-nam-2030-co-5-cong-ty-cong-nghe-dat-doanh-thu-toi-thieu-1-ty-usdnam-tu-thi-truong-nuoc-ngoai"
+    ]
+  },
+  {
+    "tag": "m&a",
+    "slug": "m&a",
+    "count": 1,
+    "articles": [
+      "2026/viet-nam-dat-muc-tieu-den-nam-2030-co-5-cong-ty-cong-nghe-dat-doanh-thu-toi-thieu-1-ty-usdnam-tu-thi-truong-nuoc-ngoai"
+    ]
+  },
+  {
+    "tag": "ipo",
+    "slug": "ipo",
+    "count": 1,
+    "articles": [
+      "2026/viet-nam-dat-muc-tieu-den-nam-2030-co-5-cong-ty-cong-nghe-dat-doanh-thu-toi-thieu-1-ty-usdnam-tu-thi-truong-nuoc-ngoai"
     ]
   },
   {
@@ -311,14 +604,6 @@
   {
     "tag": "power planning",
     "slug": "power-planning",
-    "count": 1,
-    "articles": [
-      "2026/kich-ban-nao-cho-dien-gio-ngoai-khoi-viet-nam-van-hanh-truoc-nam-2030"
-    ]
-  },
-  {
-    "tag": "supply chain",
-    "slug": "supply-chain",
     "count": 1,
     "articles": [
       "2026/kich-ban-nao-cho-dien-gio-ngoai-khoi-viet-nam-van-hanh-truoc-nam-2030"
@@ -453,14 +738,6 @@
     ]
   },
   {
-    "tag": "google",
-    "slug": "google",
-    "count": 1,
-    "articles": [
-      "2026/google-ra-mat-omni-mo-hinh-co-the-sang-tao-moi-thu"
-    ]
-  },
-  {
     "tag": "omni",
     "slug": "omni",
     "count": 1,
@@ -589,6 +866,118 @@
     ]
   },
   {
+    "tag": "nhiệt điện",
+    "slug": "nhiệt-điện",
+    "count": 1,
+    "articles": [
+      "2026/chuyen-bien-moi-tai-nha-may-dien-15-ty-usd-xay-16-nam-chua-xong"
+    ]
+  },
+  {
+    "tag": "dự án điện lực",
+    "slug": "dự-án-điện-lực",
+    "count": 1,
+    "articles": [
+      "2026/chuyen-bien-moi-tai-nha-may-dien-15-ty-usd-xay-16-nam-chua-xong"
+    ]
+  },
+  {
+    "tag": "long phú 1",
+    "slug": "long-phú-1",
+    "count": 1,
+    "articles": [
+      "2026/chuyen-bien-moi-tai-nha-may-dien-15-ty-usd-xay-16-nam-chua-xong"
+    ]
+  },
+  {
+    "tag": "ptsc quảng ngãi",
+    "slug": "ptsc-quảng-ngãi",
+    "count": 1,
+    "articles": [
+      "2026/chuyen-bien-moi-tai-nha-may-dien-15-ty-usd-xay-16-nam-chua-xong"
+    ]
+  },
+  {
+    "tag": "epc",
+    "slug": "epc",
+    "count": 1,
+    "articles": [
+      "2026/chuyen-bien-moi-tai-nha-may-dien-15-ty-usd-xay-16-nam-chua-xong"
+    ]
+  },
+  {
+    "tag": "liên danh nước ngoài",
+    "slug": "liên-danh-nước-ngoài",
+    "count": 1,
+    "articles": [
+      "2026/chuyen-bien-moi-tai-nha-may-dien-15-ty-usd-xay-16-nam-chua-xong"
+    ]
+  },
+  {
+    "tag": "công trình xây dựng",
+    "slug": "công-trình-xây-dựng",
+    "count": 1,
+    "articles": [
+      "2026/chuyen-bien-moi-tai-nha-may-dien-15-ty-usd-xay-16-nam-chua-xong"
+    ]
+  },
+  {
+    "tag": "vận hành thương mại",
+    "slug": "vận-hành-thương-mại",
+    "count": 1,
+    "articles": [
+      "2026/chuyen-bien-moi-tai-nha-may-dien-15-ty-usd-xay-16-nam-chua-xong"
+    ]
+  },
+  {
+    "tag": "trợ lý ảo",
+    "slug": "trợ-lý-ảo",
+    "count": 1,
+    "articles": [
+      "2026/may-tinh-tu-van-hanh-mo-ra-tuong-lai-moi"
+    ]
+  },
+  {
+    "tag": "ai agent",
+    "slug": "ai-agent",
+    "count": 1,
+    "articles": [
+      "2026/may-tinh-tu-van-hanh-mo-ra-tuong-lai-moi"
+    ]
+  },
+  {
+    "tag": "llm",
+    "slug": "llm",
+    "count": 1,
+    "articles": [
+      "2026/may-tinh-tu-van-hanh-mo-ra-tuong-lai-moi"
+    ]
+  },
+  {
+    "tag": "nvidia",
+    "slug": "nvidia",
+    "count": 1,
+    "articles": [
+      "2026/may-tinh-tu-van-hanh-mo-ra-tuong-lai-moi"
+    ]
+  },
+  {
+    "tag": "microsoft",
+    "slug": "microsoft",
+    "count": 1,
+    "articles": [
+      "2026/may-tinh-tu-van-hanh-mo-ra-tuong-lai-moi"
+    ]
+  },
+  {
+    "tag": "openclaw",
+    "slug": "openclaw",
+    "count": 1,
+    "articles": [
+      "2026/may-tinh-tu-van-hanh-mo-ra-tuong-lai-moi"
+    ]
+  },
+  {
     "tag": "mua",
     "slug": "mua",
     "count": 1,
@@ -666,6 +1055,158 @@
     "count": 1,
     "articles": [
       "2026/quan-ly-tai-nguyen-gio-xung-dot-hieu-ung-ton-that-gio-o-viet-nam-thach-thuc-phap-ly-va-giai-phap-ky-thuat"
+    ]
+  },
+  {
+    "tag": "hanoi",
+    "slug": "hanoi",
+    "count": 1,
+    "articles": [
+      "2026/trung-quoc-che-tao-bo-nho-luong-tu-qram-nhanh-nhat-the-gioi"
+    ]
+  },
+  {
+    "tag": "ho chi minh city",
+    "slug": "ho-chi-minh-city",
+    "count": 1,
+    "articles": [
+      "2026/trung-quoc-che-tao-bo-nho-luong-tu-qram-nhanh-nhat-the-gioi"
+    ]
+  },
+  {
+    "tag": "weather",
+    "slug": "weather",
+    "count": 1,
+    "articles": [
+      "2026/trung-quoc-che-tao-bo-nho-luong-tu-qram-nhanh-nhat-the-gioi"
+    ]
+  },
+  {
+    "tag": "forecast",
+    "slug": "forecast",
+    "count": 1,
+    "articles": [
+      "2026/trung-quoc-che-tao-bo-nho-luong-tu-qram-nhanh-nhat-the-gioi"
+    ]
+  },
+  {
+    "tag": "temperatures",
+    "slug": "temperatures",
+    "count": 1,
+    "articles": [
+      "2026/trung-quoc-che-tao-bo-nho-luong-tu-qram-nhanh-nhat-the-gioi"
+    ]
+  },
+  {
+    "tag": "cloudiness",
+    "slug": "cloudiness",
+    "count": 1,
+    "articles": [
+      "2026/trung-quoc-che-tao-bo-nho-luong-tu-qram-nhanh-nhat-the-gioi"
+    ]
+  },
+  {
+    "tag": "june 2026",
+    "slug": "june-2026",
+    "count": 1,
+    "articles": [
+      "2026/trung-quoc-che-tao-bo-nho-luong-tu-qram-nhanh-nhat-the-gioi"
+    ]
+  },
+  {
+    "tag": "đầu tư",
+    "slug": "đầu-tư",
+    "count": 1,
+    "articles": [
+      "2026/sieu-thu-phu-cong-nghiep-moi-cua-viet-nam-sap-co-2-nha-may-dien-gio-hon-6000-ty"
+    ]
+  },
+  {
+    "tag": "dự án",
+    "slug": "dự-án",
+    "count": 1,
+    "articles": [
+      "2026/sieu-thu-phu-cong-nghiep-moi-cua-viet-nam-sap-co-2-nha-may-dien-gio-hon-6000-ty"
+    ]
+  },
+  {
+    "tag": "bắc ninh",
+    "slug": "bắc-ninh",
+    "count": 1,
+    "articles": [
+      "2026/sieu-thu-phu-cong-nghiep-moi-cua-viet-nam-sap-co-2-nha-may-dien-gio-hon-6000-ty"
+    ]
+  },
+  {
+    "tag": "enertrag se",
+    "slug": "enertrag-se",
+    "count": 1,
+    "articles": [
+      "2026/sieu-thu-phu-cong-nghiep-moi-cua-viet-nam-sap-co-2-nha-may-dien-gio-hon-6000-ty"
+    ]
+  },
+  {
+    "tag": "gene editing",
+    "slug": "gene-editing",
+    "count": 1,
+    "articles": [
+      "2026/lan-dau-tien-cac-nha-khoa-hoc-chinh-sua-chinh-xac-gene-trong-phoi-nguoi"
+    ]
+  },
+  {
+    "tag": "base editing",
+    "slug": "base-editing",
+    "count": 1,
+    "articles": [
+      "2026/lan-dau-tien-cac-nha-khoa-hoc-chinh-sua-chinh-xac-gene-trong-phoi-nguoi"
+    ]
+  },
+  {
+    "tag": "embryo research",
+    "slug": "embryo-research",
+    "count": 1,
+    "articles": [
+      "2026/lan-dau-tien-cac-nha-khoa-hoc-chinh-sua-chinh-xac-gene-trong-phoi-nguoi"
+    ]
+  },
+  {
+    "tag": "crisper",
+    "slug": "crisper",
+    "count": 1,
+    "articles": [
+      "2026/lan-dau-tien-cac-nha-khoa-hoc-chinh-sua-chinh-xac-gene-trong-phoi-nguoi"
+    ]
+  },
+  {
+    "tag": "ethics",
+    "slug": "ethics",
+    "count": 1,
+    "articles": [
+      "2026/lan-dau-tien-cac-nha-khoa-hoc-chinh-sua-chinh-xac-gene-trong-phoi-nguoi"
+    ]
+  },
+  {
+    "tag": "columbia university",
+    "slug": "columbia-university",
+    "count": 1,
+    "articles": [
+      "2026/lan-dau-tien-cac-nha-khoa-hoc-chinh-sua-chinh-xac-gene-trong-phoi-nguoi"
+    ]
+  },
+  {
+    "tag": "ivf",
+    "slug": "ivf",
+    "count": 1,
+    "articles": [
+      "2026/lan-dau-tien-cac-nha-khoa-hoc-chinh-sua-chinh-xac-gene-trong-phoi-nguoi"
+    ]
+  },
+  {
+    "tag": "phổi",
+    "slug": "phổi",
+    "count": 1,
+    "articles": [
+      "2026/lan-dau-tien-cac-nha-khoa-hoc-chinh-sua-chinh-xac-gene-trong-phoi-nguoi"
     ]
   },
   {
@@ -927,14 +1468,6 @@
   {
     "tag": "hạ tầng truyền tải",
     "slug": "hạ-tầng-truyền-tải",
-    "count": 1,
-    "articles": [
-      "2026/go-nut-that-the-che-cho-dien-gio"
-    ]
-  },
-  {
-    "tag": "apac wind energy summit",
-    "slug": "apac-wind-energy-summit",
     "count": 1,
     "articles": [
       "2026/go-nut-that-the-che-cho-dien-gio"
@@ -1271,14 +1804,6 @@
   {
     "tag": "eu-gmp",
     "slug": "eu-gmp",
-    "count": 1,
-    "articles": [
-      "2026/thoai-von-khoi-imexpharm-tap-doan-han-quoc-chot-loi-gap-doi"
-    ]
-  },
-  {
-    "tag": "china",
-    "slug": "china",
     "count": 1,
     "articles": [
       "2026/thoai-von-khoi-imexpharm-tap-doan-han-quoc-chot-loi-gap-doi"
