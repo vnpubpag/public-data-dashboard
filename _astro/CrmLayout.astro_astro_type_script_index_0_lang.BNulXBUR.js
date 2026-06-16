@@ -1,0 +1,1 @@
+import{r as i,a as s}from"./auth.CkFTJ1CK.js";function o(t){const a="/public-data-dashboard/",e=a.endsWith("/")?a:`${a}/`,n=t.startsWith("/")?t.slice(1):t;return`${e}${n}`}await i();document.getElementById("crm-logout-btn")?.addEventListener("click",async()=>{await s(),window.location.href=o("/")});

@@ -1,0 +1,20 @@
+import{s as i}from"./supabase.C_QmLbMp.js";import{c as l}from"./case-utils.B8J3wFXv.js";const u=`
+    id, name, industry, website, email, phone,
+    address, city, country, description,
+    employeeCount:employee_count,
+    status,
+    createdAt:created_at,
+    updatedAt:updated_at
+`,f=`
+    id,
+    firstName:first_name,
+    lastName:last_name,
+    email, phone, mobile,
+    jobTitle:job_title,
+    department,
+    organizationId:organization_id,
+    organizationName:organization_name,
+    address, city, country, notes, status,
+    createdAt:created_at,
+    updatedAt:updated_at
+`;async function p(){const[a,e]=await Promise.all([i.from("organizations").select("*",{count:"exact",head:!0}),i.from("contacts").select("*",{count:"exact",head:!0})]);return{totalOrganizations:a.count??0,totalContacts:e.count??0}}async function w(a,e,t){let o=i.from("organizations").select(u,{count:"exact"});t&&(o=o.or(`name.ilike.%${t}%,industry.ilike.%${t}%,email.ilike.%${t}%,phone.ilike.%${t}%,city.ilike.%${t}%,country.ilike.%${t}%`));const n=(a-1)*e,r=n+e-1,{data:c,count:s,error:d}=await o.order("created_at",{ascending:!1}).range(n,r);if(d)throw d;return{data:c??[],total:s??0}}async function _(a){const{data:e,error:t}=await i.from("organizations").select(u).eq("id",a).single();if(t)throw t;return e}async function y(a){const{data:e,error:t}=await i.from("organizations").insert(l(a)).select(u).single();if(t)throw t;return e}async function z(a,e){const{id:t,createdAt:o,updatedAt:n,...r}=e,{data:c,error:s}=await i.from("organizations").update(l(r)).eq("id",a).select(u).single();if(s)throw s;return c}async function k(a){const{error:e}=await i.from("organizations").delete().eq("id",a);if(e)throw e}async function h(a,e){const t=a.map(n=>l(n)),o={success:!0,imported:0,skipped:0,overwritten:0,errors:[]};if(e){const{data:n,error:r}=await i.from("organizations").upsert(t,{onConflict:"email",defaultToNull:!1}).select("id");r?(o.success=!1,o.errors.push(r.message)):o.imported=n?.length??0}else{const{data:n,error:r}=await i.from("organizations").upsert(t,{onConflict:"email",ignoreDuplicates:!0}).select("id");r?(o.success=!1,o.errors.push(r.message)):(o.imported=n?.length??0,o.skipped=t.length-(n?.length??0))}return o}async function C(a,e,t){let o=i.from("contacts").select(f,{count:"exact"});t&&(o=o.or(`first_name.ilike.%${t}%,last_name.ilike.%${t}%,email.ilike.%${t}%,phone.ilike.%${t}%,job_title.ilike.%${t}%,organization_name.ilike.%${t}%`));const n=(a-1)*e,r=n+e-1,{data:c,count:s,error:d}=await o.order("created_at",{ascending:!1}).range(n,r);if(d)throw d;return{data:c??[],total:s??0}}async function $(a){const{data:e,error:t}=await i.from("contacts").select(f).eq("id",a).single();if(t)throw t;return e}async function A(a){const{data:e,error:t}=await i.from("contacts").insert(l(a)).select(f).single();if(t)throw t;return e}async function O(a,e){const{id:t,createdAt:o,updatedAt:n,...r}=e,{data:c,error:s}=await i.from("contacts").update(l(r)).eq("id",a).select(f).single();if(s)throw s;return c}async function q(a){const{error:e}=await i.from("contacts").delete().eq("id",a);if(e)throw e}async function T(a,e){const t=a.map(n=>l(n)),o={success:!0,imported:0,skipped:0,overwritten:0,errors:[]};if(e){const{data:n,error:r}=await i.from("contacts").upsert(t,{onConflict:"email",defaultToNull:!1}).select("id");r?(o.success=!1,o.errors.push(r.message)):o.imported=n?.length??0}else{const{data:n,error:r}=await i.from("contacts").upsert(t,{onConflict:"email",ignoreDuplicates:!0}).select("id");r?(o.success=!1,o.errors.push(r.message)):(o.imported=n?.length??0,o.skipped=t.length-(n?.length??0))}return o}async function b(){const{data:a,error:e}=await i.from("organizations").select("id, name").order("name",{ascending:!0});if(e)throw e;return a??[]}export{A as createContact,y as createOrganization,q as deleteContact,k as deleteOrganization,b as getAllOrganizationsForSelect,$ as getContact,C as getContacts,p as getCrmDashboardStats,_ as getOrganization,w as getOrganizations,T as importContacts,h as importOrganizations,O as updateContact,z as updateOrganization};
